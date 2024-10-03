@@ -42,11 +42,10 @@ As a data-driven finance professional, I leverage **SQL** to efficiently manage,
 - MySQL
 - SQL Server
 - SQLite
-- Cloud SQL Services (AWS RDS, Azure SQL Database)
 
 ---
 
-### 🐼 Pandas Expertise
+### 🐼 Data Analysis with Pandas and Python
 **Overview:**  
 **Pandas** is my go-to tool for data manipulation and analysis. I use it to handle everything from large datasets to financial time series data with ease and efficiency.
 
