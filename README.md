@@ -40,7 +40,6 @@ As a data-driven finance professional, I leverage **SQL** to efficiently manage,
 **Tools & Technologies:**
 - PostgreSQL
 - MySQL
-- SQL Server
 - SQLite
 
 ---
