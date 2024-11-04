@@ -123,7 +123,7 @@ I use **machine learning** to build models that can predict and classify financi
 
 ---
 
-## 🤳 Connect with me:
+##  📩 Connect with me:
 [<img align="left" alt="TeslimAdeyanju | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/ffffff" />](https://linkedin.com/in/adeyanjuteslimuthman)
 [<img align="left" alt="TeslimAdeyanju | GitHub" width="22px" src="https://cdn.simpleicons.org/github/ffffff" />](https://github.com/TeslimAdeyanju)
 
