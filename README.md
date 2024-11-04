@@ -13,9 +13,10 @@ Feel free to explore my projects, and let’s connect if you’re interested in 
 
 ---
 
-## 👨‍💻 Projects:
+## 🏠 Projects:
 
-### 📊 SQL Expertise
+
+### 🗂️ SQL Expertise
 **Overview:**  
 As a data-driven finance professional, I leverage **SQL** to efficiently manage, analyze, and transform large datasets. Whether it's building complex queries or optimizing database performance, **SQL** is a key tool in my analytics toolkit.
 
@@ -93,7 +94,7 @@ I use **machine learning** to build models that can predict and classify financi
 
 ---
 
-### 📈 R Expertise
+### 📚 Expertise
 **Overview:**  
 **R** is a powerful tool for statistical analysis, and I use it to conduct in-depth financial analyses, including hypothesis testing and linear regression.
 
@@ -108,7 +109,7 @@ I use **machine learning** to build models that can predict and classify financi
 
 ---
 
-### 📊 Power BI Expertise
+### 🏞️ Power BI Expertise
 **Overview:**  
 **Power BI** enables me to create interactive dashboards and reports that turn complex financial data into easy-to-understand visuals.
 
@@ -124,10 +125,10 @@ I use **machine learning** to build models that can predict and classify financi
 
 ---
 
-##  📩 Connect with me:
-[<img align="left" alt="TeslimAdeyanju | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/ffffff" />](https://linkedin.com/in/adeyanjuteslimuthman)
-[<img align="left" alt="TeslimAdeyanju | GitHub" width="22px" src="https://cdn.simpleicons.org/github/ffffff" />](https://github.com/TeslimAdeyanju)
+### 📬 **Get in Touch**
 
----
+I’m always excited to collaborate on data-driven projects, particularly those involving SQL analytics. Feel free to connect with me!
 
-Feel free to reach out to me on GitHub or LinkedIn for any questions or collaborations!
+📧 [info@adeyanjuteslim.co.uk](mailto:info@adeyanjuteslim.co.uk)  
+🌍 [adeyanjuteslim.co.uk](https://adeyanjuteslim.co.uk)  
+💼 [LinkedIn](https://www.linkedin.com/in/adeyanjuteslimuthman)
