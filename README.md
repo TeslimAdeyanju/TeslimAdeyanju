@@ -33,6 +33,7 @@ As a data-driven finance professional, I leverage **SQL** to efficiently manage,
 - SQL for Machine Learning: Preparing financial data in SQL for integration with machine learning algorithms.
 
 **Notable Projects:**
+- [My SQL Journey: From Fundamentals to Advanced Data Mastery](https://github.com/TeslimAdeyanju/My-SQL-Journey-From-Fundamentals-to-Advanced-Data-Mastery/tree/main?tab=readme-ov-file): Reflecting on my SQL journey from basic to advanced.
 - [Financial Data Modeling](https://github.com/TeslimAdeyanju/SQL-Project): Built a dynamic SQL database model to analyze financial performance across multiple business units.
 - [Cash Flow Optimization](https://github.com/TeslimAdeyanju/SQL-Project): Developed queries to track and optimize liquidity, improving cash flow management.
 - [Data Integrity Validation](https://github.com/TeslimAdeyanju/SQL-Project): Created SQL scripts for verifying and cleaning financial data before integration into analytics pipelines.
