@@ -73,9 +73,10 @@ I use **machine learning** to build models that can predict and classify financi
 - Hyperparameter Tuning: Optimizing models using techniques like grid search.
 
 **Notable Projects:**
+
+- [My Machine Learning Journey in Financial Data Analysis](https://github.com/TeslimAdeyanju/my-portfolio-ml-zoomcamp-2024-cohot): A comprehensive exploration of ML techniques.
 - [Stock Price Prediction](https://github.com/TeslimAdeyanju/ML-Project): Built a regression model to predict future stock prices based on historical data.
 - [Credit Risk Classification](https://github.com/TeslimAdeyanju/ML-Project): Developed a classification model to assess the risk of loan default.
-- [DataTalks.Club ML Zoomcamp](https://github.com/TeslimAdeyanju/DataTalks.Club-course-ml-zoomcamp): A comprehensive exploration of ML techniques.
 
 ---
 
