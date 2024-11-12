@@ -92,7 +92,7 @@ I use **machine learning** to build models that can predict and classify financi
 
 ---
 
-### 📚 Expertise
+### 📚 R Expertise
 **Overview:**  
 **R** is a powerful tool for statistical analysis, and I use it to conduct in-depth financial analyses, including hypothesis testing and linear regression.
 
