@@ -27,3 +27,4 @@ I’m **Teslim Uthman**, a finance and data analytics professional with over a d
   <img src="https://img.shields.io/badge/-Power_BI-F2C811?logo=Power-BI&logoColor=black" alt="Power BI" />
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeslimAdeyanju&show_icons=true&theme=radical)
