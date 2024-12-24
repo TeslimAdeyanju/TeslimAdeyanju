@@ -1,12 +1,10 @@
 # Hello, I'm Teslim!
 
-## **[Financial Data Analyst](https://github.com/TeslimAdeyanju) | [Chartered Accountant](https://www.linkedin.com/in/adeyanjuteslimuthman/) | [Investment & Financial Modeling Expert](https://www.linkedin.com/in/adeyanjuteslimuthman/)**
+## **[Financial Data Scientist](https://github.com/TeslimAdeyanju) | [Chartered Accountant](https://www.linkedin.com/in/adeyanjuteslimuthman/) | [Data-Driven Problem Solver](https://www.linkedin.com/in/adeyanjuteslimuthman/)**
 
 ### 👋 About Me 
 
 I’m **Teslim Uthman**, a finance and data analytics professional with over a decade of experience in **financial reporting, data analysis**, and **accounting**. I specialize in leveraging **SQL, Python, Machine Learning, Advanced Excel**, and **Power BI** to extract insights, optimize processes, and drive strategic decisions.
-
-My expertise includes building predictive models, streamlining data workflows, and creating dynamic dashboards to deliver actionable insights. My work spans **financial modeling**, **variance analysis**, and **KPI reporting**, with a focus on improving forecasting and decision-making.
 
 ---
 
