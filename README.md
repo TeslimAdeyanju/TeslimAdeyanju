@@ -7,14 +7,11 @@
 I’m **Teslim Uthman**, a finance and data analytics professional with expertise in **SQL, Python, Machine Learning, Advanced Excel**, and **Power BI**. I specialize in building predictive models, creating interactive dashboards, and driving data-driven financial decisions. My work focuses on delivering actionable insights through advanced analytics and automation.
 
 ----
-
 ### 🗂️ What I Do
 - 🤖 **Predictive Modeling**: Build machine learning models to solve financial challenges  
 - 📊 **Data Visualization**: Create dashboards and reports with Power BI and Python  
 - 💡 **SQL Expertise**: Analyze data, uncover insights, and optimize workflows  
 - 📈 **Automation**: Streamline financial processes with advanced tools and analytics  
-
-
 ---
 
 ### 🛠️ Languages and Tools:
