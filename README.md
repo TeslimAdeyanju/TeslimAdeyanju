@@ -31,6 +31,6 @@ I’m **Teslim Uthman**, a finance and data analytics professional with expertis
 
 ### 📚 GitHub Stats
 
-![Teslim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeslimAdeyanju&show_icons=true&theme=dark)
+![Teslim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeslimAdeyanju&show_icons=true&theme=radical)
 
 ---
