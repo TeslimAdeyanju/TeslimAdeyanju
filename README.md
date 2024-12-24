@@ -6,9 +6,19 @@
 
 I’m **Teslim Uthman**, a finance and data analytics professional with expertise in **SQL, Python, Machine Learning, Advanced Excel**, and **Power BI**. I specialize in building predictive models, creating interactive dashboards, and driving data-driven financial decisions. My work focuses on delivering actionable insights through advanced analytics and automation.
 
+----
+
+### 🗂️ What I Do
+- 🗂️ **Build Predictive Models**: Solve real-world financial challenges with machine learning
+- 📊 **Data Visualization**: Use Power BI and Python to craft intuitive dashboards and reports
+- 💡 **Treasury & Liquidity Analysis**: Provide insights into cash flows and risk management
+- 📈 **Data-Driven Decision Making**: Use SQL to uncover trends and actionable insights
+- 🤖 **SQL for Machine Learning**: Prepare, transform, and integrate data for machine learning projects
+
 ---
 
-### 🛠️ Skills & Tools
+### 🛠️ Languages and Tools:
+
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white" alt="SQL" />
@@ -19,12 +29,8 @@ I’m **Teslim Uthman**, a finance and data analytics professional with expertis
 
 ---
 
-### 📊 GitHub Stats
-![Teslim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeslimAdeyanju&show_icons=true&theme=radical)
+### 📚 GitHub Stats
+
+![Teslim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeslimAdeyanju&show_icons=true&theme=dark)
 
 ---
-
-### 📬 Connect With Me
-- **Email**: [info@adeyanjuteslim.co.uk](mailto:info@adeyanjuteslim.co.uk)  
-- **Portfolio**: [adeyanjuteslim.co.uk](https://adeyanjuteslim.co.uk)  
-- **LinkedIn**: [Teslim Uthman Adeyanju](https://www.linkedin.com/in/adeyanjuteslimuthman/)
