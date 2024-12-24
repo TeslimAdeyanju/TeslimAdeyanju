@@ -9,11 +9,11 @@ I’m **Teslim Uthman**, a finance and data analytics professional with expertis
 ----
 
 ### 🗂️ What I Do
-- 🗂️ **Build Predictive Models**: Solve real-world financial challenges with machine learning
-- 📊 **Data Visualization**: Use Power BI and Python to craft intuitive dashboards and reports
-- 💡 **Treasury & Liquidity Analysis**: Provide insights into cash flows and risk management
-- 📈 **Data-Driven Decision Making**: Use SQL to uncover trends and actionable insights
-- 🤖 **SQL for Machine Learning**: Prepare, transform, and integrate data for machine learning projects
+- 🤖 **Predictive Modeling**: Build machine learning models to solve financial challenges  
+- 📊 **Data Visualization**: Create dashboards and reports with Power BI and Python  
+- 💡 **SQL Expertise**: Analyze data, uncover insights, and optimize workflows  
+- 📈 **Automation**: Streamline financial processes with advanced tools and analytics  
+
 
 ---
 
