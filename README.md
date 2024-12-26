@@ -1,17 +1,15 @@
-# Hello, I'm Teslim!
 
-## **[Financial Data Scientist](https://github.com/TeslimAdeyanju) | [Chartered Accountant](https://www.linkedin.com/in/adeyanjuteslimuthman/) | [Data-Driven Problem Solver](https://www.linkedin.com/in/adeyanjuteslimuthman/)**
+<h1 align="center">Hi, I'm Teslim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-![](https://komarev.com/ghpvc/?username=TeslimAdeyanju)
-
+![](https://visitor-badge.laobi.icu/badge?page_id=TeslimAdeyanju.TeslimAdeyanju) [![Github](https://img.shields.io/github/followers/TeslimAdeyanju?label=Follow&style=social)](https://github.com/TeslimAdeyanju) [![dev.to badge](https://img.shields.io/badge/-TeslimAdeyanju-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/TeslimAdeyanju/) [![dev.to badge](https://img.shields.io/badge/-TeslimAdeyanju-%230177B5?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/13356730/TeslimAdeyanju) 
 
 
-### 👋 About Me
+### 😀 About Me
 
 I’m **Teslim Uthman**, a finance and data analytics professional with expertise in **SQL, Python, Machine Learning, Advanced Excel**, and **Power BI**. I specialize in building predictive models, creating interactive dashboards, and driving data-driven financial decisions. My work focuses on delivering actionable insights through advanced analytics and automation.
 
 ----
-### 🗂️ What I Do
+### 🎗️ What I Do
 - 🤖 **Predictive Modeling**: Build machine learning models to solve financial challenges  
 - 📊 **Data Visualization**: Create dashboards and reports with Power BI and Python  
 - 💡 **SQL Expertise**: Analyze data, uncover insights, and optimize workflows  
@@ -31,7 +29,10 @@ I’m **Teslim Uthman**, a finance and data analytics professional with expertis
 ---
 
 ### 📚 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeslimAdeyanju&hide=contribs,prs)
+<!-- <a href="https://www.input-fields.com/"> -->
+  <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=TeslimAdeyanju&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV -->
+  <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeslimAdeyanju&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&theme=graywhite" />
+<!-- </a> -->
 
 
 ---
