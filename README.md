@@ -1,12 +1,12 @@
-
 <h1 align="center">Hi, I'm Teslim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=TeslimAdeyanju.TeslimAdeyanju) [![Github](https://img.shields.io/github/followers/TeslimAdeyanju?label=Follow&style=social)](https://github.com/TeslimAdeyanju) [![dev.to badge](https://img.shields.io/badge/-TeslimAdeyanju-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/adeyanjuteslimuthman/) [![dev.to badge](https://img.shields.io/badge/-TeslimAdeyanju-%230177B5?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/22923896/teslim) 
 
-
 ### 😀 About Me
 
-I’m **Teslim Uthman**, a finance and data analytics professional with expertise in **SQL, Python, Machine Learning, Advanced Excel**, and **Power BI**. I specialize in building predictive models, creating interactive dashboards, and driving data-driven financial decisions. My work focuses on delivering actionable insights through advanced analytics and automation.
+I’m **Teslim Uthman**, a results-driven **Finance and Data Analytics Professional** with a proven track record in leveraging **SQL, Python, Machine Learning, Advanced Excel**, and **Power BI** to deliver impactful financial insights. My expertise lies in **transforming complex datasets into actionable strategies**, enabling organizations to make smarter, data-driven decisions.  
+
+I specialize in **building predictive models**, **designing interactive dashboards**, and **automating financial workflows**, with a mission to **streamline processes and enhance operational efficiency** through innovative analytics and technology.
 
 ----
 ### 🎗️ What I Do
@@ -14,7 +14,7 @@ I’m **Teslim Uthman**, a finance and data analytics professional with expertis
 - 📊 **Data Visualization**: Create dashboards and reports with Power BI and Python  
 - 💡 **SQL Expertise**: Analyze data, uncover insights, and optimize workflows  
 - 📈 **Automation**: Streamline financial processes with advanced tools and analytics  
----
+
 
 ### 🛠️ Languages and Tools:
 
@@ -33,6 +33,3 @@ I’m **Teslim Uthman**, a finance and data analytics professional with expertis
   <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=TeslimAdeyanju&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV -->
   <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeslimAdeyanju&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&theme=graywhite" />
 <!-- </a> -->
-
-
----
