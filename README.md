@@ -2,6 +2,10 @@
 
 ## **[Financial Data Scientist](https://github.com/TeslimAdeyanju) | [Chartered Accountant](https://www.linkedin.com/in/adeyanjuteslimuthman/) | [Data-Driven Problem Solver](https://www.linkedin.com/in/adeyanjuteslimuthman/)**
 
+![](https://komarev.com/ghpvc/?username=TeslimAdeyanju)
+
+
+
 ### 👋 About Me
 
 I’m **Teslim Uthman**, a finance and data analytics professional with expertise in **SQL, Python, Machine Learning, Advanced Excel**, and **Power BI**. I specialize in building predictive models, creating interactive dashboards, and driving data-driven financial decisions. My work focuses on delivering actionable insights through advanced analytics and automation.
@@ -27,7 +31,7 @@ I’m **Teslim Uthman**, a finance and data analytics professional with expertis
 ---
 
 ### 📚 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeslimAdeyanju&hide=contribs,prs)
 
-![Teslim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeslimAdeyanju&show_icons=true&theme=radical)
 
 ---
