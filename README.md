@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Teslim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=TeslimAdeyanju.TeslimAdeyanju) [![Github](https://img.shields.io/github/followers/TeslimAdeyanju?label=Follow&style=social)](https://github.com/TeslimAdeyanju) [![dev.to badge](https://img.shields.io/badge/-TeslimAdeyanju-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/adeyanjuteslimuthman/) [![dev.to badge](https://img.shields.io/badge/-TeslimAdeyanju-%230177B5?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/13356730/TeslimAdeyanju) 
+![](https://visitor-badge.laobi.icu/badge?page_id=TeslimAdeyanju.TeslimAdeyanju) [![Github](https://img.shields.io/github/followers/TeslimAdeyanju?label=Follow&style=social)](https://github.com/TeslimAdeyanju) [![dev.to badge](https://img.shields.io/badge/-TeslimAdeyanju-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/adeyanjuteslimuthman/) [![dev.to badge](https://img.shields.io/badge/-TeslimAdeyanju-%230177B5?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/22923896/teslim) 
 
 
 ### 😀 About Me
