@@ -13,6 +13,13 @@ I’m a **Chartered Accountant**, **Finance and Data Scientist Professional** wi
 - 💡 **SQL Expertise**: Analyze data, uncover insights, and optimize workflows  
 - 📈 **Automation**: Streamline financial processes with advanced tools and analytics  
 
+
+### 🚀 What I'm Learning
+- 🌱 Currently exploring Machine Learning for financial analytics.
+- 💻 Diving deeper into advanced SQL techniques.
+- 📚 Expanding expertise in Python libraries like Pandas and Scikit-learn.
+
+
 ----
 ### 🛠️ Languages and Tools:
 
@@ -25,6 +32,22 @@ I’m a **Chartered Accountant**, **Finance and Data Scientist Professional** wi
 </p>
 
 ---
+
+### 🛠️ Languages and Tools:
+
+### 🛠️ Languages and Tools:
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/><br>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px"/><br>SQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/><br>Git</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" width="50px"/><br>Excel</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" width="50px"/><br>Power BI</td>
+  </tr>
+</table>
+
+
 
 ### 🏆 GitHub Stats
 <!-- <a href="https://www.input-fields.com/"> -->
