@@ -7,24 +7,24 @@ I’m a **Chartered Accountant**, **Finance and Data Scientist Professional** wi
 
 ----
 ### 🎗️ What I Do
-- 📌 **Predictive Modeling**: Build machine learning models to solve financial challenges  
-- 📌 **Data Visualization**: Create dashboards and reports with Power BI and Python  
-- 📌 **SQL Expertise**: Analyze data, uncover insights, and optimize workflows  
-- 📌 **Automation**: Streamline financial processes with advanced tools and analytics  
-
+----
+### 🎗️ What I Do
+- 🤖 **Predictive Modeling**: Build machine learning models to solve financial challenges  
+- 📊 **Data Visualization**: Create dashboards and reports with Power BI and Python  
+- 🛠️ **SQL Expertise**: Analyze data, uncover insights, and optimize workflows  
+- ⚙️ **Automation**: Streamline financial processes with advanced tools and analytics  
 
 ### 🗓️ What I'm Learning
 - 🌱 Currently exploring Machine Learning for financial analytics.
 - 💻 Diving deeper into advanced SQL techniques.
 - 📚 Expanding expertise in Python libraries and ML.
 
-
 ----
 
 ### 🛠️ Featured Projects
-- [📊 Stock Market Analysis of Tech Giants Using Python:](https://github.com/TeslimAdeyanju/6-Portfolio-Exploring-Financial-Market-Trends-Analysis) An in-depth exploratory analysis of stock data for dynamic financial reporting and insights into market trends of major technology companies.
+- [📉 Stock Market Analysis of Tech Giants Using Python:](https://github.com/TeslimAdeyanju/6-Portfolio-Exploring-Financial-Market-Trends-Analysis) An in-depth exploratory analysis of stock data for dynamic financial reporting and insights into market trends of major technology companies.
  
-- [🤖 Predictive Model for Churn Analysis](https://github.com/TeslimAdeyanju/churn-prediction:) A logistic regression model designed to predict customer churn, deployed using Flask for seamless integration and real-world application.
+- [🤖 Predictive Model for Churn Analysis:](https://github.com/TeslimAdeyanju/5-Portfolio-Midterm-Sales-Forecasting-with-Logistic-Regression) A logistic regression model designed to predict customer churn, deployed using Flask for seamless integration and real-world application.
 
 ### 🛠️ Languages and Tools:
 <table>
@@ -47,11 +47,8 @@ ____
 
 ____
 
-🖐️ `"Data is the fuel of the modern world`, and I’m here to turn it into powerful insights!"
-Let’s connect! Feel free to reach out or explore my LinkedIn profile to collaborate and share ideas. 🚀
-
-
-
+🖐️ *"Data is the fuel of the modern world, and I’m here to turn it into powerful insights!"*  
+Let’s connect! Feel free to reach out or explore my [LinkedIn profile](https://www.linkedin.com/in/adeyanjuteslimuthman/) to collaborate and share ideas. 
 
 
 
