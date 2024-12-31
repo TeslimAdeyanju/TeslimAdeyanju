@@ -7,8 +7,6 @@ I’m a **Chartered Accountant**, **Finance and Data Scientist Professional** wi
 
 ----
 ### 🎗️ What I Do
-----
-### 🎗️ What I Do
 - 🤖 **Predictive Modeling**: Build machine learning models to solve financial challenges  
 - 📊 **Data Visualization**: Create dashboards and reports with Power BI and Python  
 - 🛠️ **SQL Expertise**: Analyze data, uncover insights, and optimize workflows  
