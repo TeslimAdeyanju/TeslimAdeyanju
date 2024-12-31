@@ -25,15 +25,18 @@ I’m a **Chartered Accountant**, **Finance and Data Scientist Professional** wi
 - [🤖 Predictive Model for Churn Analysis:](https://github.com/TeslimAdeyanju/5-Portfolio-Midterm-Sales-Forecasting-with-Logistic-Regression) A logistic regression model designed to predict customer churn, deployed using Flask for seamless integration and real-world application.
 
 ### 🛠️ Languages and Tools:
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/><br>Python</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40px"/><br>SQL</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/><br>Git</td>
-    <td align="center"><img src="https://img.icons8.com/color/40/000000/microsoft-excel-2019.png" width="40px"/><br>Excel</td>
-    <td align="center"><img src="https://img.icons8.com/color/40/000000/power-bi.png" width="40px"/><br>Power BI</td>
-  </tr>
-</table>
+### 🛠️ Languages and Tools:
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/><br>Python</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40px"/><br>SQL</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/><br>Git</td>
+      <td align="center"><img src="https://img.icons8.com/color/40/000000/microsoft-excel-2019.png" width="40px"/><br>Excel</td>
+      <td align="center"><img src="https://img.icons8.com/color/40/000000/power-bi.png" width="40px"/><br>Power BI</td>
+    </tr>
+  </table>
+</div>
 
 ____
 
