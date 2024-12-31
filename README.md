@@ -19,10 +19,11 @@ I’m a **Chartered Accountant**, **Finance and Data Scientist Professional** wi
 
 ----
 
-### 🛠️ Featured Projects
-- [📉 Stock Market Analysis of Tech Giants Using Python:](https://github.com/TeslimAdeyanju/6-Portfolio-Exploring-Financial-Market-Trends-Analysis) An in-depth exploratory analysis of stock data for dynamic financial reporting and insights into market trends of major technology companies.
- 
-- [🤖 Predictive Model for Churn Analysis:](https://github.com/TeslimAdeyanju/5-Portfolio-Midterm-Sales-Forecasting-with-Logistic-Regression) A logistic regression model designed to predict customer churn, deployed using Flask for seamless integration and real-world application.
+### 🖇️ Featured Projects
+- 📉 [Stock Market Analysis of Tech Giants Using Python:](https://github.com/TeslimAdeyanju/6-Portfolio-Exploring-Financial-Market-Trends-Analysis) Explores stock market trends and provides dynamic financial insights  
+- 🤖 [Predictive Model for Churn Analysis:](https://github.com/TeslimAdeyanju/5-Portfolio-Midterm-Sales-Forecasting-with-Logistic-Regression) A logistic regression model to predict customer churn, deployed with Flask for real-world use.  
+- 🗓️ [My SQL Journey: From Fundamentals to Advanced Data Mastery:](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery) Showcases SQL skills for practical data analysis. 
+
 
 ### 🛠️ Languages and Tools:
 <div align="center">
@@ -49,6 +50,7 @@ ____
 
 🖐️ *"Data is the fuel of the modern world, and I’m here to turn it into powerful insights!"*  
 Let’s connect! Feel free to reach out or explore my [LinkedIn profile](https://www.linkedin.com/in/adeyanjuteslimuthman/) to collaborate and share ideas. 
+
 
 
 
