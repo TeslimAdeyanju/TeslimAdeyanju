@@ -22,32 +22,26 @@ I’m a **Chartered Accountant**, **Finance and Data Scientist Professional** wi
 
 ----
 ### 🛠️ Languages and Tools:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-Advanced_Excel-217346?logo=microsoft-excel&logoColor=white" alt="Advanced Excel" />
-  <img src="https://img.shields.io/badge/-Power_BI-F2C811?logo=Power-BI&logoColor=black" alt="Power BI" />
-</p>
-
----
-
-### 🛠️ Languages and Tools:
-
-### 🛠️ Languages and Tools:
-
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/><br>Python</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px"/><br>SQL</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/><br>Git</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" width="50px"/><br>Excel</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" width="50px"/><br>Power BI</td>
+    <td align="center"><img src="https://img.icons8.com/color/50/000000/microsoft-excel-2019.png" width="50px"/><br>Excel</td>
+    <td align="center"><img src="https://img.icons8.com/color/50/000000/power-bi.png" width="50px"/><br>Power BI</td>
   </tr>
 </table>
 
+____
 
+### 🏆 GitHub Stats
+<p align="center">
+  <img height="137.3px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?theme=default" alt="GitHub Profile Summary"/>
+  <img height="137.3px" src="https://github-readme-streak-stats.herokuapp.com/?theme=default" alt="GitHub Streak"/>
+</p>
+
+
+___
 
 ### 🏆 GitHub Stats
 <!-- <a href="https://www.input-fields.com/"> -->
