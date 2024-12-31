@@ -21,7 +21,7 @@ I’m a **Chartered Accountant**, **Finance and Data Scientist Professional** wi
 
 ### 🖇️ Featured Projects
 - 📉 [Stock Market Analysis of Tech Giants Using Python:](https://github.com/TeslimAdeyanju/6-Portfolio-Exploring-Financial-Market-Trends-Analysis) Explores stock market trends and provides dynamic financial insights  
-- 🤖 [Predictive Model for Churn Analysis:](https://github.com/TeslimAdeyanju/5-Portfolio-Midterm-Sales-Forecasting-with-Logistic-Regression) A logistic regression model to predict customer churn, deployed with Flask for real-world use.  
+- 🤖 [Predictive Model for Churn Analysis:](https://github.com/TeslimAdeyanju/5-Portfolio-Midterm-Sales-Forecasting-with-Logistic-Regression) ML model to predict customer churn, deployed with Flask for real-world use.  
 - 🗓️ [My SQL Journey: From Fundamentals to Advanced Data Mastery:](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery) Showcases SQL skills for practical data analysis. 
 
 
