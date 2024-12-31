@@ -25,7 +25,6 @@ I’m a **Chartered Accountant**, **Finance and Data Scientist Professional** wi
 - [🤖 Predictive Model for Churn Analysis:](https://github.com/TeslimAdeyanju/5-Portfolio-Midterm-Sales-Forecasting-with-Logistic-Regression) A logistic regression model designed to predict customer churn, deployed using Flask for seamless integration and real-world application.
 
 ### 🛠️ Languages and Tools:
-### 🛠️ Languages and Tools:
 <div align="center">
   <table>
     <tr>
