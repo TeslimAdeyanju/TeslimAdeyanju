@@ -3,7 +3,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=TeslimAdeyanju.TeslimAdeyanju) [![Github](https://img.shields.io/github/followers/TeslimAdeyanju?label=Follow&style=social)](https://github.com/TeslimAdeyanju) [![dev.to badge](https://img.shields.io/badge/-TeslimAdeyanju-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/adeyanjuteslimuthman/) [![dev.to badge](https://img.shields.io/badge/-TeslimAdeyanju-%230177B5?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/22923896/teslim) 
 
 ### 😀 About Me
-I’m a **Chartered Accountant**, **Finance and Data Scientist Professional** with a strong background in **SQL**, **Python**, **Machine Learning**, **Advanced Excel**, and **Power BI**. I specialize in turning complex data into clear, **actionable insights**, helping organizations make smarter, **data-driven decisions**.
+I’m a **Chartered Accountant**, **Xero Advisor Certified**,  **Finance and Data Scientist Professional** with a strong background in **SQL**, **Python**, **Machine Learning**, **Advanced Excel**, and **Power BI**. I specialize in turning complex data into clear, **actionable insights**, helping organizations make smarter, **data-driven decisions**.
 
 ----
 ### 🎗️ What I Do
