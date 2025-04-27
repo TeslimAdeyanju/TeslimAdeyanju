@@ -1,36 +1,37 @@
 <h1 align="center">Hi, I'm Teslim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
+<h3 align="center">🧠 Financial Data Analyst | Chartered Accountant | Turning Financial Data into Strategic Insights</h3>
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=TeslimAdeyanju.TeslimAdeyanju) [![Github](https://img.shields.io/github/followers/TeslimAdeyanju?label=Follow&style=social)](https://github.com/TeslimAdeyanju) [![LinkedIn Badge](https://img.shields.io/badge/-TeslimAdeyanju-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/adeyanjuteslimuthman/) [![StackOverflow Badge](https://img.shields.io/badge/-TeslimAdeyanju-%23FE7A16?style=flat&logo=stack-overflow)](https://stackoverflow.com/users/22923896/teslim)
 
 ---
 
-### 😀 About Me
+### 🔍 About Me
 
-I'm **Teslim Uthman Adeyanju** — a **Chartered Accountant**, **Certified Xero Advisor**, and **Financial Data Analyst** blending finance, accounting, and data science to drive smarter, data-driven decisions.
+I am a **Financial Data Analyst** and a **Chartered Accountant**, helping businesses turn complex financial data into clear, strategic insights.  
+I combine expertise in **finance, accounting, and data science** to support smarter decision-making, enhance reporting accuracy, optimize financial operations, and drive business growth.
 
-With over a decade of experience across the UK and international markets, I specialize in transforming complex financial and operational data into clear, actionable insights that improve forecasting, optimize reporting, and enhance strategic decision-making.
-
-I leverage **SQL**, **Python**, **R**, **Machine Learning**, **Power BI**, and **Advanced Excel** to bridge the gap between finance and technology.
-
----
-
-### 🖐️ What I Do
-
-- 📈 **Financial Data Analytics & Modeling**: Budgeting, forecasting, scenario analysis
-- 🧠 **Machine Learning Applications**: Customer churn prediction, anomaly detection, revenue forecasting
-- 🛠️ **Automation & Workflow Optimization**: Using SQL, Python scripting, and Excel Power Query
-- 📊 **Data Visualization**: Interactive dashboards and executive reports with Power BI
-- ✅ **Accounting & Compliance**: Financial statement preparation (SoFP, SoPL, Cash Flow), VAT, MTD, HMRC regulations
+With over a decade of experience across the UK and international markets, I specialize in applying **SQL, Python, R, Machine Learning, Power BI, and Advanced Excel** to solve real-world financial challenges.
 
 ---
 
-### 🔥 Professional Highlights
+### 🎯 What I Do
 
-- 📊 Boosted financial reporting accuracy by **30%** through advanced reconciliations and data validation
-- 💵 Reduced overdue receivables by **25%**, improving liquidity and cash flow management
-- 🤖 Enhanced forecasting accuracy with machine learning integration
-- 📊 Designed real-time dashboards enabling proactive decision-making
-- ⚙️ Automated financial workflows, reducing reporting workload by **30–40%**
+- 📈 **Financial Data Analysis & Modeling**: Building dynamic budgeting, scenario planning, and forecasting models
+- 📊 **Predictive Analytics**: Using machine learning for churn prediction, anomaly detection, and revenue forecasting
+- ⚙️ **Automation & Systems Optimization**: Streamlining financial workflows with SQL, Python, and Excel Power Query
+- 📑 **Accounting Compliance**: Preparing financial reports under UK GAAP and IFRS, VAT and HMRC submissions
+- 📊 **Data Visualization**: Designing interactive dashboards in Power BI to support strategic decisions
+
+---
+
+### 🌟 Professional Highlights
+
+- Improved financial reporting accuracy by **30%** through reconciliation and validation
+- Reduced overdue receivables by **25%**, improving liquidity and cash flow visibility
+- Enhanced forecasting accuracy using machine learning models
+- Designed real-time dashboards to enable proactive executive decision-making
+- Automated reporting workflows, reducing workload by **30–40%**
 
 ---
 
@@ -38,22 +39,22 @@ I leverage **SQL**, **Python**, **R**, **Machine Learning**, **Power BI**, and *
 
 | Accounting & ERP | Visualization & Modeling | Programming & Data Science |
 | :--------------- | :------------------------ | :------------------------- |
-| Xero · Sage 50 · Business Central | Power BI · Excel (Power Query, PivotTables) | Python · R · scikit-learn · pandas · SQL · Jupyter · GitHub · Docker |
+| Xero · Sage 50 · Business Central | Power BI · Excel (Power Query, PivotTables, What-If Analysis) | Python · R · scikit-learn · pandas · SQL · Jupyter · GitHub · Docker |
 
 ---
 
 ### 📚 Education
 
-🎓 MSc Finance and Investment Banking (Distinction) — University of Hertfordshire, UK  
-Graduated top 5% | Focus: Quantitative Finance, Investment Analysis, Financial Modeling
+🎓 MSc in Finance and Investment Banking (Distinction) — University of Hertfordshire, UK  
+Graduated in the top 10% | Focus: Quantitative Finance, Financial Modeling, Investment Analysis
 
 ---
 
 ### 🖇️ Featured Projects
 
-- 📉 [Stock Market Analysis of Tech Giants](https://github.com/TeslimAdeyanju/6-Portfolio-Exploring-Financial-Market-Trends-Analysis): Analyzing market trends and financial performance using Python
-- 🤖 [Predictive Churn Model Deployment](https://github.com/TeslimAdeyanju/5-Portfolio-Midterm-Sales-Forecasting-with-Logistic-Regression): Logistic regression model for customer churn, deployed via Flask
-- 📈 [SQL Mastery Journey](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery): Practical examples showcasing SQL skills and optimization techniques
+- 📈 [Stock Market Analysis of Tech Giants](https://github.com/TeslimAdeyanju/6-Portfolio-Exploring-Financial-Market-Trends-Analysis): Analyzing market trends and financial performance using Python
+- 🤖 [Predictive Churn Model Deployment](https://github.com/TeslimAdeyanju/5-Portfolio-Midterm-Sales-Forecasting-with-Logistic-Regression): Logistic regression model predicting customer churn, deployed with Flask
+- 🗄️ [SQL Mastery Journey](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery): Practical SQL project covering data extraction, transformation, and analysis
 
 ---
 
@@ -82,15 +83,9 @@ Graduated top 5% | Focus: Quantitative Finance, Investment Analysis, Financial M
 
 ---
 
-🖐️ *"Data is the fuel of the modern world — and I’m here to turn it into powerful, actionable insights!"*  
+🖐️ *"Data is the fuel of the modern world — and I’m here to turn financial data into clear, powerful business insights!"*  
 
-If you're looking for a versatile finance professional who combines deep accounting expertise, advanced analytical skills, and strategic insight, I’d welcome the opportunity to discuss how I can support your organization’s financial goals.    
-
-📬 [info@adeyanjuteslim.co.uk](mailto:info@adeyanjuteslim.co.uk)  
+📬 Contact me: [info@adeyanjuteslim.co.uk](mailto:info@adeyanjuteslim.co.uk)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/adeyanjuteslimuthman/)  
 💼 [GitHub Portfolio](https://github.com/TeslimAdeyanju)
-
-
-
-
 
