@@ -14,7 +14,7 @@ I leverage **SQL**, **Python**, **R**, **Machine Learning**, **Power BI**, and *
 
 ---
 
-### 🎯 What I Do
+### 🖐️ What I Do
 
 - 📈 **Financial Data Analytics & Modeling**: Budgeting, forecasting, scenario analysis
 - 🧠 **Machine Learning Applications**: Customer churn prediction, anomaly detection, revenue forecasting
@@ -45,7 +45,7 @@ I leverage **SQL**, **Python**, **R**, **Machine Learning**, **Power BI**, and *
 ### 📚 Education
 
 🎓 MSc Finance and Investment Banking (Distinction) — University of Hertfordshire, UK  
-Graduated top 10% | Focus: Quantitative Finance, Investment Analysis, Financial Modeling
+Graduated top 5% | Focus: Quantitative Finance, Investment Analysis, Financial Modeling
 
 ---
 
