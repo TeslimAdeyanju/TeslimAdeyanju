@@ -1,31 +1,64 @@
 <h1 align="center">Hi, I'm Teslim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=TeslimAdeyanju.TeslimAdeyanju) [![Github](https://img.shields.io/github/followers/TeslimAdeyanju?label=Follow&style=social)](https://github.com/TeslimAdeyanju) [![dev.to badge](https://img.shields.io/badge/-TeslimAdeyanju-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/adeyanjuteslimuthman/) [![dev.to badge](https://img.shields.io/badge/-TeslimAdeyanju-%230177B5?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/22923896/teslim) 
+![](https://visitor-badge.laobi.icu/badge?page_id=TeslimAdeyanju.TeslimAdeyanju) [![Github](https://img.shields.io/github/followers/TeslimAdeyanju?label=Follow&style=social)](https://github.com/TeslimAdeyanju) [![LinkedIn Badge](https://img.shields.io/badge/-TeslimAdeyanju-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/adeyanjuteslimuthman/) [![StackOverflow Badge](https://img.shields.io/badge/-TeslimAdeyanju-%23FE7A16?style=flat&logo=stack-overflow)](https://stackoverflow.com/users/22923896/teslim)
+
+---
 
 ### 😀 About Me
-I’m a **Chartered Accountant**, **Xero Advisor Certified**,  **Finance and Data Scientist Professional** with a strong background in **SQL**, **Python**, **Machine Learning**, **Advanced Excel**, and **Power BI**. I specialize in turning complex data into clear, **actionable insights**, helping organizations make smarter, **data-driven decisions**.
 
-----
-### 🎗️ What I Do
-- 🤖 **Predictive Modeling**: Build machine learning models to solve financial challenges  
-- 📊 **Data Visualization**: Create dashboards and reports with Power BI and Python  
-- 🛠️ **SQL Expertise**: Analyze data, uncover insights, and optimize workflows  
-- ⚙️ **Automation**: Streamline financial processes with advanced tools and analytics  
+I'm **Teslim Uthman Adeyanju** — a **Chartered Accountant**, **Certified Xero Advisor**, and **Financial Data Analyst** blending finance, accounting, and data science to drive smarter, data-driven decisions.
 
-### 🗓️ What I'm Learning
-- 🌱 Currently exploring Machine Learning for financial analytics.
-- 💻 Diving deeper into advanced SQL techniques.
-- 📚 Expanding expertise in Python libraries and ML.
+With over a decade of experience across the UK and international markets, I specialize in transforming complex financial and operational data into clear, actionable insights that improve forecasting, optimize reporting, and enhance strategic decision-making.
 
-----
+I leverage **SQL**, **Python**, **R**, **Machine Learning**, **Power BI**, and **Advanced Excel** to bridge the gap between finance and technology.
+
+---
+
+### 🎯 What I Do
+
+- 📈 **Financial Data Analytics & Modeling**: Budgeting, forecasting, scenario analysis
+- 🧠 **Machine Learning Applications**: Customer churn prediction, anomaly detection, revenue forecasting
+- 🛠️ **Automation & Workflow Optimization**: Using SQL, Python scripting, and Excel Power Query
+- 📊 **Data Visualization**: Interactive dashboards and executive reports with Power BI
+- ✅ **Accounting & Compliance**: Financial statement preparation (SoFP, SoPL, Cash Flow), VAT, MTD, HMRC regulations
+
+---
+
+### 🔥 Professional Highlights
+
+- 📊 Boosted financial reporting accuracy by **30%** through advanced reconciliations and data validation
+- 💵 Reduced overdue receivables by **25%**, improving liquidity and cash flow management
+- 🤖 Enhanced forecasting accuracy with machine learning integration
+- 📊 Designed real-time dashboards enabling proactive decision-making
+- ⚙️ Automated financial workflows, reducing reporting workload by **30–40%**
+
+---
+
+### 🛠️ Tools and Technologies
+
+| Accounting & ERP | Visualization & Modeling | Programming & Data Science |
+| :--------------- | :------------------------ | :------------------------- |
+| Xero · Sage 50 · Business Central | Power BI · Excel (Power Query, PivotTables) | Python · R · scikit-learn · pandas · SQL · Jupyter · GitHub · Docker |
+
+---
+
+### 📚 Education
+
+🎓 MSc Finance and Investment Banking (Distinction) — University of Hertfordshire, UK  
+Graduated top 10% | Focus: Quantitative Finance, Investment Analysis, Financial Modeling
+
+---
 
 ### 🖇️ Featured Projects
-- 📉 [Stock Market Analysis of Tech Giants Using Python:](https://github.com/TeslimAdeyanju/6-Portfolio-Exploring-Financial-Market-Trends-Analysis) Explores stock market trends and provides dynamic financial insights  
-- 🤖 [Predictive Model for Churn Analysis:](https://github.com/TeslimAdeyanju/5-Portfolio-Midterm-Sales-Forecasting-with-Logistic-Regression) ML model to predict customer churn, deployed with Flask for real-world use.  
-- 🗓️ [My SQL Journey: From Fundamentals to Advanced Data Mastery:](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery) Showcases SQL skills for practical data analysis. 
 
+- 📉 [Stock Market Analysis of Tech Giants](https://github.com/TeslimAdeyanju/6-Portfolio-Exploring-Financial-Market-Trends-Analysis): Analyzing market trends and financial performance using Python
+- 🤖 [Predictive Churn Model Deployment](https://github.com/TeslimAdeyanju/5-Portfolio-Midterm-Sales-Forecasting-with-Logistic-Regression): Logistic regression model for customer churn, deployed via Flask
+- 📈 [SQL Mastery Journey](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery): Practical examples showcasing SQL skills and optimization techniques
 
-### 🛠️ Languages and Tools:
+---
+
+### 🛠️ Languages and Tools
+
 <div align="center">
   <table>
     <tr>
@@ -38,7 +71,7 @@ I’m a **Chartered Accountant**, **Xero Advisor Certified**,  **Finance and Dat
   </table>
 </div>
 
-____
+---
 
 ### 🏆 GitHub Stats
 
@@ -47,11 +80,11 @@ ____
   <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeslimAdeyanju&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&theme=graywhite" />
 </p>
 
-____
+---
 
-🖐️ *"Data is the fuel of the modern world, and I’m here to turn it into powerful insights!"*  
-Let’s connect! Feel free to reach out or explore my [LinkedIn profile](https://www.linkedin.com/in/adeyanjuteslimuthman/) to collaborate and share ideas. 
+🖐️ *"Data is the fuel of the modern world — and I’m here to turn it into powerful, actionable insights!"*  
 
-
-
+📬 Let's connect: [info@adeyanjuteslim.co.uk](mailto:info@adeyanjuteslim.co.uk)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/adeyanjuteslimuthman/)  
+💼 [GitHub Portfolio](https://github.com/TeslimAdeyanju)
 
