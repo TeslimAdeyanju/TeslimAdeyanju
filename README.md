@@ -84,7 +84,13 @@ Graduated top 5% | Focus: Quantitative Finance, Investment Analysis, Financial M
 
 🖐️ *"Data is the fuel of the modern world — and I’m here to turn it into powerful, actionable insights!"*  
 
-📬 Let's connect: [info@adeyanjuteslim.co.uk](mailto:info@adeyanjuteslim.co.uk)  
+If you're looking for a versatile finance professional who combines deep accounting expertise, advanced analytical skills, and strategic insight, I’d welcome the opportunity to discuss how I can support your organization’s financial goals.    
+
+📬 [info@adeyanjuteslim.co.uk](mailto:info@adeyanjuteslim.co.uk)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/adeyanjuteslimuthman/)  
 💼 [GitHub Portfolio](https://github.com/TeslimAdeyanju)
+
+
+
+
 
