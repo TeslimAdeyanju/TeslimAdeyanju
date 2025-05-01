@@ -51,7 +51,7 @@ Graduated in the top 10% | Focus: Quantitative Finance, Financial Modeling, Inve
 
 ### 🖇️ Featured Projects
 
-- 📈 [Stock Market Analysis of Tech Giants](https://github.com/TeslimAdeyanju/6-Portfolio-Exploring-Financial-Market-Trends-Analysis): Analyzing market trends and financial performance using Python
+- 📈 [Price Prediction Analysis: Diamond ](https://github.com/TeslimAdeyanju/4-Portfolio-SDS-CP023-diamond-price-predictor/blob/main/submissions-team/teslim-adeyanju/DIAMOND-PRICE-PREDICTION.ipynb): Analyzing Diamond price trends performance using Python
 - 🤖 [Predictive Churn Model Deployment](https://github.com/TeslimAdeyanju/5-Portfolio-Midterm-Sales-Forecasting-with-Logistic-Regression): Logistic regression model predicting customer churn, deployed with Flask
 - 🗄️ [SQL Mastery Journey](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery): Practical SQL project covering data extraction, transformation, and analysis
 
