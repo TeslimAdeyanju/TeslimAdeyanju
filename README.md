@@ -16,11 +16,11 @@ With over a decade of experience across the UK and international markets, I spec
 
 ### 🎯 What I Do
 
-- 📈 **Financial Data Analysis & Modeling**: Building dynamic budgeting, scenario planning, and forecasting models
-- 📊 **Predictive Analytics**: Using machine learning for churn prediction, anomaly detection, and revenue forecasting
-- ⚙️ **Automation & Systems Optimization**: Streamlining financial workflows with SQL, Python, and Excel Power Query
-- 📑 **Accounting Compliance**: Preparing financial reports under UK GAAP and IFRS, VAT and HMRC submissions
-- 📊 **Data Visualization**: Designing interactive dashboards in Power BI to support strategic decisions
+- 📚 **Financial Data Analysis & Modeling**: Building dynamic budgeting, scenario planning, and forecasting models
+- 📚 **Predictive Analytics**: Using machine learning for churn prediction, anomaly detection, and revenue forecasting
+- 📚 **Automation & Systems Optimization**: Streamlining financial workflows with SQL, Python, and Excel Power Query
+- 📚 **Accounting Compliance**: Preparing financial reports under UK GAAP and IFRS, VAT and HMRC submissions
+- 📚 **Data Visualization**: Designing interactive dashboards in Power BI to support strategic decisions
 
 ---
 
