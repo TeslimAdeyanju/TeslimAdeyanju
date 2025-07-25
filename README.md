@@ -156,9 +156,15 @@ _"Bridging the gap between traditional finance and modern data science to create
 ## 📊 WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TeslimAdeyanju&theme=radical&hide_border=true" />
-</div>
+
+```txt
+From: 17 July 2025 - To: 24 July 2025
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
