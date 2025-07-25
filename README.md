@@ -17,7 +17,7 @@
 
 ## 🔍 About Me
 
-I’m a **Financial Data Analyst** and **Chartered Accountant ** with over a decade of experience helping organisations make sense of their financial data and turn it into strategic action. My work sits at the crossroads of **finance, accounting, and data science**, where I bring numbers to life and uncover insights that drive better business decisions.
+I’m a **Financial Data Analyst** and **Chartered Accountant** with over a decade of experience helping organisations make sense of their financial data and turn it into strategic action. My work sits at the crossroads of **finance, accounting, and data science**, where I bring numbers to life and uncover insights that drive better business decisions.
 
 I specialise in using tools like **SQL, Python, R, Machine Learning, Power BI, and Advanced Excel** to analyse performance, streamline reporting, and build forward-looking models that support forecasting, risk assessment, and investment planning. From working with UK-based firms to international organisations, I’ve helped teams modernise traditional finance functions, reduce manual workload, and deliver insights that improve both financial control and commercial impact.
 
