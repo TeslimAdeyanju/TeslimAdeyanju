@@ -126,7 +126,7 @@ To bridge the gap between traditional finance and modern data science—creating
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" title="Power BI" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="40" title="Excel" />&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" title="Tableau" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/plotly.svg" width="40" title="Plotly" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(93deg) brightness(103%) contrast(103%);" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" title="Seaborn" />
 </p>
 
 
@@ -143,10 +143,11 @@ To bridge the gap between traditional finance and modern data science—creating
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" style="filter: invert(100%) brightness(200%);" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
 </p>
+
 
 </div>
 
