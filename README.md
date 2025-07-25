@@ -2,17 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Avenir&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Teslim+Adeyanju;Financial+Data+Analyst!+🧙‍♂️" />
 </h1>
 
-
-  <h3> Financial Data Analyst | Chartered Accountant | Turning Financial Data into Strategic Insights</h3>
-</div>
+### <div align="center"><b>Financial Data Analyst | Chartered Accountant | Turning Financial Data into Strategic Insights</b></div>
 
 <div align="center">
-
-  [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TeslimAdeyanju.TeslimAdeyanju&style=for-the-badge)](https://github.com/TeslimAdeyanju)
-  [![Github](https://img.shields.io/github/followers/TeslimAdeyanju?label=Follow&style=for-the-badge&logo=github&color=blue)](https://github.com/TeslimAdeyanju)
-  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeyanjuteslimuthman/)
-  [![StackOverflow Badge](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22923896/teslim)
-  [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:info@adeyanjuteslim.co.uk)
+  
+![Visitor Badge](https://komarev.com/ghpvc/?username=TeslimAdeyanju&style=for-the-badge&color=blue&label=Profile+Views)
+[![Github](https://img.shields.io/github/followers/TeslimAdeyanju?label=Follow&style=for-the-badge&logo=github&color=blue)](https://github.com/TeslimAdeyanju)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeyanjuteslimuthman/)
+[![StackOverflow Badge](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22923896/teslim)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:info@adeyanjuteslim.co.uk)
 
 </div>
 
