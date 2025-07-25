@@ -2,8 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Avenir&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Teslim+Adeyanju;Financial+Data+Analyst!+🧙‍♂️" />
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
   <h3> Financial Data Analyst | Chartered Accountant | Turning Financial Data into Strategic Insights</h3>
 </div>
 
