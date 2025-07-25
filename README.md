@@ -65,9 +65,9 @@ To bridge the gap between traditional finance and modern data science—creating
 
 |       🎯 **Metric**        | 📊 **Improvement** |       💼 **Business Impact**        |
 | :------------------------: | :----------------: | :---------------------------------: |
-|   **Reporting Accuracy**   |       ⬆️ 30%       | Enhanced decision-making confidence |
+| **Reporting Accuracy**   |      ⬆️ 30%       | Enhanced decision-making confidence |
 | **Receivables Management** |   ⬇️ 25% overdue   |   Improved cash flow & liquidity    |
-|   **Process Efficiency**   | ⬇️ 40% manual work | Cost reduction & productivity gains |
+| **Process Efficiency**   | ⬇️ 40% manual work | Cost reduction & productivity gains |
 | **Forecasting Precision**  |  ⬆️ 35% accuracy   |      Better strategic planning      |
 | **Data Processing Speed**  |    ⬇️ 60% time     |      Faster insights delivery       |
 
