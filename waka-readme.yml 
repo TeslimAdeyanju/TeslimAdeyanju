@@ -10,7 +10,12 @@ jobs:
   update-readme:
     name: Update Readme with WakaTime Stats
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: read
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
