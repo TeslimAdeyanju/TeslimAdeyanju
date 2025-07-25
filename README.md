@@ -59,19 +59,49 @@ To bridge the gap between traditional finance and modern data science—creating
 
 ---
 
-## 🌟 Professional Impact & Achievements
+##  💎 Professional Impact & Achievements
 
 <div align="center">
 
-|       🎯 **Metric**        | 📊 **Improvement** |       💼 **Business Impact**        |
-| :------------------------: | :----------------: | :---------------------------------: |
-| **Reporting Accuracy**   |      ⬆️ 30%       | Enhanced decision-making confidence |
-| **Receivables Management** |   ⬇️ 25% overdue   |   Improved cash flow & liquidity    |
-| **Process Efficiency**   | ⬇️ 40% manual work | Cost reduction & productivity gains |
-| **Forecasting Precision**  |  ⬆️ 35% accuracy   |      Better strategic planning      |
-| **Data Processing Speed**  |    ⬇️ 60% time     |      Faster insights delivery       |
+<table>
+  <thead>
+    <tr>
+      <th align="left">🎯 <strong>Metric</strong></th>
+      <th align="left">📊 <strong>Improvement</strong></th>
+      <th align="left">💼 <strong>Business Impact</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Reporting Accuracy</strong></td>
+      <td><span style="color:green;">🔼 30%</span></td>
+      <td>Improved reliability and confidence in decision-making</td>
+    </tr>
+    <tr>
+      <td><strong>Receivables Management</strong></td>
+      <td><span style="color:red;">🔽 25% overdue</span></td>
+      <td>Strengthened cash flow and enhanced liquidity control</td>
+    </tr>
+    <tr>
+      <td><strong>Process Efficiency</strong></td>
+      <td><span style="color:red;">🔽 40% manual work</span></td>
+      <td>Saved time and reduced operational costs</td>
+    </tr>
+    <tr>
+      <td><strong>Forecasting Precision</strong></td>
+      <td><span style="color:green;">🔼 35% accuracy</span></td>
+      <td>Supported proactive planning and budgeting</td>
+    </tr>
+    <tr>
+      <td><strong>Data Processing Speed</strong></td>
+      <td><span style="color:red;">🔽 60% time</span></td>
+      <td>Enabled faster reporting and insight delivery</td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
+
 
 ---
 
