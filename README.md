@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  <h3>🧠 Financial Data Analyst | 📊 Chartered Accountant | 🚀 Turning Financial Data into Strategic Insights</h3>
+  <h3> Financial Data Analyst | Chartered Accountant | Turning Financial Data into Strategic Insights</h3>
 </div>
 
 <div align="center">
@@ -18,21 +18,22 @@
 </div>
 
 
----
-
-
 ## 🔍 About Me
 
-I am a **Financial Data Analyst** and a **Chartered Accountant**, helping businesses turn complex financial data into clear, strategic insights. I combine expertise in **finance, accounting, and data science** to support smarter decision-making, enhance reporting accuracy, optimize financial operations, and drive business growth.
+I’m a **Financial Data Analyst** and **Chartered Accountant ** with over a decade of experience helping organisations make sense of their financial data and turn it into strategic action. My work sits at the crossroads of **finance, accounting, and data science**, where I bring numbers to life and uncover insights that drive better business decisions.
 
-With over a decade of experience across the UK and international markets, I specialize in applying **SQL, Python, R, Machine Learning, Power BI, and Advanced Excel** to solve real-world financial challenges.
+I specialise in using tools like **SQL, Python, R, Machine Learning, Power BI, and Advanced Excel** to analyse performance, streamline reporting, and build forward-looking models that support forecasting, risk assessment, and investment planning. From working with UK-based firms to international organisations, I’ve helped teams modernise traditional finance functions, reduce manual workload, and deliver insights that improve both financial control and commercial impact.
+
+I combine deep financial knowledge with technical skills to build systems that are not only accurate and compliant with UK GAAP and IFRS, but also intelligent, adaptable, and aligned with business goals.
+
 ### 💡 My Mission
 
-"Bridging the gap between traditional finance and modern data science to create smarter, more efficient financial ecosystems"
+To bridge the gap between traditional finance and modern data science—creating smarter, faster, and more efficient financial ecosystems that empower confident decision-making.
+
 
 ---
 
-## 🎯 Core Expertise & Services
+## 🧠 Core Expertise & Services
 
 <table>
 <tr>
