@@ -40,20 +40,20 @@ With over a decade of experience across the UK and international markets, I spec
 
 ### 📈 **Financial Analytics & Intelligence**
 
-- 🔮 **Predictive Modeling**: Machine learning for revenue forecasting & risk assessment
-- 📊 **Advanced Financial Modeling**: Dynamic budgeting, scenario planning & sensitivity analysis
-- 🎯 **Performance Analytics**: KPI tracking, variance analysis & profitability optimization
-- 🔍 **Anomaly Detection**: Automated fraud detection & financial irregularity identification
+-  **Predictive Modeling**: Machine learning for revenue forecasting & risk assessment
+- **Advanced Financial Modeling**: Dynamic budgeting, scenario planning & sensitivity analysis
+- **Performance Analytics**: KPI tracking, variance analysis & profitability optimization
+-  **Anomaly Detection**: Automated fraud detection & financial irregularity identification
 
 </td>
 <td width="50%">
 
 ### ⚡ **Process Automation & Optimization**
 
-- 🤖 **Workflow Automation**: Python & SQL automation reducing manual tasks by 40%
-- 🔄 **ETL Pipelines**: Data extraction, transformation & loading for seamless reporting
-- 📋 **Compliance Automation**: UK GAAP, IFRS & HMRC submission workflows
-- 🎨 **Interactive Dashboards**: Real-time Power BI visualizations for executive insights
+- **Workflow Automation**: Python & SQL automation reducing manual tasks by 40%
+- **ETL Pipelines**: Data extraction, transformation & loading for seamless reporting
+- **Compliance Automation**: UK GAAP, IFRS & HMRC submission workflows
+- **Interactive Dashboards**: Real-time Power BI visualizations for executive insights
 
 </td>
 </tr>
