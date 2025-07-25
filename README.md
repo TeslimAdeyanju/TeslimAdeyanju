@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Teslim+Adeyanju;Financial+Data+Wizard!+🧙‍♂️" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Avenir&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Teslim+Adeyanju;Financial+Data+Analyst!+🧙‍♂️" />
 </h1>
 
 <div align="center">
@@ -8,8 +8,8 @@
 </div>
 
 <div align="center">
-  
-  ![](https://visitor-badge.laobi.icu/badge?page_id=TeslimAdeyanju.TeslimAdeyanju) 
+
+  [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TeslimAdeyanju.TeslimAdeyanju&style=for-the-badge)](https://github.com/TeslimAdeyanju)
   [![Github](https://img.shields.io/github/followers/TeslimAdeyanju?label=Follow&style=for-the-badge&logo=github&color=blue)](https://github.com/TeslimAdeyanju)
   [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeyanjuteslimuthman/)
   [![StackOverflow Badge](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22923896/teslim)
@@ -17,20 +17,18 @@
 
 </div>
 
+
 ---
 
-## 🚀 About Me
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## 🔍 About Me
 
-🔹 **Financial Data Scientist** with a passion for transforming complex financial datasets into actionable business intelligence  
-🔹 **Chartered Accountant (ACA)** with over a decade of international experience across UK and global markets  
-🔹 **Strategic Consultant** specializing in financial modeling, predictive analytics, and data-driven decision making  
-🔹 **Technology Enthusiast** leveraging cutting-edge tools to revolutionize traditional financial workflows
+I am a **Financial Data Analyst** and a **Chartered Accountant**, helping businesses turn complex financial data into clear, strategic insights. I combine expertise in **finance, accounting, and data science** to support smarter decision-making, enhance reporting accuracy, optimize financial operations, and drive business growth.
 
+With over a decade of experience across the UK and international markets, I specialize in applying **SQL, Python, R, Machine Learning, Power BI, and Advanced Excel** to solve real-world financial challenges.
 ### 💡 My Mission
 
-_"Bridging the gap between traditional finance and modern data science to create smarter, more efficient financial ecosystems"_
+"Bridging the gap between traditional finance and modern data science to create smarter, more efficient financial ecosystems"
 
 ---
 
