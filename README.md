@@ -248,15 +248,28 @@ No activity tracked
 
 ---
 
-### ✋ What I can offer 
+### ✋ What I Can Offer
 
-- 🔍 **Financial Data Analysis & Consulting**
-- 📈 **Custom Analytics Dashboard Development**
-- 🤖 **Financial Process Automation**
-- 📊 **Machine Learning Model Development**
-- 🎓 **Data Science Training & Workshops**
+<div align="left">
+
+- 🔍 **Financial Data Analysis & Reporting**: Extract and interpret financial data to identify trends, performance gaps, and business risks using SQL, Excel, and Python.
+
+- 📈 **Dashboards & BI Development** : Build intuitive dashboards in Power BI and Excel for real-time monitoring, KPI tracking, and board-level reporting.
+
+- 🤖 **Process Automation** : Streamline manual finance tasks using Python, SQL, and Power Query — saving time and improving accuracy.
+
+- 📊 **Predictive Modeling**: Apply machine learning to forecast revenue, detect fraud, and predict customer churn using logistic regression and decision trees.
+
+- 🧾 **Accounting & Compliance**: Prepare financial statements, manage VAT/HMRC returns, and ensure compliance with UK GAAP and IFRS.
+
+- 💼 **ERP & Systems Support** : Support finance systems like Xero, Sage, and Dynamics 365 with setup, reporting, and process improvement.
+
+- 🎓 **Training & Workshops** : Deliver practical training on Python, SQL, and Excel for finance and data professionals.
+
+- 🌍 **Cross-functional Collaboration** :  Work effectively with finance, operations, and senior leadership to align insights with business goals.
 
 </div>
+
 
 ---
 
