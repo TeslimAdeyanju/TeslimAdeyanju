@@ -248,28 +248,25 @@ No activity tracked
 
 ---
 
-### ✋ What I Can Offer
-
 <div align="left">
 
-- 🔍 **Financial Data Analysis & Reporting**: Extract and interpret financial data to identify trends, performance gaps, and business risks using SQL, Excel, and Python.
+- 🔍 **Financial Data Analysis & Reporting**: Translate financial data into insights using SQL, Excel, and Python to support strategic decisions.
 
-- 📈 **Dashboards & BI Development** : Build intuitive dashboards in Power BI and Excel for real-time monitoring, KPI tracking, and board-level reporting.
+- 📈 **Dashboards & BI Development**: Create real-time Power BI and Excel dashboards for performance tracking and reporting.
 
-- 🤖 **Process Automation** : Streamline manual finance tasks using Python, SQL, and Power Query — saving time and improving accuracy.
+- 🤖 **Process Automation**: Automate finance tasks with Python, SQL, and Power Query to save time and reduce errors.
 
-- 📊 **Predictive Modeling**: Apply machine learning to forecast revenue, detect fraud, and predict customer churn using logistic regression and decision trees.
+- 📊 **Predictive Modeling**: Use machine learning to forecast revenue, detect anomalies, and predict customer churn.
 
-- 🧾 **Accounting & Compliance**: Prepare financial statements, manage VAT/HMRC returns, and ensure compliance with UK GAAP and IFRS.
+- 🧾 **Accounting & Compliance**: Prepare accurate reports and ensure regulatory compliance with UK GAAP and IFRS.
 
-- 💼 **ERP & Systems Support** : Support finance systems like Xero, Sage, and Dynamics 365 with setup, reporting, and process improvement.
+- 💼 **ERP & Systems Support**: Manage and optimize finance systems like Xero, Sage, and Dynamics 365.
 
-- 🎓 **Training & Workshops** : Deliver practical training on Python, SQL, and Excel for finance and data professionals.
+- 🎓 **Training & Workshops**: Teach Python, SQL, and Excel to help finance professionals build data skills.
 
-- 🌍 **Cross-functional Collaboration** :  Work effectively with finance, operations, and senior leadership to align insights with business goals.
+- 🌍 **Cross-functional Collaboration**: Partner with stakeholders across teams to align insights with business goals.
 
 </div>
-
 
 ---
 
