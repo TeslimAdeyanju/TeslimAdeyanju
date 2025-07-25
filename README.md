@@ -120,6 +120,8 @@ To bridge the gap between traditional finance and modern data science—creating
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter" />
 </p>
 
+<hr/>
+
 ### 📊 **Analytics & Visualization**
 
 <p>
@@ -129,6 +131,7 @@ To bridge the gap between traditional finance and modern data science—creating
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" title="Seaborn" />
 </p>
 
+<hr/>
 
 ### 💼 **Financial Systems & ERP**
 
@@ -139,6 +142,8 @@ To bridge the gap between traditional finance and modern data science—creating
   <img src="https://img.shields.io/badge/QuickBooks-0077C5?style=for-the-badge&logo=quickbooks&logoColor=white" />
 </p>
 
+<hr/>
+
 ### 🔧 **Development Tools**
 
 <p>
@@ -148,11 +153,12 @@ To bridge the gap between traditional finance and modern data science—creating
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
 </p>
 
-
 </div>
 
 
+
 ---
+
 
 ## 📚 Academic Excellence
 
@@ -166,6 +172,7 @@ To bridge the gap between traditional finance and modern data science—creating
 </div>
 
 ---
+
 
 ## 🖇️ Featured Portfolio Projects
 
