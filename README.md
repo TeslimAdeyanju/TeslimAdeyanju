@@ -277,3 +277,5 @@ Markdown     4 mins          ░░░░░░░░░░░░░░░░░
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
+
+[<figure><embed src="https://wakatime.com/share/@TeslimAdeyanju/57257ae9-7932-4be2-8406-713d6d4ffdff.svg"></embed></figure>](https://wakatime.com/@TeslimAdeyanju)
