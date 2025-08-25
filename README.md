@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-  <span style="font-family:Avenir; font-size:20px;">
+  <span style="font-family:Avenir, Helvetica, Arial, sans-serif; font-size:14px;">
     <b>Financial Data Analyst | Chartered Accountant | Turning Financial Data into Strategic Insights</b>
   </span>
 </div>
