@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Avenir&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Teslim+Adeyanju;Financial+Data+Analyst!+🧙‍♂️" />
 </h1>
 
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=2639a207-55c1-4745-8272-6be44cfb2192&layout=compact&range=last_7_days)
+
+
+
 ### <div align="center"><b>Financial Data Analyst | Chartered Accountant | Turning Financial Data into Strategic Insights</b></div>
 
 <div align="center">
