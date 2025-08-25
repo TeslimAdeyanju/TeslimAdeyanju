@@ -1,20 +1,23 @@
+<!-- Banner / Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Avenir&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Teslim+Adeyanju;Financial+Data+Analyst!+🧙‍♂️" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Avenir&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Teslim+Adeyanju;Financial+Data+Analyst!+🧙‍♂️" />
 </h1>
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=2639a207-55c1-4745-8272-6be44cfb2192&layout=compact&range=last_7_days)
-
-
-
-### <div align="center"><b>Financial Data Analyst | Chartered Accountant | Turning Financial Data into Strategic Insights</b></div>
-
 <div align="center">
-  
+  <b>Financial Data Analyst | Chartered Accountant | Turning Financial Data into Strategic Insights</b>
+</div>
+
+---
+
+<!-- Badges Cluster -->
+<div align="center">
+
 ![Visitor Badge](https://komarev.com/ghpvc/?username=TeslimAdeyanju&style=for-the-badge&color=blue&label=Profile+Views)
 [![Github](https://img.shields.io/github/followers/TeslimAdeyanju?label=Follow&style=for-the-badge&logo=github&color=blue)](https://github.com/TeslimAdeyanju)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeyanjuteslimuthman/)
 [![StackOverflow Badge](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22923896/teslim)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:info@adeyanjuteslim.co.uk)
+[![wakatime](https://wakatime.com/badge/user/2639a207-55c1-4745-8272-6be44cfb2192.svg?style=for-the-badge&color=0A66C2&label_color=000000)](https://wakatime.com/@TeslimAdeyanju)
 
 </div>
 
