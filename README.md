@@ -4,7 +4,9 @@
 </h1>
 
 <div align="center">
-  <b>Financial Data Analyst | Chartered Accountant | Turning Financial Data into Strategic Insights</b>
+  <span style="font-family:Avenir; font-size:20px;">
+    <b>Financial Data Analyst | Chartered Accountant | Turning Financial Data into Strategic Insights</b>
+  </span>
 </div>
 
 ---
