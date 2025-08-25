@@ -24,12 +24,16 @@
 
 ## 🔍 About Me
 
-I’m a **Financial Data Analyst** and **Chartered Accountant** with over a decade of experience helping organisations make sense of their financial data and turn it into strategic action. My work sits at the crossroads of **finance, accounting, and data science**, where I bring numbers to life and uncover insights that drive better business decisions.
+I’m a **Financial Data Analyst** and **Chartered Accountant** with over a decade of experience helping organisations make sense of their financial data and turn it into strategic action.  
 
-I specialise in using tools like **SQL, Python, R, Machine Learning, Power BI, and Advanced Excel** to analyse performance, streamline reporting, and build forward-looking models that support forecasting, risk assessment, and investment planning. From working with UK-based firms to international organisations, I’ve helped teams modernise traditional finance functions, reduce manual workload, and deliver insights that improve both financial control and commercial impact.
+My work sits at the crossroads of **finance, accounting, and data science**, where I bring numbers to life and uncover insights that drive better business decisions.  
 
-I combine deep financial knowledge with technical skills to build systems that are not only accurate and compliant with UK GAAP and IFRS, but also intelligent, adaptable, and aligned with business goals.
+- 💼 Chartered Accountant with 10+ years across UK & international firms  
+- 📊 Skilled in **SQL, Python, R, Machine Learning, Power BI, and Advanced Excel**  
+- 🛠 Experienced in building forecasting models, variance analysis, and anomaly detection  
+- 🌍 Focus on bridging **finance and data science** to modernise reporting and strategy  
 
+Want to know how much I commit to code every day? 👉 [Check my WakaTime profile](https://wakatime.com/@TeslimAdeyanju)  
 ### 💡 My Mission
 
 To bridge the gap between traditional finance and modern data science—creating smarter, faster, and more efficient financial ecosystems that empower confident decision-making.
