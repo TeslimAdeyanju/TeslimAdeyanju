@@ -193,7 +193,7 @@ To bridge the gap between traditional finance and modern data science—creating
 
 ---
 
-## 🗓️ WakaTime Coding Activity
+⚖️ 🗓️ WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
 
