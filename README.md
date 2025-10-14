@@ -200,13 +200,14 @@ To bridge the gap between traditional finance and modern data science—creating
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2025 - To: 11 October 2025
+From: 06 October 2025 - To: 13 October 2025
 
-Total Time: 15 hrs 45 mins
+Total Time: 25 hrs 22 mins
 
-Other    9 hrs 56 mins   ███████████████▓░░░░░░░░░   63.07 %
-Python   5 hrs 44 mins   █████████░░░░░░░░░░░░░░░░   36.37 %
-CSV      5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Other      19 hrs 20 mins  ███████████████████░░░░░░   76.26 %
+Python     5 hrs 56 mins   ██████░░░░░░░░░░░░░░░░░░░   23.39 %
+Markdown   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+TOML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
