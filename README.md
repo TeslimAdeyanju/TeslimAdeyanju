@@ -200,15 +200,15 @@ To bridge the gap between traditional finance and modern data science—creating
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2026 - To: 16 January 2026
+From: 11 January 2026 - To: 17 January 2026
 
-Total Time: 19 hrs 48 mins
+Total Time: 22 hrs 17 mins
 
-Other      13 hrs 32 mins  █████████████████░░░░░░░░   68.35 %
-Markdown   3 hrs 55 mins   █████░░░░░░░░░░░░░░░░░░░░   19.80 %
-Python     1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-Bash       46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-JSON       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Other      15 hrs 58 mins  ██████████████████░░░░░░░   71.66 %
+Markdown   3 hrs 35 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
+Python     1 hr 49 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+Bash       45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+JSON       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
