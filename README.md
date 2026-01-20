@@ -2,8 +2,6 @@
 
 ## **Chartered Accountant** | **Financial Data Analyst** | **Open Source Developer**
 
----
-
 ## 🚀 Featured Project: FDA Toolkit
 
 ### 📊 [FDA Toolkit](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace)
@@ -23,8 +21,6 @@ A production-grade Python toolkit for financial data analysis — **67+ function
 **Install:** `pip install fda-toolkit`
 
 [View on PyPI](https://pypi.org/project/fda-toolkit/) • [GitHub](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace)
-
----
 
 ## 🛠️ Tech Stack
 
