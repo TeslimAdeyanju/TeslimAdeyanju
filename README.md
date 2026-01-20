@@ -3,6 +3,15 @@
 ## **Chartered Accountant** | **Financial Data Analyst** | **Open Source Developer**
 
 ---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, SQL, R  
+**Data Tools:** pandas, scikit-learn, Power BI, Advanced Excel  
+**Finance:** Xero, Sage 50, Business Central  
+**DevOps:** GitHub, Docker, PyPI
+
+---
 ## Featured Project: FDA Toolkit
 
 ### 📊 [FDA Toolkit](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace)
@@ -23,14 +32,7 @@ A production-grade Python toolkit for financial data analysis — **67+ function
 
 [View on PyPI](https://pypi.org/project/fda-toolkit/) • [GitHub](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace)
 
----
 
-## 🛠️ Tech Stack
-
-**Languages:** Python, SQL, R  
-**Data Tools:** pandas, scikit-learn, Power BI, Advanced Excel  
-**Finance:** Xero, Sage 50, Business Central  
-**DevOps:** GitHub, Docker, PyPI
 
 ---
 
