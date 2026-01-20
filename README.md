@@ -1,9 +1,8 @@
-# 👋 Hi, I'm Teslim
+# Hi, I'm Teslim
 
 ## **Chartered Accountant** | **Financial Data Analyst** | **Open Source Developer**
 
 ---
-
 ## Featured Project: FDA Toolkit
 
 ### 📊 [FDA Toolkit](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace)
