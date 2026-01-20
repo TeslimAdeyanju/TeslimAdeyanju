@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Featured Project: FDA Toolkit
+## Featured Project: FDA Toolkit
 
 ### 📊 [FDA Toolkit](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace)
 
