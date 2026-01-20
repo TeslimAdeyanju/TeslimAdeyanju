@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Teslim
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 📊 [FDA Toolkit](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace)
 A production-grade Python toolkit for financial data analysis.
