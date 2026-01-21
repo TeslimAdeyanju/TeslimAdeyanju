@@ -12,7 +12,7 @@
 
 ### 📊 [FDA Toolkit](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace)
 
-Enterprise-grade Python toolkit for financial data professionals. Includes 67+ production-ready functions for data cleaning, validation, profiling, and audit-ready pipelines, designed to eliminate manual data work and accelerate financial insights.
+Developed and maintained an enterprise-grade Python toolkit for financial data professionals. It includes 67+ production-ready functions for data cleaning, validation, profiling, and audit-ready pipelines, designed to eliminate manual data work and accelerate financial insights.
 
 **Install:** `pip install fda-toolkit`
 
