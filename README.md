@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Teslim
+### 👋 Hi, I'm Teslim
 
-# Chartered Accountant | Financial Data Analyst | Python & Analytics Automation | Open Source Contributor
+## Chartered Accountant | Financial Data Analyst | Python & Analytics Automation | Open Source Contributor
 
 ---
 
-## 🚀 Featured Project: FDA Toolkit
+## Featured Project: FDA Toolkit
 
 [![PyPI](https://img.shields.io/pypi/v/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
 [![Python](https://img.shields.io/pypi/pyversions/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
