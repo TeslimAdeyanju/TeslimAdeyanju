@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm Teslim
 
-## Chartered Accountant building Python and SQL tools for financial analysis, reporting automation, and audit-ready data workflows
-
+## Chartered Accountant building Python and SQL tools for financial analysis, reporting automation, and audit-ready data workflows.  
 ---
+
 
 ## Featured Project: FDA Toolkit
 
@@ -31,13 +31,14 @@ This toolkit reflects how I work in practice. Reusable systems, strong data cont
 
 ---
 
-**🧠 Professional Focus**
+**🧠 Professional Focus**   
 Chartered Accountant with over 10 years of experience in financial analysis, forecasting, reconciliation, and reporting automation.
 I specialise in turning messy financial data into reliable analytics systems using Python, SQL, and strong financial controls.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack   
+
 **Languages**  
 Python, SQL, R  
 
