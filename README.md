@@ -18,14 +18,14 @@ I help organisations move from **static reporting** to **insight-driven decision
 
 ---
 
-## 📊 Featured Project: FDA Toolkit
+### 📈 [FDA Toolkit](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace) — Enterprise Financial Data Toolkit
 
 [![PyPI version](https://img.shields.io/pypi/v/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
 [![Python versions](https://img.shields.io/pypi/pyversions/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
 [![License](https://img.shields.io/pypi/l/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
 [![Downloads](https://img.shields.io/pypi/dm/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
 
-### 📈 [FDA Toolkit](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace) — Enterprise Financial Data Toolkit
+
 
 An enterprise-grade Python toolkit for financial data professionals with **67+ production-ready functions** for data cleaning, validation, profiling, and audit-ready pipelines.
 
