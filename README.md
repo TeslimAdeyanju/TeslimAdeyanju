@@ -20,7 +20,7 @@ My work sits at the intersection of finance, data engineering, and analytics, wi
 I help organisations move from **static reporting** to **insight-driven decision making** using Python, SQL, and data engineering best practices.
 
 ---
-## Featured Project: 
+## Open Source Project Lead
 
 ### ✨[FDA Toolkit](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace) — Enterprise Financial Data Toolkit
 
@@ -28,6 +28,8 @@ I help organisations move from **static reporting** to **insight-driven decision
 [![Python versions](https://img.shields.io/pypi/pyversions/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
 [![License](https://img.shields.io/pypi/l/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
 [![Downloads](https://img.shields.io/pypi/dm/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
+
+I designed and built FDA Toolkit an enterprise grade Python toolkit for financial analysts accountants and data professionals who need reliable auditable and repeatable analytics.
 
 An enterprise-grade Python toolkit designed for financial analysts, accountants, and data professionals who need reliable, auditable, and repeatable analytics.
 FDA Toolkit delivers 67+ production-ready functions for financial data cleaning, validation, profiling, and pipeline automation, helping teams replace fragile spreadsheets with controlled, scalable workflows.
