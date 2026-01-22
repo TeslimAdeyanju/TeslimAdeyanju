@@ -17,8 +17,7 @@ My work sits at the intersection of finance, data engineering, and analytics, wi
 I help organisations move from **static reporting** to **insight-driven decision making** using Python, SQL, and data engineering best practices.
 
 ---
-
-### 📈 [FDA Toolkit](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace) — Enterprise Financial Data Toolkit
+## 📈 Featured Project: [FDA Toolkit](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace) — Enterprise Financial Data Toolkit
 
 [![PyPI version](https://img.shields.io/pypi/v/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
 [![Python versions](https://img.shields.io/pypi/pyversions/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
