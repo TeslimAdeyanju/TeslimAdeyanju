@@ -2,6 +2,7 @@
 
 Chartered Accountant and Financial Data Analyst combining Power BI, Advanced Excel, SQL, and Python to deliver automated reporting, financial analysis, and insight driven decision making with strong data controls.
 
+My work sits at the intersection of finance, data engineering, and analytics, with a focus on accuracy, traceability, and decision quality.
 ---
 
 ## Professional Focus
