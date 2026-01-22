@@ -3,7 +3,7 @@
 ### Chartered Accountant building Python and SQL tools for financial analysis, reporting automation, and audit-ready data workflows.  
 ---
 
-Chartered Accountant with over ten years of experience in financial analysis, forecasting, and reporting automation. I help organisations move from static reporting to insight driven decision making using Power BI, SQL, Python, and advanced financial modelling.
+Financial Analyst with over ten years of experience in financial analysis, forecasting, and reporting automation. I help organisations move from static reporting to insight driven decision making using Power BI, SQL, Python, and advanced financial modelling.
 
 ## Featured Project: FDA Toolkit
 
