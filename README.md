@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Teslim
 
-## Chartered Accountant | Financial Data Analyst | Python & Analytics Automation | Open Source Contributor
+## Chartered Accountant building Python and SQL tools for financial analysis, reporting automation, and audit-ready data workflows
 
 ---
 
