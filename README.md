@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Teslim
 
-## Chartered Accountant using Python, SQL, Power BI, and Advanced Excel to automate financial reporting and deliver audit ready analytics.
+### Chartered Accountant using Python, SQL, Power BI, and Advanced Excel to automate financial reporting and deliver audit ready analytics.
 
 I build controlled, repeatable analytics systems that help finance teams move beyond static reporting and make confident, insight-driven decisions with clean data and strong governance.
 
