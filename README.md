@@ -6,7 +6,7 @@ Building enterprise-grade tools for financial analysis, reporting automation, an
 
 ---
 
-## 🎯 About Me
+## About Me
 
 Financial Analyst with **10+ years** of experience in:
 - Financial analysis, forecasting, and business modeling
