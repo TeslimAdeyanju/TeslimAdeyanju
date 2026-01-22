@@ -1,12 +1,10 @@
 # 👋 Hi, I'm Teslim
 
-**Chartered Accountant** | Financial Data Analyst | Python & SQL Developer
-
-Building enterprise-grade tools for financial analysis, reporting automation, and audit-ready data workflows.
+Chartered Accountant and Financial Data Analyst combining Power BI, Advanced Excel, SQL, and Python to deliver automated reporting, financial analysis, and insight driven decision making with strong data controls.
 
 ---
 
-## About Me
+## Professional Focus
 
 Financial Analyst with **10+ years** of experience in:
 - Financial analysis, forecasting, and business modeling
