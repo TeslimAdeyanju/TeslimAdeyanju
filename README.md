@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Teslim
 
-Chartered Accountant and Financial Data Analyst combining Power BI, Advanced Excel, SQL, and Python to deliver automated reporting, financial analysis, and insight driven decision making with strong data controls.
+## Chartered Accountant building Python and SQL tools for financial analysis, reporting automation, and audit-ready data workflows
 
+Chartered Accountant and Financial Data Analyst combining Power BI, Advanced Excel, SQL, and Python to deliver automated reporting, financial analysis, and insight driven decision making with strong data controls.
 My work sits at the intersection of finance, data engineering, and analytics, with a focus on accuracy, traceability, and decision quality.
+
 ---
 
 ## Professional Focus
