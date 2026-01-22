@@ -69,4 +69,15 @@ The toolkit embeds financial controls, validation logic, and traceability direct
 > 💡 **Philosophy:** Good data engineering makes good analysis simple. Clean data, reliable pipelines, audit trails built in.
 
 ---
+## 🖇️ Featured Portfolio Projects
 
+<div align="center">
+
+| 🚀 **Project**                   | 🛠️ **Tech Stack**            | 📈 **Impact**                      | 🔗 **Link**                                                                                                      |
+| :------------------------------- | :--------------------------- | :--------------------------------- | :--------------------------------------------------------------------------------------------------------------- |
+| 💎 **Diamond Price Predictor**   | Python, Scikit-learn, Pandas | ML model with 95% accuracy         | [View Project](https://github.com/TeslimAdeyanju/4-Portfolio-SDS-CP023-diamond-price-predictor)                  |
+| 🔄 **Customer Churn Prediction** | Logistic Regression, Flask   | Deployed ML model for business use | [View Project](https://github.com/TeslimAdeyanju/5-Portfolio-Midterm-Sales-Forecasting-with-Logistic-Regression) |
+| 🗄️ **SQL Mastery Showcase**      | MySQL, Advanced Queries      | Complete data analysis pipeline    | [View Project](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery)     |
+| 📊 **Financial Dashboard Suite** | Power BI, DAX, Python        | Real-time executive reporting      | [Coming Soon]                                                                                                    |
+
+</div>
