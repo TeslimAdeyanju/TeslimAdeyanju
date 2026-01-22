@@ -45,15 +45,6 @@ This toolkit reflects how I work in practice: reusable systems, strong data cont
 - **One-line pipelines** for complex transformations (e.g., `ftk.quick_clean_finance()`)
 - **Enterprise quality** — error handling, security, memory optimization
 
-**Modules:**
-- **Core**: Column cleaning, types, duplicates, missing, outliers, text
-- **Finance**: Currency parsing, entity standardization, validation
-- **Validation**: Schema, ranges, integrity, reconciliation
-- **Reporting**: Profiling, snapshots, delta reports, quality checks
-- **Features**: Categorical & datetime engineering
-- **IO**: Safe CSV/Excel/Parquet handling with chunking
-- **Pipelines**: Pre-built workflows for common use cases
-- **Utils**: Logging, security, memory optimization
 
 📌 [View on PyPI](https://pypi.org/project/fda-toolkit/) • [GitHub Repository](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace)
 
