@@ -25,7 +25,7 @@ I help organisations move from **static reporting** to **insight-driven decision
 [![Downloads](https://img.shields.io/pypi/dm/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
 
 
-An enterprise-grade Python toolkit for financial data professionals with **67+ production-ready functions** for data cleaning, validation, profiling, and audit-ready pipelines.
+Built and published an enterprise-grade Python toolkit for financial data professionals. The package delivers 67+ production-ready functions for data cleaning, validation, profiling, and audit-ready pipelines, reducing manual data work and improving analytical reliability.
 
 **Install:** 
 ```bash
