@@ -26,17 +26,17 @@ I help organisations move from **static reporting** to **insight-driven decision
 [![License](https://img.shields.io/pypi/l/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
 [![Downloads](https://img.shields.io/pypi/dm/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
 
-
-Built and published an enterprise-grade Python toolkit for financial data professionals. The package delivers 67+ production-ready functions for data cleaning, validation, profiling, and audit-ready pipelines, reducing manual data work and improving analytical reliability.
+An enterprise-grade Python toolkit designed for financial analysts, accountants, and data professionals who need reliable, auditable, and repeatable analytics.
+FDA Toolkit delivers 67+ production-ready functions for financial data cleaning, validation, profiling, and pipeline automation, helping teams replace fragile spreadsheets with controlled, scalable workflows.
 
 **Install:** 
 ```bash
 pip install fda-toolkit
 ```
 
-**Why FDA Toolkit Matters:**
-
-This toolkit reflects how I work in practice: reusable systems, strong data controls, and outputs that stakeholders can rely on.
+**Why FDA Toolkit Matters:**  
+Most finance teams struggle with inconsistent data, manual checks, and reporting processes that do not scale. FDA Toolkit reflects how I approach financial analytics in practice: build once, reuse safely, and trust the output.
+The toolkit embeds financial controls, validation logic, and traceability directly into the analytics layer, ensuring results remain dependable as data volume and complexity grow.
 
 **Key Features:**
 - **67 production-ready functions** across 8 intelligent modules
