@@ -3,7 +3,7 @@
 ### Chartered Accountant building Python and SQL tools for financial analysis, reporting automation, and audit-ready data workflows.  
 ---
 
-Financial Analyst with over ten years of experience in financial analysis, forecasting, and reporting automation. I help organisations move from static reporting to insight driven decision making using Power BI, SQL, Python, and advanced financial modelling.
+Financial Analyst with over ten years of experience in financial analysis, forecasting, and reporting automation. I help organisations move from static reporting to insight driven decision making using Power BI, SQL, Python, Excel and advanced financial modelling.
 
 ## Featured Project: FDA Toolkit
 
@@ -29,13 +29,6 @@ This toolkit reflects how I work in practice. Reusable systems, strong data cont
 - Enterprise quality — error handling, security, memory optimization
 
 [View on PyPI](https://pypi.org/project/fda-toolkit/) • [GitHub](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace)
-
----
-
-**🧠 Professional Focus**   
-Chartered Accountant with over 10 years of experience in financial analysis, forecasting, reconciliation, and reporting automation.   
-
-I specialise in turning messy financial data into reliable analytics systems using Python, SQL, and strong financial controls.
 
 ---
 
