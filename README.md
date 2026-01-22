@@ -51,17 +51,12 @@ This toolkit reflects how I work in practice: reusable systems, strong data cont
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-Python • SQL • R
-
-**Data & Analytics**  
-pandas • NumPy • scikit-learn • Power BI • Advanced Excel
-
-**Finance Systems**  
-Xero • Sage 50 • Microsoft Business Central
-
-**Engineering & Distribution**  
-GitHub • Docker • PyPI • GitHub Actions
+| Category                   | Tools & Technologies |
+|---------------------------|----------------------|
+| **Languages**              | Python • SQL • R |
+| **Data & Analytics**       | pandas • NumPy • scikit-learn • Power BI • Advanced Excel |
+| **Finance Systems**        | Xero • Sage 50 • Microsoft Business Central |
+| **Engineering & Distribution** | GitHub • Docker • PyPI • GitHub Actions |
 
 
 ---
