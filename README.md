@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Teslim+Adeyanju;Financial+Data+Wizard!+🧙‍♂️" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Teslim+Adeyanju;Financial+Data+Analyst!+🧙‍♂️" />
 </h1>
 
 ### Chartered Accountant using Python, SQL, Power BI, and Advanced Excel to automate financial reporting and deliver audit ready analytics.
@@ -38,7 +38,7 @@ FDA Toolkit delivers 67+ production-ready functions for financial data cleaning,
 ```bash
 pip install fda-toolkit
 ```
-
+![Alt text for the image](./image.png)
 **Why FDA Toolkit Matters:**  
 Most finance teams struggle with inconsistent data, manual checks, and reporting processes that do not scale. FDA Toolkit reflects how I approach financial analytics in practice: build once, reuse safely, and trust the output.
 The toolkit embeds financial controls, validation logic, and traceability directly into the analytics layer, ensuring results remain dependable as data volume and complexity grow.
