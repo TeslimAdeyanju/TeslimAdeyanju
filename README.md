@@ -38,12 +38,12 @@ pip install fda-toolkit
 This toolkit reflects how I work in practice: reusable systems, strong data controls, and outputs that stakeholders can rely on.
 
 **Key Features:**
-- ✅ **67 production-ready functions** across 8 intelligent modules
-- ✅ **Full type hints** with IDE autocomplete throughout
-- ✅ **Compliance-ready** with automatic audit logging & traceability
-- ✅ **Finance-aware validation** for real-world workflows
-- ✅ **One-line pipelines** for complex transformations (e.g., `ftk.quick_clean_finance()`)
-- ✅ **Enterprise quality** — error handling, security, memory optimization
+- **67 production-ready functions** across 8 intelligent modules
+- **Full type hints** with IDE autocomplete throughout
+- **Compliance-ready** with automatic audit logging & traceability
+- **Finance-aware validation** for real-world workflows
+- **One-line pipelines** for complex transformations (e.g., `ftk.quick_clean_finance()`)
+- **Enterprise quality** — error handling, security, memory optimization
 
 **Modules:**
 - **Core**: Column cleaning, types, duplicates, missing, outliers, text
@@ -73,36 +73,6 @@ Xero • Sage 50 • Microsoft Business Central
 **Engineering & Distribution**  
 GitHub • Docker • PyPI • GitHub Actions
 
----
-
-## 📌 Selected Projects
-
-### Financial Reporting Automation with MySQL & Python
-End-to-end SQL analysis with Python-driven extraction, transformation, and reporting for finance use cases. Automated monthly reporting with data validation and audit trails.
-
-### Sales Analysis & Forecasting with Machine Learning
-Exploratory analysis, regression, and prediction on transactional sales data with business-focused insights. Time series forecasting for revenue planning.
-
-### Stock Market Risk & Return Analysis
-Portfolio analysis of major technology stocks using volatility metrics, Sharpe ratio, and Monte Carlo simulation for risk assessment.
-
-### Machine Learning in Financial Data Analysis
-Applied regression, classification, and ensemble methods for trend forecasting and risk assessment in financial datasets.
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeslimAdeyanju&show_icons=true&theme=dark&count_private=true)
-
----
-
-## 🤝 Let's Connect
-
-- **PyPI:** [fda-toolkit](https://pypi.org/project/fda-toolkit/)
-- **GitHub:** [TeslimAdeyanju](https://github.com/TeslimAdeyanju)
-- **LinkedIn:** [Connect on LinkedIn](https://linkedin.com/in/teslim-adeyanju)
-- **Email:** info@adeyanjuteslim.co.uk
 
 ---
 
