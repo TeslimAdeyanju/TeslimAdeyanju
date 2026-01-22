@@ -3,6 +3,8 @@
 ### Chartered Accountant building Python and SQL tools for financial analysis, reporting automation, and audit-ready data workflows.  
 ---
 
+I design analytics tools that replace fragile spreadsheets with controlled, repeatable, and trustworthy data pipelines for finance teams.
+
 ## Featured Project: FDA Toolkit
 
 [![PyPI](https://img.shields.io/pypi/v/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
@@ -31,12 +33,13 @@ This toolkit reflects how I work in practice. Reusable systems, strong data cont
 ---
 
 **🧠 Professional Focus**   
-Chartered Accountant with over 10 years of experience in financial analysis, forecasting, reconciliation, and reporting automation.
+Chartered Accountant with over 10 years of experience in financial analysis, forecasting, reconciliation, and reporting automation.   
+
 I specialise in turning messy financial data into reliable analytics systems using Python, SQL, and strong financial controls.
 
 ---
 
-## 🛠️ Tech Stack   
+### 🛠️ Tech Stack   
 
 **Languages**  
 Python, SQL, R  
@@ -52,6 +55,15 @@ GitHub, Docker, PyPI
 
 ---
 
-**Chartered Accountant with 10+ years in financial analysis, forecasting, and reporting automation.**
+### 📌 Selected Projects   
+**Financial Reporting Automation with MySQL and Python**   
+End to end SQL analysis with Python driven extraction, transformation, and reporting for finance use cases.   
 
-*I specialise in turning messy financial data into reliable, automated analytics systems using Python, SQL, and strong financial controls.*
+**Sales Analysis and Forecasting Using Machine Learning**   
+Exploratory analysis, regression, and prediction on transactional sales data with business focused insights.   
+
+**Stock Market Risk and Return Analysis**   
+Portfolio analysis of major technology stocks using volatility metrics, Sharpe ratio, and Monte Carlo simulation.   
+
+**Machine Learning in Financial Data Analysis**   
+Applied regression, classification, and ensemble methods for trend forecasting and risk assessment.   
