@@ -1,5 +1,9 @@
 ## 👋 Hi, I'm Teslim
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Teslim+Adeyanju;Financial+Data+Wizard!+🧙‍♂️" />
+</h1>
+
 ### Chartered Accountant using Python, SQL, Power BI, and Advanced Excel to automate financial reporting and deliver audit ready analytics.
 
 I build controlled, repeatable analytics systems that help finance teams move beyond static reporting and make confident, insight-driven decisions with clean data and strong governance.
