@@ -53,22 +53,6 @@ The toolkit embeds financial controls, validation logic, and traceability direct
 📌 [View on PyPI](https://pypi.org/project/fda-toolkit/) • [GitHub Repository](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace)
 
 ---
-
-### 🛠️ Tech Stack
-
-| Category                   | Tools & Technologies |
-|---------------------------|----------------------|
-| **Languages**              | Python • SQL • R |
-| **Data & Analytics**       | pandas • NumPy • scikit-learn • Power BI • Advanced Excel |
-| **Finance Systems**        | Xero • Sage 50 • Microsoft Business Central |
-| **Engineering & Distribution** | GitHub • Docker • PyPI • GitHub Actions |
-
-
----
-
-> 💡 **Philosophy:** Good data engineering makes good analysis simple. Clean data, reliable pipelines, audit trails built in.
-
----
 ## 🖇️ Featured Portfolio Projects
 
 <div align="center">
@@ -81,3 +65,8 @@ The toolkit embeds financial controls, validation logic, and traceability direct
 | 📊 **Financial Dashboard Suite** | Power BI, DAX, Python        | Real-time executive reporting      | [Coming Soon]                                                                                                    |
 
 </div>
+
+
+---
+
+> 💡 **Philosophy:** Good data engineering makes good analysis simple. Clean data, reliable pipelines, audit trails built in.
