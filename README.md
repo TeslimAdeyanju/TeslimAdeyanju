@@ -1,19 +1,18 @@
 # 👋 Hi, I'm Teslim
 
-## Chartered Accountant building Python and SQL tools for financial analysis, reporting automation, and audit-ready data workflows
+## Chartered Accountant using Python, SQL, Power BI, and Advanced Excel to automate financial reporting and deliver audit ready analytics.
 
-Chartered Accountant and Financial Data Analyst combining Power BI, Advanced Excel, SQL, and Python to deliver automated reporting, financial analysis, and insight driven decision making with strong data controls.
-My work sits at the intersection of finance, data engineering, and analytics, with a focus on accuracy, traceability, and decision quality.
+I build controlled, repeatable analytics systems that help finance teams move beyond static reporting and make confident, insight-driven decisions with clean data and strong governance.
 
 ---
 
 ## Professional Focus
-
-Financial Analyst with **10+ years** of experience in:
-- Financial analysis, forecasting, and business modeling
-- Reporting automation and process optimization  
-- Data-driven decision making and insights delivery
-- Audit-ready systems and compliance frameworks
+Chartered Accountant and Financial Data Analyst with over 10 years of experience across finance, accounting, and analytics, including:   
+- Financial analysis, budgeting, forecasting, and variance analysis
+- Reporting automation and process optimisation
+- Data-driven insight delivery for planning and performance management
+- Audit-ready systems, controls, and compliance frameworks
+My work sits at the intersection of finance, data engineering, and analytics, with a focus on accuracy, traceability, and decision quality.
 
 I help organisations move from **static reporting** to **insight-driven decision making** using Python, SQL, and data engineering best practices.
 
