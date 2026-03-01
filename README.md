@@ -63,8 +63,7 @@ This allows organisations to move from static reporting to insight driven decisi
 
 I designed and built FDA Toolkit an enterprise grade Python toolkit for financial analysts accountants and data professionals who need reliable auditable and repeatable analytics.
 
-An enterprise-grade Python toolkit designed for financial analysts, accountants, and data professionals who need reliable, auditable, and repeatable analytics.
-FDA Toolkit delivers 67+ production-ready functions for financial data cleaning, validation, profiling, and pipeline automation, helping teams replace fragile spreadsheets with controlled, scalable workflows.
+It replaces fragile spreadsheet workflows with structured validation, transformation, and reporting pipelines built for real financial environments.
 
 **Install:** 
 ```bash
