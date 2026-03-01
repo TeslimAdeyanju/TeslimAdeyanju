@@ -84,10 +84,10 @@ The toolkit embeds financial controls, validation logic, and traceability direct
 - **Enterprise quality** — error handling, security, memory optimization
 
 
-📌 [View on PyPI](https://pypi.org/project/fda-toolkit/) • [GitHub Repository](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace)
+[View on PyPI](https://pypi.org/project/fda-toolkit/) • [GitHub Repository](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace)
 
 ---
-## 🖇️ Featured Portfolio Projects
+## Selected Portfolio Work
 
 <div align="center">
 
