@@ -7,32 +7,47 @@
 
 Financial Data Analyst combining accounting expertise with SQL, Python, and Power BI to build reliable financial analysis and reporting systems.
 
----
+## About Me
 
-## Professional Focus
-Chartered Accountant and Financial Data Analyst with over 10 years of experience across finance, accounting, and analytics, including:   
-- Financial analysis, budgeting, forecasting, and variance analysis
-- Reporting automation and process optimisation
-- Data-driven insight delivery for planning and performance management
-- Audit-ready systems, controls, and compliance frameworks
-My work sits at the intersection of finance, data engineering, and analytics, with a focus on accuracy, traceability, and decision quality.
+I am a Chartered Accountant and Financial Data Analyst with over a decade of experience across financial reporting, FP&A, and data analytics.
 
-I help organisations move from **static reporting** to **insight-driven decision making** using Python, SQL, and data engineering best practices.
+My work focuses on transforming traditional finance environments into structured, automated, and traceable analytical systems using Python, SQL, and Power BI.
 
----
-## What Makes Me Different:
-•	Published Python Developer: Built and maintain production-grade PyPI package (fda-toolkit) with 67 financial data analysis functions, 1000+ downloads. Specialized in Pandas data manipulation, NumPy numerical analysis, and scikit-learn predictive modeling for finance applications.   
-•	Power BI Architecture Expert: Design star schema semantic models, create advanced DAX measures with variables and time intelligence, optimize query performance using aggregations and Performance Analyzer. Reduced dashboard load times by 35% through strategic data modeling.   
-•	SQL Database Specialist: Develop complex queries using advanced joins, CTEs, window functions, and stored procedures. Implement database normalization (3NF), design ETL pipelines, and optimize query performance through indexing strategies.   
-•	UK Company Director: Founded CoreInsight Financial Advisory Ltd (Companies House #16859081), delivering automated Power BI dashboards, SQL-driven reporting pipelines, and Python-based financial data solutions to UK organizations.   
-•	Finance + Software Engineering: Combine ACA qualification with technical rigor, type-safe API development, audit trail logging, modular Python architecture, and Git version control for reproducible financial analysis workflows.   
-•	Automation Champion: Reduce financial data cleaning from hours to minutes through intelligent ETL pipelines. Automate variance analysis, reconciliation workflows, and management reporting using Power BI, SQL, and Python integration.   
+I design solutions that replace spreadsheet driven processes with controlled pipelines that improve accuracy, speed, and decision confidence.
 
+My approach combines accounting discipline with data engineering practices to ensure financial outputs remain reliable, explainable, and scalable.
 
+## Core Expertise
 
+1. Financial Planning and Analysis  
+2. Budgeting, Forecasting, and Variance Analysis  
+3. Reporting Automation and Process Optimisation  
+4. Data Modelling for Financial Analytics  
+5. Audit Ready Analytics and Control Frameworks  
+6. Performance Management and Decision Support  
 
+## Technical Stack
 
----
+Python for financial data pipelines, validation, and modelling  
+SQL for structured analytics, ETL logic, and performance optimisation  
+Power BI for semantic modelling, DAX development, and executive dashboards  
+Advanced Excel for financial modelling and reconciliations  
+Git for version controlled and reproducible analytics workflows  
+
+## What I Do Differently
+
+I treat financial analysis as an engineering discipline rather than a reporting activity.
+
+I build systems that are:
+
+1. Traceable  
+2. Reusable  
+3. Auditable  
+4. Performance Optimised  
+5. Designed for scale rather than manual maintenance  
+
+This allows organisations to move from static reporting to insight driven decision making supported by controlled data pipelines.
+
 ## Open Source Project Lead
 
 ### ✨[FDA Toolkit](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace) — Enterprise Financial Data Toolkit
