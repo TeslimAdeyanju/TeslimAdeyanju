@@ -104,3 +104,15 @@ The toolkit embeds financial controls, validation logic, and traceability direct
 ---
 
 > 💡 **Philosophy:** Good data engineering makes good analysis simple. Clean data, reliable pipelines, audit trails built in.
+>
+
+Connect With Me    
+
+LinkedIn   
+https://www.linkedin.com/in/adeyanjuteslimuthman   
+
+Portfolio  
+https://adeyanjuteslim.co.uk   
+
+GitHub   
+https://github.com/TeslimAdeyanju   
