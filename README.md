@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Avenir&size=45&center=true&vCenter=true&width=750&height=80&duration=1500&multicolor=true&color=0A66C2,1F8ACB,2FA4D6,4FC3F7,76D7EA&lines=Hi+There!+👋;I'm+Teslim+Adeyanju;Financial+Data+Analyst!+💻" />
 </h1>
 
-#### Financial Data Analyst combining accounting expertise with SQL, Python, and Power BI to build reliable financial analysis and reporting systems.
+## Financial Data Analyst combining accounting expertise with SQL, Python, and Power BI to build reliable financial analysis and reporting systems.
 
 ## About Me
 
@@ -74,11 +74,12 @@ The toolkit enables financial analysts, accountants, and data professionals to p
 pip install fda-toolkit
 ```
 ![Alt text for the image](./image.png)
-**Why FDA Toolkit Matters:**  
+
+### Why FDA Toolkit Matters:
 Most finance teams struggle with inconsistent data, manual checks, and reporting processes that do not scale. FDA Toolkit reflects how I approach financial analytics in practice: build once, reuse safely, and trust the output.
 The toolkit embeds financial controls, validation logic, and traceability directly into the analytics layer, ensuring results remain dependable as data volume and complexity grow.
 
-[View on PyPI](https://pypi.org/project/fda-toolkit/) • [GitHub Repository](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace)
+
 
 ---
 ## Selected Portfolio Work
