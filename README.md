@@ -54,9 +54,18 @@ This allows organisations to move from static reporting to insight driven decisi
 [![License](https://img.shields.io/pypi/l/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
 [![Downloads](https://img.shields.io/pypi/dm/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
 
-I designed and built FDA Toolkit an enterprise grade Python toolkit for financial analysts accountants and data professionals who need reliable auditable and repeatable analytics.
+I am the creator and maintainer of **FDA Toolkit**, an open source Python project I architected and developed to solve real world challenges in financial data analysis.
 
-It replaces fragile spreadsheet workflows with structured validation, transformation, and reporting pipelines built for real financial environments.
+The toolkit enables financial analysts, accountants, and data professionals to produce reliable, auditable, and repeatable analytics by replacing fragile spreadsheet driven processes with structured validation, transformation, and reporting pipelines designed for production use.
+
+### Key Features
+
+- 67 production ready functions organised across 8 modular components  
+- Full type hinting with IDE level autocomplete and validation  
+- Compliance focused design with automatic audit logging and traceability  
+- Finance aware validation tailored to real accounting and FP&A workflows  
+- One line pipelines for complex transformations such as `ftk.quick_clean_finance()`  
+- Enterprise grade engineering including structured error handling, security controls, and memory efficiency  
 
 **Install:** 
 ```bash
@@ -66,15 +75,6 @@ pip install fda-toolkit
 **Why FDA Toolkit Matters:**  
 Most finance teams struggle with inconsistent data, manual checks, and reporting processes that do not scale. FDA Toolkit reflects how I approach financial analytics in practice: build once, reuse safely, and trust the output.
 The toolkit embeds financial controls, validation logic, and traceability directly into the analytics layer, ensuring results remain dependable as data volume and complexity grow.
-
-**Key Features:**
-- **67 production-ready functions** across 8 intelligent modules
-- **Full type hints** with IDE autocomplete throughout
-- **Compliance-ready** with automatic audit logging & traceability
-- **Finance-aware validation** for real-world workflows
-- **One-line pipelines** for complex transformations (e.g., `ftk.quick_clean_finance()`)
-- **Enterprise quality** — error handling, security, memory optimization
-
 
 [View on PyPI](https://pypi.org/project/fda-toolkit/) • [GitHub Repository](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace)
 
