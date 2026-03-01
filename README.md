@@ -67,6 +67,8 @@ The toolkit enables financial analysts, accountants, and data professionals to p
 - One line pipelines for complex transformations such as `ftk.quick_clean_finance()`  
 - Enterprise grade engineering including structured error handling, security controls, and memory efficiency  
 
+[View on PyPI](https://pypi.org/project/fda-toolkit/) • [GitHub Repository](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace)
+
 **Install:** 
 ```bash
 pip install fda-toolkit
