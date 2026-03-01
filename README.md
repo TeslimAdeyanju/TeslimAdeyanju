@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Avenir&size=45&center=true&vCenter=true&width=750&height=80&duration=1500&multicolor=true&color=0A66C2,1F8ACB,2FA4D6,4FC3F7,76D7EA&lines=Hi+There!+👋;I'm+Teslim+Adeyanju;Financial+Data+Analyst!+💻" />
 </h1>
 
-**Financial Data Analyst combining accounting expertise with SQL, Python, and Power BI to build reliable financial analysis and reporting systems.**
+### Financial Data Analyst combining accounting expertise with SQL, Python, and Power BI to build reliable financial analysis and reporting systems.
 
 ## About Me
 
