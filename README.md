@@ -3,6 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Teslim+Adeyanju;Financial+Data+Analyst!+🧙‍♂️" />
 </h1>
 
+---
+
 ### Chartered Accountant using Python, SQL, Power BI, and Advanced Excel to automate financial reporting and deliver audit ready analytics.
 
 Financial Data Analyst combining accounting expertise with SQL, Python, and Power BI to build reliable financial analysis and reporting systems.
