@@ -79,8 +79,6 @@ pip install fda-toolkit
 Most finance teams struggle with inconsistent data, manual checks, and reporting processes that do not scale. FDA Toolkit reflects how I approach financial analytics in practice: build once, reuse safely, and trust the output.
 The toolkit embeds financial controls, validation logic, and traceability directly into the analytics layer, ensuring results remain dependable as data volume and complexity grow.
 
-
-
 ---
 ## Selected Portfolio Work
 
@@ -98,7 +96,7 @@ The toolkit embeds financial controls, validation logic, and traceability direct
 
 ---
 
-Connect With Me    
+## Connect With Me    
 
 LinkedIn   
 https://www.linkedin.com/in/adeyanjuteslimuthman   
