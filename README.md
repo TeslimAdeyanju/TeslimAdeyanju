@@ -5,7 +5,9 @@
 
 ---
 
-### Chartered Accountant using Python, SQL, Power BI, and Advanced Excel to automate financial reporting and deliver audit ready analytics.
+<h1 align="center">
+Financial Data Analyst | Chartered Accountant | Builder of Reliable Financial Analytics Systems
+</h1>
 
 Financial Data Analyst combining accounting expertise with SQL, Python, and Power BI to build reliable financial analysis and reporting systems.
 
