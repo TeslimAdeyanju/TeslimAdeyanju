@@ -80,16 +80,19 @@ Most finance teams struggle with inconsistent data, manual checks, and reporting
 The toolkit embeds financial controls, validation logic, and traceability directly into the analytics layer, ensuring results remain dependable as data volume and complexity grow.
 
 ---
-## Selected Portfolio Work
+## 🖇️ Selected Portfolio Work
 
 <div align="center">
 
-| 🚀 **Project**                   | 🛠️ **Tech Stack**            | 📈 **Impact**                      | 🔗 **Link**                                                                                                      |
-| :------------------------------- | :--------------------------- | :--------------------------------- | :--------------------------------------------------------------------------------------------------------------- |
-| 💎 **Diamond Price Predictor**   | Python, Scikit-learn, Pandas | ML model with 95% accuracy         | [View Project](https://github.com/TeslimAdeyanju/4-Portfolio-SDS-CP023-diamond-price-predictor)                  |
-| 🔄 **Customer Churn Prediction** | Logistic Regression, Flask   | Deployed ML model for business use | [View Project](https://github.com/TeslimAdeyanju/5-Portfolio-Midterm-Sales-Forecasting-with-Logistic-Regression) |
-| 🗄️ **SQL Mastery Showcase**      | MySQL, Advanced Queries      | Complete data analysis pipeline    | [View Project](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery)     |
-| 📊 **Financial Dashboard Suite** | Power BI, DAX, Python        | Real-time executive reporting      | [Coming Soon]                                                                                                    |
+| 🚀 **Project** | 🛠️ **Tech Stack** | 📈 **Impact** | 🔗 **Link** |
+| :------------- | :----------------- | :------------ | :---------- |
+| 🏥 **NHS Trust Financial Analytics** | Python, MySQL, SQL, Power BI | End-to-end ETL pipeline covering 206 NHS Trusts across 3 financial years — star schema, KPI views, Power BI export | [View Project](https://github.com/TeslimAdeyanju/portfolio-01-nhs-financial-analytics) |
+| 🔁 **Financial Data Pipeline** | Python, APIs, Pandas, Forecasting | Full pipeline from API extraction → data cleaning → automated forecasting → trading simulation → deployment | [View Project](https://github.com/TeslimAdeyanju/portfolio-02-financial-data-pipeline) |
+| 📈 **Stock Market Analysis — Tech Giants** | Python, Pandas, NumPy, Monte Carlo | Analysed GOOGL, AMZN, AAPL & MSFT — daily returns, Sharpe ratio, volatility, 30-year Monte Carlo projection | [View Project](https://github.com/TeslimAdeyanju/portfolio-03-stock-market-analysis) |
+| 🤖 **ML in Financial Analysis** | Python, Scikit-learn, XGBoost, Kubernetes | Regression for trend prediction, classification for risk assessment, ensemble models for portfolio optimisation | [View Project](https://github.com/TeslimAdeyanju/portfolio-07-ml-financial-analysis) |
+| 💎 **Diamond Price Prediction** | Python, Scikit-learn, Pandas, EDA | End-to-end ML project — EDA, feature engineering, and supervised learning to predict diamond prices | [View Project](https://github.com/TeslimAdeyanju/portfolio-08-diamond-price-prediction) |
+| 🗄️ **MySQL — Fundamentals to Advanced** | MySQL, Python, Jupyter | Comprehensive MySQL showcase — advanced queries, stored procedures, and Python integration for live data frames | [View Project](https://github.com/TeslimAdeyanju/portfolio-21-mysql-fundamentals) |
+| 🎓 **Student Wellbeing Analytics** | MySQL, Advanced SQL, Jupyter | Advanced SQL portfolio — multi-table analysis, window functions, and insight delivery on student wellbeing data | [View Project](https://github.com/TeslimAdeyanju/portfolio-06-student-wellbeing-sql) |
 
 </div>
 
