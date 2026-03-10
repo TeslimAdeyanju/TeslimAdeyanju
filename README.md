@@ -239,18 +239,22 @@ Git Config   10 mins               ░░░░░░░░░░░░░░░
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adeyanjuteslimuthman">
-    <img src="https://img.shields.io/badge/LinkedIn-Teslim%20Adeyanju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-Teslim%20Adeyanju-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/TeslimAdeyanju">
+    <img src="https://img.shields.io/badge/github-TeslimAdeyanju-181717?logo=github&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://adeyanjuteslim.co.uk">
-    <img src="https://img.shields.io/badge/Portfolio-adeyanjuteslim.co.uk-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/portfolio-adeyanjuteslim.co.uk-000000?logo=safari&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://wakatime.com/@TeslimAdeyanju">
-    <img src="https://img.shields.io/badge/WakaTime-Dashboard-1E90FF?style=for-the-badge&logo=wakatime&logoColor=white" />
+    <img src="https://img.shields.io/badge/wakatime-dashboard-1E90FF?logo=wakatime&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://pypi.org/project/fda-toolkit/">
-    <img src="https://img.shields.io/badge/PyPI-fda--toolkit-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
+    <img src="https://img.shields.io/badge/pypi-fda--toolkit-3775A9?logo=pypi&logoColor=white" />
   </a>
 </p>
