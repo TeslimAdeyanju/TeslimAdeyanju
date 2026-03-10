@@ -3,33 +3,24 @@
 </h1>
 
 <p align="center">
-  <strong>ACA Chartered Accountant &nbsp;·&nbsp; Financial Data Analyst &nbsp;·&nbsp; 13+ Years Experience</strong><br/>
-  <em>Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; ETL Pipelines &nbsp;·&nbsp; FP&A &nbsp;·&nbsp; Data Engineering</em>
+  <em>Chartered Accountant and Financial Data Analyst — building reliable, auditable, insight-driven analytics systems with Python, SQL, and Power BI.</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Finance%20%7C%20Data%20Analyst-2ea44f?style=for-the-badge&logo=googleforms&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-United%20Kingdom-CF142B?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Visa-Sponsorship%20Required-FF6B35?style=for-the-badge&logoColor=white" />
+  <strong>Open to Finance Analyst / Data Analyst roles in the UK &nbsp;|&nbsp; Skilled Worker Visa Sponsorship required</strong>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adeyanjuteslimuthman">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/TeslimAdeyanju">
-    <img src="https://skillicons.dev/icons?i=github&theme=light" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://adeyanjuteslim.co.uk">
-    <img src="https://img.shields.io/badge/Portfolio-adeyanjuteslim.co.uk-000000?style=for-the-badge&logo=safari&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://pypi.org/project/fda-toolkit/">
-    <img src="https://img.shields.io/badge/PyPI-fda--toolkit-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
   </a>
 </p>
 
@@ -242,15 +233,11 @@ Git Config   10 mins               ░░░░░░░░░░░░░░░
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adeyanjuteslimuthman">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/TeslimAdeyanju">
-    <img src="https://skillicons.dev/icons?i=github&theme=light" />
+    <img src="https://img.shields.io/badge/LinkedIn-Teslim%20Adeyanju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://adeyanjuteslim.co.uk">
-    <img src="https://img.shields.io/badge/Portfolio-adeyanjuteslim.co.uk-000000?style=for-the-badge&logo=safari&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-adeyanjuteslim.co.uk-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://wakatime.com/@TeslimAdeyanju">
