@@ -12,15 +12,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adeyanjuteslimuthman">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
+  <a href="https://github.com/TeslimAdeyanju">
+    <img src="https://skillicons.dev/icons?i=github&theme=light" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://adeyanjuteslim.co.uk">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=vercel&theme=light" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://pypi.org/project/fda-toolkit/">
-    <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=python&theme=light" />
   </a>
 </p>
 
