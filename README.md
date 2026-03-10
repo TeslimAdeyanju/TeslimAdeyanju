@@ -215,6 +215,19 @@ pip install fda-toolkit
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 03 March 2026 - To: 09 March 2026
+
+Total Time: 33 hrs 26 mins
+
+Other        24 hrs 56 mins        ██████████████████▓░░░░░░   74.60 %
+Markdown     4 hrs 19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
+Python       3 hrs 36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
+HTML         18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Git Config   10 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
