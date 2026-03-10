@@ -80,21 +80,62 @@ Most finance teams struggle with inconsistent data, manual checks, and reporting
 The toolkit embeds financial controls, validation logic, and traceability directly into the analytics layer, ensuring results remain dependable as data volume and complexity grow.
 
 ---
-## 🖇️ Selected Portfolio Work
+## Selected Portfolio Work
 
-<div align="center">
-
-| 🚀 **Project** | 🛠️ **Tech Stack** | 📈 **Impact** | 🔗 **Link** |
-| :------------- | :----------------- | :------------ | :---------- |
-| 🏥 **NHS Trust Financial Analytics** | Python, MySQL, SQL, Power BI | End-to-end ETL pipeline covering 206 NHS Trusts across 3 financial years — star schema, KPI views, Power BI export | [View Project](https://github.com/TeslimAdeyanju/portfolio-01-nhs-financial-analytics) |
-| 🔁 **Financial Data Pipeline** | Python, APIs, Pandas, Forecasting | Full pipeline from API extraction → data cleaning → automated forecasting → trading simulation → deployment | [View Project](https://github.com/TeslimAdeyanju/portfolio-02-financial-data-pipeline) |
-| 📈 **Stock Market Analysis — Tech Giants** | Python, Pandas, NumPy, Monte Carlo | Analysed GOOGL, AMZN, AAPL & MSFT — daily returns, Sharpe ratio, volatility, 30-year Monte Carlo projection | [View Project](https://github.com/TeslimAdeyanju/portfolio-03-stock-market-analysis) |
-| 🤖 **ML in Financial Analysis** | Python, Scikit-learn, XGBoost, Kubernetes | Regression for trend prediction, classification for risk assessment, ensemble models for portfolio optimisation | [View Project](https://github.com/TeslimAdeyanju/portfolio-07-ml-financial-analysis) |
-| 💎 **Diamond Price Prediction** | Python, Scikit-learn, Pandas, EDA | End-to-end ML project — EDA, feature engineering, and supervised learning to predict diamond prices | [View Project](https://github.com/TeslimAdeyanju/portfolio-08-diamond-price-prediction) |
-| 🗄️ **MySQL — Fundamentals to Advanced** | MySQL, Python, Jupyter | Comprehensive MySQL showcase — advanced queries, stored procedures, and Python integration for live data frames | [View Project](https://github.com/TeslimAdeyanju/portfolio-21-mysql-fundamentals) |
-| 🎓 **Student Wellbeing Analytics** | MySQL, Advanced SQL, Jupyter | Advanced SQL portfolio — multi-table analysis, window functions, and insight delivery on student wellbeing data | [View Project](https://github.com/TeslimAdeyanju/portfolio-06-student-wellbeing-sql) |
-
-</div>
+<table>
+  <thead>
+    <tr>
+      <th width="220">Project</th>
+      <th width="220">Tech Stack</th>
+      <th width="400">Impact</th>
+      <th width="100">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>NHS Trust Financial Analytics</strong></td>
+      <td>Python, MySQL, SQL, Power BI</td>
+      <td>End-to-end ETL pipeline covering 206 NHS Trusts across 3 financial years — star schema, KPI views, Power BI export</td>
+      <td><a href="https://github.com/TeslimAdeyanju/portfolio-01-nhs-financial-analytics">View Project</a></td>
+    </tr>
+    <tr>
+      <td><strong>Financial Data Pipeline</strong></td>
+      <td>Python, APIs, Pandas, Forecasting</td>
+      <td>Full pipeline from API extraction to data cleaning, automated forecasting, trading simulation, and deployment</td>
+      <td><a href="https://github.com/TeslimAdeyanju/portfolio-02-financial-data-pipeline">View Project</a></td>
+    </tr>
+    <tr>
+      <td><strong>Stock Market Analysis — Tech Giants</strong></td>
+      <td>Python, Pandas, NumPy, Monte Carlo</td>
+      <td>Analysed GOOGL, AMZN, AAPL and MSFT — daily returns, Sharpe ratio, volatility, and 30-year Monte Carlo projection</td>
+      <td><a href="https://github.com/TeslimAdeyanju/portfolio-03-stock-market-analysis">View Project</a></td>
+    </tr>
+    <tr>
+      <td><strong>ML in Financial Analysis</strong></td>
+      <td>Python, Scikit-learn, XGBoost, Kubernetes</td>
+      <td>Regression for trend prediction, classification for risk assessment, ensemble models for portfolio optimisation</td>
+      <td><a href="https://github.com/TeslimAdeyanju/portfolio-07-ml-financial-analysis">View Project</a></td>
+    </tr>
+    <tr>
+      <td><strong>Diamond Price Prediction</strong></td>
+      <td>Python, Scikit-learn, Pandas, EDA</td>
+      <td>End-to-end ML project covering EDA, feature engineering, and supervised learning to predict diamond prices</td>
+      <td><a href="https://github.com/TeslimAdeyanju/portfolio-08-diamond-price-prediction">View Project</a></td>
+    </tr>
+    <tr>
+      <td><strong>MySQL — Fundamentals to Advanced</strong></td>
+      <td>MySQL, Python, Jupyter</td>
+      <td>Comprehensive MySQL showcase covering advanced queries, stored procedures, and Python integration for live data frames</td>
+      <td><a href="https://github.com/TeslimAdeyanju/portfolio-21-mysql-fundamentals">View Project</a></td>
+    </tr>
+    <tr>
+      <td><strong>Student Wellbeing Analytics</strong></td>
+      <td>MySQL, Advanced SQL, Jupyter</td>
+      <td>Advanced SQL portfolio covering multi-table analysis, window functions, and insight delivery on student wellbeing data</td>
+      <td><a href="https://github.com/TeslimAdeyanju/portfolio-06-student-wellbeing-sql">View Project</a></td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## Connect With Me    
