@@ -210,7 +210,7 @@ pip install fda-toolkit
 
 <p align="center">
   <a href="https://wakatime.com/@TeslimAdeyanju">
-    <img src="https://wakatime.com/badge/user/TeslimAdeyanju.svg" alt="Total time coded since start" />
+    <img src="https://wakatime.com/badge/user/2869787d-f72a-44d1-8a67-07b4ab81f298.svg" alt="Total time coded since start" />
   </a>
 </p>
 
