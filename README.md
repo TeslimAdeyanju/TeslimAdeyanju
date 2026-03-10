@@ -3,11 +3,8 @@
 </h1>
 
 <p align="center">
-  <em>Chartered Accountant and Financial Data Analyst — building reliable, auditable, insight-driven analytics systems with Python, SQL, and Power BI.</em>
-</p>
-
-<p align="center">
-  <strong>Open to Finance Analyst / Data Analyst roles in the UK &nbsp;|&nbsp; Skilled Worker Visa Sponsorship required</strong>
+  <em>ACA Chartered Accountant &amp; Financial Data Analyst — building audit-ready financial pipelines with Python, SQL, and Power BI.</em><br/>
+  <strong>Open to Finance &amp; Data Analyst roles in the UK &nbsp;·&nbsp; Skilled Worker Visa Sponsorship required</strong>
 </p>
 
 <p align="center">
