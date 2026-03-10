@@ -142,10 +142,10 @@ pip install fda-toolkit
 <table>
   <thead>
     <tr>
-      <th width="220">Project</th>
-      <th width="220">Tech Stack</th>
-      <th width="400">Impact</th>
-      <th width="100">Link</th>
+      <th width="190">Project</th>
+      <th width="200">Tech Stack</th>
+      <th width="370">Impact</th>
+      <th width="140">Link</th>
     </tr>
   </thead>
   <tbody>
