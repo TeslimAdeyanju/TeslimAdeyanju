@@ -2,7 +2,29 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Avenir&size=45&center=true&vCenter=true&width=750&height=80&duration=1500&multicolor=true&color=0A66C2,1F8ACB,2FA4D6,4FC3F7,76D7EA&lines=Hi+There!+👋;I'm+Teslim+Adeyanju;Financial+Data+Analyst!+💻" />
 </h1>
 
-#### *Financial Data Analyst combining accounting expertise with SQL, Python, and Power BI to build reliable financial analysis and reporting systems.*
+<p align="center">
+  <em>Chartered Accountant and Financial Data Analyst — building reliable, auditable, insight-driven analytics systems with Python, SQL, and Power BI.</em>
+</p>
+
+<p align="center">
+  <strong>Open to Finance Analyst / Data Analyst roles in the UK &nbsp;|&nbsp; Skilled Worker Visa Sponsorship required</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adeyanjuteslimuthman">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://adeyanjuteslim.co.uk">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://pypi.org/project/fda-toolkit/">
+    <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ## About Me
 
@@ -14,40 +36,51 @@ I design solutions that replace spreadsheet driven processes with controlled pip
 
 My approach combines accounting discipline with data engineering practices to ensure financial outputs remain reliable, explainable, and scalable.
 
+> 💡 **Philosophy:** Good data engineering makes good analysis simple. Clean data, reliable pipelines, audit trails built in.
+
+---
+
 ## Core Expertise
 
-1. Financial Planning and Analysis  
-2. Budgeting, Forecasting, and Variance Analysis  
-3. Reporting Automation and Process Optimisation  
-4. Data Modelling for Financial Analytics  
-5. Audit Ready Analytics and Control Frameworks  
-6. Performance Management and Decision Support  
+- Financial Planning and Analysis
+- Budgeting, Forecasting, and Variance Analysis
+- Reporting Automation and Process Optimisation
+- Data Modelling for Financial Analytics
+- Audit Ready Analytics and Control Frameworks
+- Performance Management and Decision Support
+
+---
 
 ## Technical Stack
 
-Python for financial data pipelines, validation, and modelling  
-SQL for structured analytics, ETL logic, and performance optimisation  
-Power BI for semantic modelling, DAX development, and executive dashboards  
-Advanced Excel for financial modelling and reconciliations  
-Git for version controlled and reproducible analytics workflows  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+---
 
 ## What I Do Differently
 
 I treat financial analysis as an engineering discipline rather than a reporting activity.
 
-I build systems that are:
-
-1. Traceable  
-2. Reusable  
-3. Auditable  
-4. Performance Optimised  
-5. Designed for scale rather than manual maintenance  
+I build systems that are traceable, reusable, auditable, and performance optimised — designed for scale rather than manual maintenance.
 
 This allows organisations to move from static reporting to insight driven decision making supported by controlled data pipelines.
 
+---
+
 ## Open Source Project Lead
 
-### ✨[FDA Toolkit](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace) — Enterprise Financial Data Toolkit
+### [FDA Toolkit](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace) — Enterprise Financial Data Toolkit
 
 [![PyPI version](https://img.shields.io/pypi/v/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
 [![Python versions](https://img.shields.io/pypi/pyversions/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
@@ -58,28 +91,26 @@ I am the creator and maintainer of **FDA Toolkit**, an open source Python projec
 
 The toolkit enables financial analysts, accountants, and data professionals to produce reliable, auditable, and repeatable analytics by replacing fragile spreadsheet driven processes with structured validation, transformation, and reporting pipelines designed for production use.
 
-### Key Features
+**Key Features**
 
-- 67 production ready functions organised across 8 modular components  
-- Full type hinting with IDE level autocomplete and validation  
-- Compliance focused design with automatic audit logging and traceability  
-- Finance aware validation tailored to real accounting and FP&A workflows  
-- One line pipelines for complex transformations such as `ftk.quick_clean_finance()`  
-- Enterprise grade engineering including structured error handling, security controls, and memory efficiency  
+- 67 production ready functions organised across 8 modular components
+- Full type hinting with IDE level autocomplete and validation
+- Compliance focused design with automatic audit logging and traceability
+- Finance aware validation tailored to real accounting and FP&A workflows
+- One line pipelines for complex transformations such as `ftk.quick_clean_finance()`
+- Enterprise grade engineering including structured error handling, security controls, and memory efficiency
 
-[View on PyPI](https://pypi.org/project/fda-toolkit/) • [GitHub Repository](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace)
-
-**Install:** 
+**Install:**
 ```bash
 pip install fda-toolkit
 ```
-![Alt text for the image](./image.png)
 
-### Why FDA Toolkit Matters:
-Most finance teams struggle with inconsistent data, manual checks, and reporting processes that do not scale. FDA Toolkit reflects how I approach financial analytics in practice: build once, reuse safely, and trust the output.
-The toolkit embeds financial controls, validation logic, and traceability directly into the analytics layer, ensuring results remain dependable as data volume and complexity grow.
+<img src="./image.png" alt="FDA Toolkit overview" width="100%" />
+
+[View on PyPI](https://pypi.org/project/fda-toolkit/) &nbsp;•&nbsp; [GitHub Repository](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace)
 
 ---
+
 ## Selected Portfolio Work
 
 <table>
@@ -137,19 +168,30 @@ The toolkit embeds financial controls, validation logic, and traceability direct
   </tbody>
 </table>
 
+---
 
-## Connect With Me    
+## GitHub Activity
 
-LinkedIn   
-https://www.linkedin.com/in/adeyanjuteslimuthman   
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TeslimAdeyanju&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333&bg_color=ffffff" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeslimAdeyanju&layout=compact&hide_border=true&title_color=0A66C2&text_color=333333&bg_color=ffffff" height="165" />
+</p>
 
-Portfolio  
-https://adeyanjuteslim.co.uk   
+---
 
-GitHub   
-https://github.com/TeslimAdeyanju   
+## Connect
 
-
-
-> 💡 **Philosophy:** Good data engineering makes good analysis simple. Clean data, reliable pipelines, audit trails built in.
->
+<p>
+  <a href="https://www.linkedin.com/in/adeyanjuteslimuthman">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://adeyanjuteslim.co.uk">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://pypi.org/project/fda-toolkit/">
+    <img src="https://img.shields.io/badge/FDA_Toolkit_on_PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
+  </a>
+</p>
