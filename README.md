@@ -23,6 +23,10 @@
   <a href="https://pypi.org/project/fda-toolkit/">
     <img src="https://img.shields.io/badge/pypi-fda--toolkit-3775A9?logo=pypi&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://wakatime.com/@TeslimAdeyanju">
+    <img src="https://img.shields.io/badge/wakatime-dashboard-1E90FF?logo=wakatime&logoColor=white" />
+  </a>
 </p>
 
 ---
