@@ -45,9 +45,11 @@ I design solutions that replace spreadsheet driven processes with controlled pip
 
 My approach combines accounting discipline with data engineering practices to ensure financial outputs remain reliable, explainable, and scalable.
 
-> 💡 **Philosophy:** Good data engineering makes good analysis simple. Clean data, reliable pipelines, audit trails built in.
 
 🏅 **Microsoft Certified:** Power BI Data Analyst Associate (PL-300) — March 2026
+
+> 💡 **Philosophy:** Good data engineering makes good analysis simple. Clean data, reliable pipelines, audit trails built in.
+
 
 ---
 
