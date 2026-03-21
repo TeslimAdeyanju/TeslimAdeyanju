@@ -37,7 +37,7 @@
 
 ## About Me
 
-I am a Chartered Accountant and Financial Data Analyst with over a decade of experience across financial reporting, FP&A, and data analytics.
+I am a Chartered Accountant, Microsoft Certified Power BI Data Analyst (PL-300), and Financial Data Analyst with over a decade of experience across financial reporting, FP&A, and data analytics.
 
 My work focuses on transforming traditional finance environments into structured, automated, and traceable analytical systems using Python, SQL, and Power BI.
 
@@ -45,11 +45,18 @@ I design solutions that replace spreadsheet driven processes with controlled pip
 
 My approach combines accounting discipline with data engineering practices to ensure financial outputs remain reliable, explainable, and scalable.
 
-
-🏅 **Microsoft Certified:** Power BI Data Analyst Associate (PL-300) — March 2026
-
 > 💡 **Philosophy:** Good data engineering makes good analysis simple. Clean data, reliable pipelines, audit trails built in.
 
+---
+
+## Qualifications & Certifications
+
+- MSc Finance and Investment Banking (with Advanced Research) — Distinction · University of Hertfordshire, UK · 2024
+- ACA — Associate Chartered Accountant · Institute of Chartered Accountants of Nigeria · 2019
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300) · 2026
+- Xero Certified Advisor
+- SQL & Database Design
+- Python for Data Analysis
 
 ---
 
