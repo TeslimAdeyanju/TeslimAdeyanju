@@ -3,8 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>ACA Chartered Accountant &amp; Microsoft Certified Power BI Data Analyst — building audit-ready financial pipelines with Python, SQL, and Power BI.</em><br/>
-  <strong>Open to Finance &amp; Data Analyst roles in the UK &nbsp;·&nbsp; Skilled Worker Visa Sponsorship required</strong>
+  <em>ACA Chartered Accountant &amp; Microsoft Certified Power BI Data Analyst — building audit-ready financial pipelines with Python, SQL, and Power BI &nbsp;·&nbsp; Open to Finance &amp; Data Analyst roles in the UK.</em>
 </p>
 
 <p align="center">
