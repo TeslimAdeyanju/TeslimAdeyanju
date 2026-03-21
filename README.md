@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>ACA Chartered Accountant &amp; Financial Data Analyst — building audit-ready financial pipelines with Python, SQL, and Power BI.</em><br/>
+  <em>ACA Chartered Accountant &amp; Microsoft Certified Power BI Data Analyst — building audit-ready financial pipelines with Python, SQL, and Power BI.</em><br/>
   <strong>Open to Finance &amp; Data Analyst roles in the UK &nbsp;·&nbsp; Skilled Worker Visa Sponsorship required</strong>
 </p>
 
@@ -27,6 +27,10 @@
   <a href="https://wakatime.com/@TeslimAdeyanju">
     <img src="https://img.shields.io/badge/wakatime-dashboard-1E90FF?logo=wakatime&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/">
+    <img src="https://img.shields.io/badge/Microsoft%20PL--300-Power%20BI%20Data%20Analyst-0078D4?logo=microsoftazure&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -42,6 +46,8 @@ I design solutions that replace spreadsheet driven processes with controlled pip
 My approach combines accounting discipline with data engineering practices to ensure financial outputs remain reliable, explainable, and scalable.
 
 > 💡 **Philosophy:** Good data engineering makes good analysis simple. Clean data, reliable pipelines, audit trails built in.
+
+🏅 **Microsoft Certified:** Power BI Data Analyst Associate (PL-300) — March 2026
 
 ---
 
