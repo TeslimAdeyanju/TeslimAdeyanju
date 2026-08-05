@@ -174,7 +174,19 @@ pip install fda-toolkit
       <td><strong>NHS Trust Financial Analytics</strong></td>
       <td>Python, MySQL, SQL, Power BI</td>
       <td>End-to-end ETL pipeline covering 206 NHS Trusts across 3 financial years — star schema, KPI views, Power BI export</td>
-      <td><a href="https://github.com/TeslimAdeyanju/portfolio-01-nhs-financial-analytics">View Project</a></td>
+      <td><a href="https://github.com/TeslimAdeyanju/portfolio-01-nhs-trust-financial-analytics">View Project</a></td>
+    </tr>
+    <tr>
+      <td><strong>Financial Report Intelligence System</strong></td>
+      <td>Python, Multi-Agent AI, LLM</td>
+      <td>Multi-agent AI platform that extracts financial metrics, flags risk signals, and generates evidence-based commentary from corporate reports</td>
+      <td><a href="https://github.com/TeslimAdeyanju/portfolio-26-Financial-Report-Intelligence-System">View Project</a></td>
+    </tr>
+    <tr>
+      <td><strong>Advanced SQL — Cohort Risk Segmentation</strong></td>
+      <td>MySQL, Advanced SQL, Jupyter</td>
+      <td>Enterprise-grade SQL (25+ queries, window functions, CTEs) segmenting international student risk cohorts from mental health outcome data</td>
+      <td><a href="https://github.com/TeslimAdeyanju/portfolio-06-advanced-sql-analytics-international-cohort-risk-segmentation">View Project</a></td>
     </tr>
     <tr>
       <td><strong>Financial Data Pipeline</strong></td>
@@ -183,34 +195,22 @@ pip install fda-toolkit
       <td><a href="https://github.com/TeslimAdeyanju/portfolio-02-financial-data-pipeline">View Project</a></td>
     </tr>
     <tr>
-      <td><strong>Stock Market Analysis — Tech Giants</strong></td>
-      <td>Python, Pandas, NumPy, Monte Carlo</td>
-      <td>Analysed GOOGL, AMZN, AAPL and MSFT — daily returns, Sharpe ratio, volatility, and 30-year Monte Carlo projection</td>
-      <td><a href="https://github.com/TeslimAdeyanju/portfolio-03-stock-market-analysis">View Project</a></td>
-    </tr>
-    <tr>
       <td><strong>ML in Financial Analysis</strong></td>
       <td>Python, Scikit-learn, XGBoost, Kubernetes</td>
       <td>Regression for trend prediction, classification for risk assessment, ensemble models for portfolio optimisation</td>
       <td><a href="https://github.com/TeslimAdeyanju/portfolio-07-ml-financial-analysis">View Project</a></td>
     </tr>
     <tr>
-      <td><strong>Diamond Price Prediction</strong></td>
-      <td>Python, Scikit-learn, Pandas, EDA</td>
-      <td>End-to-end ML project covering EDA, feature engineering, and supervised learning to predict diamond prices</td>
-      <td><a href="https://github.com/TeslimAdeyanju/portfolio-08-diamond-price-prediction">View Project</a></td>
+      <td><strong>Stock Market Analysis — Tech Giants</strong></td>
+      <td>Python, Pandas, NumPy, Monte Carlo</td>
+      <td>Analysed GOOGL, AMZN, AAPL and MSFT — daily returns, Sharpe ratio, volatility, and 30-year Monte Carlo projection</td>
+      <td><a href="https://github.com/TeslimAdeyanju/portfolio-03-stock-market-analysis">View Project</a></td>
     </tr>
     <tr>
       <td><strong>MySQL — Fundamentals to Advanced</strong></td>
       <td>MySQL, Python, Jupyter</td>
       <td>Comprehensive MySQL showcase covering advanced queries, stored procedures, and Python integration for live data frames</td>
       <td><a href="https://github.com/TeslimAdeyanju/portfolio-21-mysql-fundamentals">View Project</a></td>
-    </tr>
-    <tr>
-      <td><strong>Student Wellbeing Analytics</strong></td>
-      <td>MySQL, Advanced SQL, Jupyter</td>
-      <td>Advanced SQL portfolio covering multi-table analysis, window functions, and insight delivery on student wellbeing data</td>
-      <td><a href="https://github.com/TeslimAdeyanju/portfolio-06-student-wellbeing-sql">View Project</a></td>
     </tr>
   </tbody>
 </table>
