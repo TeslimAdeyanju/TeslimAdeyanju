@@ -238,15 +238,15 @@ pip install fda-toolkit
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2026 - To: 08 August 2026
+From: 02 August 2026 - To: 09 August 2026
 
-Total Time: 52 hrs 37 mins
+Total Time: 48 hrs 55 mins
 
-Other        29 hrs 19 mins        ██████████████░░░░░░░░░░░   55.72 %
-Markdown     12 hrs 14 mins        █████▓░░░░░░░░░░░░░░░░░░░   23.26 %
-Python       8 hrs 46 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
-YAML         42 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Bash         36 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Other        29 hrs 16 mins        ███████████████░░░░░░░░░░   59.82 %
+Markdown     9 hrs 37 mins         █████░░░░░░░░░░░░░░░░░░░░   19.67 %
+Python       7 hrs 56 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
+YAML         42 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Bash         36 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
