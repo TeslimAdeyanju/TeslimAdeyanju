@@ -1,61 +1,62 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Avenir&size=45&center=true&vCenter=true&width=750&height=80&duration=1500&multicolor=true&color=0A66C2,1F8ACB,2FA4D6,4FC3F7,76D7EA&lines=Hi+There!+👋;I'm+Teslim+Adeyanju;Financial+Data+Analyst!+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Avenir&size=42&center=true&vCenter=true&width=800&height=80&duration=1800&multicolor=true&color=0A66C2,1F8ACB,2FA4D6,4FC3F7,76D7EA&lines=Hi%2C+I%27m+Teslim+Adeyanju;Financial+Data+Analyst+%7C+ACA;Power+BI%2C+Finance+%26+Data+Automation" alt="Teslim Adeyanju — Financial Data Analyst" />
 </h1>
 
 <p align="center">
-  <em>ACA Chartered Accountant &amp; Microsoft Certified Power BI Data Analyst — building audit-ready financial pipelines with Python, SQL, and Power BI &nbsp;·&nbsp; Open to Finance &amp; Data Analyst roles in the UK.</em>
+  <em>Microsoft Certified: Power BI Data Analyst Associate (PL-300) &amp; Azure Data Fundamentals (DP-900) · ACA Chartered Accountant · Transforming finance through Power BI, SQL, Python, Microsoft Fabric and Azure data services.</em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adeyanjuteslimuthman">
-    <img src="https://img.shields.io/badge/linkedin-Teslim%20Adeyanju-0A66C2?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Teslim%20Adeyanju-0A66C2?logo=linkedin&logoColor=white" alt="Teslim Adeyanju on LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/TeslimAdeyanju">
-    <img src="https://img.shields.io/badge/github-TeslimAdeyanju-181717?logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-TeslimAdeyanju-181717?logo=github&logoColor=white" alt="Teslim Adeyanju on GitHub" />
   </a>
   &nbsp;
   <a href="https://adeyanjuteslim.co.uk">
-    <img src="https://img.shields.io/badge/portfolio-adeyanjuteslim.co.uk-000000?logo=safari&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-adeyanjuteslim.co.uk-000000?logo=safari&logoColor=white" alt="Teslim Adeyanju portfolio" />
   </a>
   &nbsp;
   <a href="https://pypi.org/project/fda-toolkit/">
-    <img src="https://img.shields.io/badge/pypi-fda--toolkit-3775A9?logo=pypi&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://wakatime.com/@TeslimAdeyanju">
-    <img src="https://img.shields.io/badge/wakatime-dashboard-1E90FF?logo=wakatime&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyPI-fda--toolkit-3775A9?logo=pypi&logoColor=white" alt="FDA Toolkit on PyPI" />
   </a>
   &nbsp;
   <a href="https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/">
-    <img src="https://img.shields.io/badge/Microsoft%20PL--300-Power%20BI%20Data%20Analyst-0078D4?logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft%20PL--300-Power%20BI%20Data%20Analyst-0078D4?logo=microsoftazure&logoColor=white" alt="Microsoft Certified Power BI Data Analyst Associate PL-300" />
+  </a>
+  &nbsp;
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/">
+    <img src="https://img.shields.io/badge/Microsoft%20DP--900-Azure%20Data%20Fundamentals-0078D4?logo=microsoftazure&logoColor=white" alt="Microsoft Certified Azure Data Fundamentals DP-900" />
   </a>
 </p>
+
 
 ---
 
 ## About Me
 
-I am a Chartered Accountant, Microsoft Certified Power BI Data Analyst (PL-300), and Financial Data Analyst with over a decade of experience across financial reporting, FP&A, and data analytics.
+I am a Financial Data Analyst, ACA Chartered Accountant, and Microsoft Certified: Power BI Data Analyst Associate (PL-300) and Azure Data Fundamentals (DP-900) professional, with over a decade of experience in financial reporting, FP&amp;A and data analytics.
 
-My work focuses on transforming traditional finance environments into structured, automated, and traceable analytical systems using Python, SQL, and Power BI.
+I help organisations turn complex financial data into trusted, decision-ready insight. I combine finance and accounting expertise with Power BI, Microsoft Fabric, Azure data services, SQL and Python to improve reporting quality, automate repeatable processes and strengthen financial controls.
 
-I design solutions that replace spreadsheet driven processes with controlled pipelines that improve accuracy, speed, and decision confidence.
+I build Power BI semantic models, star-schema data models, SQL data pipelines and Python-enabled financial workflows. My focus is reliable, scalable and auditable reporting—helping finance teams move beyond spreadsheet-led processes towards governed self-service analytics.
 
-My approach combines accounting discipline with data engineering practices to ensure financial outputs remain reliable, explainable, and scalable.
-
-> 💡 **Philosophy:** Good data engineering makes good analysis simple. Clean data, reliable pipelines, audit trails built in.
+> 💡 **Approach:** Finance expertise first; data and automation as the enablers. Clean data, controlled processes and transparent logic make better financial decisions possible.
 
 ---
 
 ## Qualifications & Certifications
-
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300) · 2026
+- Microsoft Certified: Azure Data Fundamentals (DP-900) · 2026
 - MSc Finance and Investment Banking (with Advanced Research) — Distinction · University of Hertfordshire, UK · 2024
 - ACA — Associate Chartered Accountant · Institute of Chartered Accountants of Nigeria · 2019
-- Microsoft Certified: Power BI Data Analyst Associate (PL-300) · 2026
-- Xero Certified Advisor
-- SQL & Database Design
-- Python for Data Analysis
+- Databricks Accredited: Lakehouse Platform Fundamentals · 2026
+- Databricks Generative AI Fundamentals · 2026
+- Xero Certified Advisor · 2025
+- SQL (Advanced) — HackerRank · 2026
+- Python for Data Analysis — SuperDataScience · 2025
 
 ---
 
@@ -115,16 +116,6 @@ My approach combines accounting discipline with data engineering practices to en
 
 ---
 
-## What I Do Differently
-
-I treat financial analysis as an engineering discipline rather than a reporting activity.
-
-I build systems that are traceable, reusable, auditable, and performance optimised — designed for scale rather than manual maintenance.
-
-This allows organisations to move from static reporting to insight driven decision making supported by controlled data pipelines.
-
----
-
 ## Open Source Project Lead
 
 ### [FDA Toolkit](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace) — Enterprise Financial Data Toolkit
@@ -138,14 +129,13 @@ I am the creator and maintainer of **FDA Toolkit**, an open source Python projec
 
 The toolkit enables financial analysts, accountants, and data professionals to produce reliable, auditable, and repeatable analytics by replacing fragile spreadsheet driven processes with structured validation, transformation, and reporting pipelines designed for production use.
 
-**Key Features**
-
-- 67 production ready functions organised across 8 modular components
-- Full type hinting with IDE level autocomplete and validation
-- Compliance focused design with automatic audit logging and traceability
-- Finance aware validation tailored to real accounting and FP&A workflows
-- One line pipelines for complex transformations such as `ftk.quick_clean_finance()`
-- Enterprise grade engineering including structured error handling, security controls, and memory efficiency
+**Financial analytics capabilities**
+- Clean, standardise and validate financial datasets before reporting or analysis
+- Support reconciliations, data-quality checks and traceable financial workflows
+- Automate repeatable finance and FP&A analysis tasks using reusable Python functions
+- Apply audit logging and consistent error handling to strengthen operational control
+- Provide one-line utility workflows, including `ftk.quick_clean_finance()`
+- Support integration with SQL, Power BI and broader financial-data pipelines
 
 **Install:**
 ```bash
