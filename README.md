@@ -127,6 +127,12 @@ I build Power BI semantic models, star-schema data models, SQL data pipelines an
       <td>Comprehensive MySQL showcase covering advanced queries, stored procedures, and Python integration for live data frames</td>
       <td><a href="https://github.com/TeslimAdeyanju/MySQL-Fundamentals">View Project</a></td>
     </tr>
+    <tr>
+      <td><strong>Superstore Sales &amp; Profitability (MySQL)</strong></td>
+      <td>MySQL, SQL, Power BI</td>
+      <td>KPI extraction in MySQL (retention, average order value, discount impact) with a Power BI executive view</td>
+      <td><em>Coming soon</em></td>
+    </tr>
   </tbody>
 </table>
 </details>
@@ -155,6 +161,12 @@ I build Power BI semantic models, star-schema data models, SQL data pipelines an
       <td>Python, Pandas, NumPy, Monte Carlo</td>
       <td>Analysed GOOGL, AMZN, AAPL and MSFT — daily returns, Sharpe ratio, volatility, and 30-year Monte Carlo projection</td>
       <td><a href="https://github.com/TeslimAdeyanju/Stock-Market-Analysis">View Project</a></td>
+    </tr>
+    <tr>
+      <td><strong>Investment Portfolio Optimisation</strong></td>
+      <td>Python, Pandas, Monte Carlo</td>
+      <td>Monte Carlo simulation and Markowitz efficient frontier allocation using the Sharpe ratio</td>
+      <td><em>Coming soon</em></td>
     </tr>
   </tbody>
 </table>
@@ -190,6 +202,12 @@ I build Power BI semantic models, star-schema data models, SQL data pipelines an
       <td>Python, Scikit-learn, Flask, Docker</td>
       <td>Profit prediction across segments, regions and categories (98.1% accuracy), deployed as a Flask API in Docker</td>
       <td><a href="https://github.com/TeslimAdeyanju/Superstore-Sales-Prediction">View Project</a></td>
+    </tr>
+    <tr>
+      <td><strong>Credit Risk &amp; Loan Default Prediction</strong></td>
+      <td>Python, Scikit-learn, XGBoost</td>
+      <td>Logistic regression and XGBoost default model evaluated with ROC-AUC and cross-validation</td>
+      <td><em>Coming soon</em></td>
     </tr>
   </tbody>
 </table>
