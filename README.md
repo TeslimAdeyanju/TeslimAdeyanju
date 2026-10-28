@@ -46,7 +46,7 @@ I build Power BI semantic models, star-schema data models, SQL data pipelines an
   <tbody>
     <tr>
       <td>2025&nbsp;&#8288;–&#8288;&nbsp;Present</td>
-      <td><strong>Founder &amp; Independent Financial Data Analyst</strong><br /><sub>Independent practice · Hampshire, UK</sub></td>
+      <td><strong>Freelance Financial Data Analyst</strong><br /><sub>CoreInsight Financial Advisory Ltd · Hampshire, UK</sub></td>
       <td>Built an NHS financial analytics pipeline (2.1M records, 206 Trusts); published the open-source fda-toolkit</td>
     </tr>
     <tr>
