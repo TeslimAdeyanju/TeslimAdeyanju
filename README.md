@@ -1,12 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Avenir&size=42&center=true&vCenter=true&width=800&height=80&duration=1800&multicolor=true&color=0A66C2,1F8ACB,2FA4D6,4FC3F7,76D7EA&lines=Hi%2C+I%27m+Teslim+Adeyanju;Financial+Data+Analyst+%7C+ACA;Power+BI%2C+Finance+%26+Data+Automation" alt="Teslim Adeyanju — Financial Data Analyst" />
-</h1>
-
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Avenir&size=42&center=true&vCenter=true&width=800&height=60&duration=1800&color=0A3069&lines=Hi%2C+I%27m+Teslim+Adeyanju;Financial+Data+Analyst+%7C+ACA;Power+BI%2C+Finance+%26+Data+Automation" alt="Teslim Adeyanju — Financial Data Analyst" />
+  <br />
   <em>ACA Chartered Accountant &amp; Financial Data Analyst · Power BI · SQL · Python · Databricks</em>
-</p>
-
-<p align="center">
+  <br />
   <strong>Open to Finance &amp; Data Analyst roles in the UK</strong> &nbsp;·&nbsp; Currently building: <a href="https://github.com/TeslimAdeyanju">NHS Cost of Waiting</a>
 </p>
 
