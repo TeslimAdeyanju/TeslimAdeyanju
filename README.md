@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Avenir&size=42&center=true&vCenter=true&width=800&height=60&duration=1800&color=0A3069&lines=Hi%2C+I%27m+Teslim+Adeyanju;Financial+Data+Analyst+%7C+ACA;Power+BI%2C+Finance+%26+Data+Automation" alt="Teslim Adeyanju — Financial Data Analyst" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Avenir&size=42&center=true&vCenter=true&width=800&height=60&duration=1800&color=58A6FF&lines=Hi%2C+I%27m+Teslim+Adeyanju;Financial+Data+Analyst+%7C+ACA;Power+BI%2C+Finance+%26+Data+Automation" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Avenir&size=42&center=true&vCenter=true&width=800&height=60&duration=1800&color=0A3069&lines=Hi%2C+I%27m+Teslim+Adeyanju;Financial+Data+Analyst+%7C+ACA;Power+BI%2C+Finance+%26+Data+Automation" alt="Teslim Adeyanju — Financial Data Analyst" />
+  </picture>
   <br />
   <em>ACA Chartered Accountant &amp; Financial Data Analyst · Power BI · SQL · Python · Databricks</em>
   <br />
@@ -7,34 +10,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adeyanjuteslimuthman">
-    <img src="https://img.shields.io/badge/LinkedIn-Teslim%20Adeyanju-0A66C2?logo=linkedin&logoColor=white" alt="Teslim Adeyanju on LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/TeslimAdeyanju">
-    <img src="https://img.shields.io/badge/GitHub-TeslimAdeyanju-181717?logo=github&logoColor=white" alt="Teslim Adeyanju on GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://adeyanjuteslim.co.uk">
-    <img src="https://img.shields.io/badge/Portfolio-adeyanjuteslim.co.uk-000000?logo=safari&logoColor=white" alt="Teslim Adeyanju portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://pypi.org/project/fda-toolkit/">
-    <img src="https://img.shields.io/badge/PyPI-fda--toolkit-3775A9?logo=pypi&logoColor=white" alt="FDA Toolkit on PyPI" />
-  </a>
-  &nbsp;
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/">
-    <img src="https://img.shields.io/badge/Microsoft%20PL--300-Power%20BI%20Data%20Analyst-0078D4?logo=microsoftazure&logoColor=white" alt="Microsoft Certified Power BI Data Analyst Associate PL-300" />
-  </a>
-  &nbsp;
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/">
-    <img src="https://img.shields.io/badge/Microsoft%20DP--900-Azure%20Data%20Fundamentals-0078D4?logo=microsoftazure&logoColor=white" alt="Microsoft Certified Azure Data Fundamentals DP-900" />
-  </a>
+  <a href="https://www.linkedin.com/in/adeyanjuteslimuthman">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/TeslimAdeyanju">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://adeyanjuteslim.co.uk">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://pypi.org/project/fda-toolkit/">FDA Toolkit (PyPI)</a> &nbsp;·&nbsp;
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/">Microsoft PL-300</a> &nbsp;·&nbsp;
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/">Microsoft DP-900</a>
 </p>
 
 ---
 
-## [About Me](#about-me)
+## About Me
 
 I am a Financial Data Analyst and ACA Chartered Accountant with over a decade of experience in financial reporting, FP&amp;A and data analytics.
 
@@ -46,9 +32,9 @@ I build Power BI semantic models, star-schema data models, SQL data pipelines an
 
 ---
 
-## [Selected Portfolio Work](#selected-portfolio-work)
+## Selected Portfolio Work
 
-## [Flagship Projects](#flagship-projects)
+## Flagship Projects
 
 <table>
   <tr>
@@ -70,7 +56,7 @@ I build Power BI semantic models, star-schema data models, SQL data pipelines an
   </tr>
 </table>
 
-## [Projects by Skill](#projects-by-skill)
+## Projects by Skill
 
 <sub>Click a skill area to see its projects.</sub>
 
@@ -322,7 +308,7 @@ More Machine Learning and LLM agent projects on my second account: [github.com/U
 
 ---
 
-## [Qualifications & Certifications](#qualifications--certifications)
+## Qualifications & Certifications
 
 <table>
   <tr>
@@ -363,7 +349,7 @@ More Machine Learning and LLM agent projects on my second account: [github.com/U
 
 ---
 
-## [Core Expertise](#core-expertise)
+## Core Expertise
 
 <table>
   <thead>
@@ -402,7 +388,7 @@ More Machine Learning and LLM agent projects on my second account: [github.com/U
 
 ---
 
-## [Technical Stack](#technical-stack)
+## Technical Stack
 
 <h4 align="center">Languages</h4>
 <p align="center">
@@ -446,7 +432,7 @@ More Machine Learning and LLM agent projects on my second account: [github.com/U
 
 ---
 
-## [Open Source Project Lead](#open-source-project-lead)
+## Open Source Project Lead
 
 ### [FDA Toolkit](https://github.com/CoreInsightFinance/Financial-Data-Analysis-Toolkit-Workspace) — Enterprise Financial Data Toolkit
 
@@ -478,7 +464,7 @@ pip install fda-toolkit
 
 ---
 
-## [GitHub Activity](#github-activity)
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TeslimAdeyanju&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333&bg_color=ffffff" height="165" />
@@ -488,7 +474,7 @@ pip install fda-toolkit
 
 ---
 
-## [Coding Activity — WakaTime](#coding-activity--wakatime)
+## Coding Activity — WakaTime
 
 <p align="center">
   <a href="https://wakatime.com/@TeslimAdeyanju">
@@ -498,26 +484,12 @@ pip install fda-toolkit
 
 ---
 
-## [Connect](#connect)
+## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adeyanjuteslimuthman">
-    <img src="https://img.shields.io/badge/LinkedIn-Teslim%20Adeyanju-0A66C2?logo=linkedin&logoColor=white" alt="Teslim Adeyanju on LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:info@adeyanjuteslim.co.uk">
-    <img src="https://img.shields.io/badge/Email-info%40adeyanjuteslim.co.uk-D14836?logo=gmail&logoColor=white" alt="Email Teslim Adeyanju" />
-  </a>
-  &nbsp;
-  <a href="https://adeyanjuteslim.co.uk">
-    <img src="https://img.shields.io/badge/Portfolio-adeyanjuteslim.co.uk-000000?logo=safari&logoColor=white" alt="Teslim Adeyanju portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/TeslimAdeyanju">
-    <img src="https://img.shields.io/badge/GitHub-TeslimAdeyanju-181717?logo=github&logoColor=white" alt="Teslim Adeyanju on GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://pypi.org/project/fda-toolkit/">
-    <img src="https://img.shields.io/badge/PyPI-fda--toolkit-3775A9?logo=pypi&logoColor=white" alt="FDA Toolkit on PyPI" />
-  </a>
+  <a href="https://www.linkedin.com/in/adeyanjuteslimuthman">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:info@adeyanjuteslim.co.uk">info@adeyanjuteslim.co.uk</a> &nbsp;·&nbsp;
+  <a href="https://adeyanjuteslim.co.uk">adeyanjuteslim.co.uk</a> &nbsp;·&nbsp;
+  <a href="https://github.com/TeslimAdeyanju">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://pypi.org/project/fda-toolkit/">FDA Toolkit (PyPI)</a>
 </p>
