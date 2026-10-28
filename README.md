@@ -231,7 +231,7 @@ I build Power BI semantic models, star-schema data models, SQL data pipelines an
 </details>
 
 <details>
-<summary><strong>Financial Analysis &amp; Management</strong> &nbsp;·&nbsp; in progress</summary>
+<summary><strong>Financial Analysis &amp; Management</strong></summary>
 
 <table>
   <thead>
@@ -254,7 +254,7 @@ I build Power BI semantic models, star-schema data models, SQL data pipelines an
 </details>
 
 <details>
-<summary><strong>Advanced Excel &amp; Financial Modelling</strong> &nbsp;·&nbsp; coming Dec 2026</summary>
+<summary><strong>Advanced Excel &amp; Financial Modelling</strong></summary>
 
 <table>
   <thead>
@@ -277,7 +277,7 @@ I build Power BI semantic models, star-schema data models, SQL data pipelines an
 </details>
 
 <details>
-<summary><strong>Statistics &amp; Analytics</strong> &nbsp;·&nbsp; coming Jan 2027</summary>
+<summary><strong>Statistics &amp; Analytics</strong></summary>
 
 <table>
   <thead>
