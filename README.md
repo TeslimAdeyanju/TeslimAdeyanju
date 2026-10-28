@@ -192,10 +192,10 @@ I build Power BI semantic models, star-schema data models, SQL data pipelines an
       <td><a href="https://github.com/TeslimAdeyanju/Applied-Machine-Learning-for-Financial-Analysis">View Project</a></td>
     </tr>
     <tr>
-      <td><strong>Diamond Price Prediction</strong></td>
-      <td>Python, XGBoost, Scikit-learn, Streamlit</td>
-      <td>End-to-end pipeline on 53,940 diamonds — XGBoost reaches R² 0.982 with an interactive Streamlit app</td>
-      <td><a href="https://github.com/TeslimAdeyanju/Diamond-Price-Prediction">View Project</a></td>
+      <td><strong>Product Price Prediction &amp; Analytics</strong></td>
+      <td>Python, Scikit-learn, XGBoost, Streamlit</td>
+      <td>Feature-based price modelling workflow (EDA, feature engineering, regression comparison) with a Streamlit prototype; first case study on 53,940 diamonds</td>
+      <td><a href="https://github.com/TeslimAdeyanju/Product-Price-Prediction-and-Analytics">View Project</a></td>
     </tr>
     <tr>
       <td><strong>Superstore Sales &amp; Profit Forecasting</strong></td>
