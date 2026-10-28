@@ -34,7 +34,7 @@
 
 ---
 
-## About Me
+## [About Me](#about-me)
 
 I am a Financial Data Analyst and ACA Chartered Accountant with over a decade of experience in financial reporting, FP&amp;A and data analytics.
 
@@ -46,9 +46,9 @@ I build Power BI semantic models, star-schema data models, SQL data pipelines an
 
 ---
 
-## Selected Portfolio Work
+## [Selected Portfolio Work](#selected-portfolio-work)
 
-### Flagship Projects
+## [Flagship Projects](#flagship-projects)
 
 <table>
   <tr>
@@ -70,7 +70,7 @@ I build Power BI semantic models, star-schema data models, SQL data pipelines an
   </tr>
 </table>
 
-### Projects by Skill
+## [Projects by Skill](#projects-by-skill)
 
 <sub>Click a skill area to see its projects.</sub>
 
@@ -322,7 +322,7 @@ More Machine Learning and LLM agent projects on my second account: [github.com/U
 
 ---
 
-## Qualifications & Certifications
+## [Qualifications & Certifications](#qualifications--certifications)
 
 <table>
   <tr>
@@ -363,7 +363,7 @@ More Machine Learning and LLM agent projects on my second account: [github.com/U
 
 ---
 
-## Core Expertise
+## [Core Expertise](#core-expertise)
 
 <table>
   <thead>
@@ -402,7 +402,7 @@ More Machine Learning and LLM agent projects on my second account: [github.com/U
 
 ---
 
-## Technical Stack
+## [Technical Stack](#technical-stack)
 
 <h4 align="center">Languages</h4>
 <p align="center">
@@ -446,7 +446,7 @@ More Machine Learning and LLM agent projects on my second account: [github.com/U
 
 ---
 
-## Open Source Project Lead
+## [Open Source Project Lead](#open-source-project-lead)
 
 ### [FDA Toolkit](https://github.com/CoreInsightFinance/Financial-Data-Analysis-Toolkit-Workspace) — Enterprise Financial Data Toolkit
 
@@ -478,7 +478,7 @@ pip install fda-toolkit
 
 ---
 
-## GitHub Activity
+## [GitHub Activity](#github-activity)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TeslimAdeyanju&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333&bg_color=ffffff" height="165" />
@@ -488,7 +488,7 @@ pip install fda-toolkit
 
 ---
 
-## Coding Activity — WakaTime
+## [Coding Activity — WakaTime](#coding-activity--wakatime)
 
 <p align="center">
   <a href="https://wakatime.com/@TeslimAdeyanju">
@@ -498,7 +498,7 @@ pip install fda-toolkit
 
 ---
 
-## Connect
+## [Connect](#connect)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adeyanjuteslimuthman">
