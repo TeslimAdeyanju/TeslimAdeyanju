@@ -150,6 +150,35 @@ pip install fda-toolkit
 
 ## Selected Portfolio Work
 
+### Flagship Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/TeslimAdeyanju/NHS-Trust-Financial-Analytics"><img src="https://raw.githubusercontent.com/TeslimAdeyanju/NHS-Trust-Financial-Analytics/main/docs/images/pipeline_architecture.png" alt="NHS Trust Financial Analytics" height="200" /></a>
+      <br /><strong><a href="https://github.com/TeslimAdeyanju/NHS-Trust-Financial-Analytics">NHS Trust Financial Analytics</a></strong>
+      <br /><sub>206 NHS Trusts · 3 financial years · 2.18M rows<br />Python ETL → MySQL star schema → Power BI KPIs</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/TeslimAdeyanju/NHS-Waiting-List-Analytics"><img src="https://raw.githubusercontent.com/TeslimAdeyanju/NHS-Waiting-List-Analytics/main/assets/end-to-end-analytics-pipeline.png" alt="NHS Waiting List Analytics" height="200" /></a>
+      <br /><strong><a href="https://github.com/TeslimAdeyanju/NHS-Waiting-List-Analytics">NHS Waiting List Analytics</a></strong>
+      <br /><sub>4.4m → 7.7m waiting list, 2019–2025<br />Is it throughput, or suppressed referrals?</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/TeslimAdeyanju/Financial-Report-Intelligence-System"><img src="https://raw.githubusercontent.com/TeslimAdeyanju/Financial-Report-Intelligence-System/main/docs/assets/workflow-pic.png" alt="Financial Report Intelligence System" height="200" /></a>
+      <br /><strong><a href="https://github.com/TeslimAdeyanju/Financial-Report-Intelligence-System">Financial Report Intelligence System</a></strong>
+      <br /><sub>Multi-agent AI on annual reports<br />Metrics, risk flags and evidence-based commentary</sub>
+    </td>
+  </tr>
+</table>
+
+### By Module
+
+<sub>Click a module to see its projects.</sub>
+
+<details open>
+<summary><strong>📊 Power BI</strong> &nbsp;·&nbsp; 5 projects</summary>
+
 <table>
   <thead>
     <tr>
@@ -160,9 +189,6 @@ pip install fda-toolkit
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td colspan="4"><strong>1. Power BI</strong></td>
-    </tr>
     <tr>
       <td><strong>NHS Trust Financial Analytics</strong></td>
       <td>Python, MySQL, SQL, Power BI</td>
@@ -193,9 +219,75 @@ pip install fda-toolkit
       <td>Visa, asylum, settlement and citizenship lifecycle from Home Office 2025 data, cross-referenced with ONS economy data</td>
       <td><a href="https://github.com/TeslimAdeyanju/UK-Immigration-Impact-PowerBI">View Project</a></td>
     </tr>
+  </tbody>
+</table>
+</details>
+
+<details>
+<summary><strong>💷 Financial Management</strong> &nbsp;·&nbsp; 🔨 building now</summary>
+
+<table>
+  <thead>
     <tr>
-      <td colspan="4"><strong>2. Python</strong></td>
+      <th width="190">Project</th>
+      <th width="200">Tech Stack</th>
+      <th width="370">Impact</th>
+      <th width="140">Link</th>
     </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>NHS Cost of Waiting</strong></td>
+      <td>Python, SQL, Power BI, DAX</td>
+      <td>Translating NHS waiting times into a modelled welfare cost by specialty and Trust, with transparent, adjustable assumptions</td>
+      <td><em>In progress</em></td>
+    </tr>
+  </tbody>
+</table>
+</details>
+
+<details>
+<summary><strong>🗄️ MySQL</strong> &nbsp;·&nbsp; 2 projects</summary>
+
+<table>
+  <thead>
+    <tr>
+      <th width="190">Project</th>
+      <th width="200">Tech Stack</th>
+      <th width="370">Impact</th>
+      <th width="140">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Advanced SQL — Cohort Risk Segmentation</strong></td>
+      <td>MySQL, Advanced SQL, Jupyter</td>
+      <td>Enterprise-grade SQL (25+ queries, window functions, CTEs) segmenting international student risk cohorts from mental health outcome data</td>
+      <td><a href="https://github.com/TeslimAdeyanju/Advanced-SQL-Analytics-International-Cohort-Risk-Segmentation">View Project</a></td>
+    </tr>
+    <tr>
+      <td><strong>MySQL — Fundamentals to Advanced</strong></td>
+      <td>MySQL, Python, Jupyter</td>
+      <td>Comprehensive MySQL showcase covering advanced queries, stored procedures, and Python integration for live data frames</td>
+      <td><a href="https://github.com/TeslimAdeyanju/MySQL-Fundamentals">View Project</a></td>
+    </tr>
+  </tbody>
+</table>
+</details>
+
+<details>
+<summary><strong>🐍 Python</strong> &nbsp;·&nbsp; 2 projects</summary>
+
+<table>
+  <thead>
+    <tr>
+      <th width="190">Project</th>
+      <th width="200">Tech Stack</th>
+      <th width="370">Impact</th>
+      <th width="140">Link</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td><strong>Financial Data Pipeline</strong></td>
       <td>Python, APIs, Pandas, Forecasting</td>
@@ -208,30 +300,23 @@ pip install fda-toolkit
       <td>Analysed GOOGL, AMZN, AAPL and MSFT — daily returns, Sharpe ratio, volatility, and 30-year Monte Carlo projection</td>
       <td><a href="https://github.com/TeslimAdeyanju/Stock-Market-Analysis">View Project</a></td>
     </tr>
+  </tbody>
+</table>
+</details>
+
+<details>
+<summary><strong>🧠 Machine Learning</strong> &nbsp;·&nbsp; 3 projects</summary>
+
+<table>
+  <thead>
     <tr>
-      <td colspan="4"><strong>3. Large Language Model</strong></td>
+      <th width="190">Project</th>
+      <th width="200">Tech Stack</th>
+      <th width="370">Impact</th>
+      <th width="140">Link</th>
     </tr>
-    <tr>
-      <td><strong>Financial Report Intelligence System</strong></td>
-      <td>Python, Multi-Agent AI, LLM</td>
-      <td>Multi-agent AI platform that extracts financial metrics, flags risk signals, and generates evidence-based commentary from corporate reports</td>
-      <td><a href="https://github.com/TeslimAdeyanju/Financial-Report-Intelligence-System">View Project</a></td>
-    </tr>
-    <tr>
-      <td><strong>HMRC Tax RAG Assistant</strong></td>
-      <td>Python, RAG, LLM, SQLite</td>
-      <td>Retrieval-augmented agent answering UK tax questions grounded in HMRC internal manuals, with every answer traceable to a GOV.UK source</td>
-      <td><a href="https://github.com/TeslimAdeyanju/HMRC-Tax-RAG-Assistant">View Project</a></td>
-    </tr>
-    <tr>
-      <td><strong>AI News Automator</strong></td>
-      <td>Python, Streamlit, News API</td>
-      <td>Real-time news aggregation dashboard with AI/ML topic detection, smart search, and trend analytics</td>
-      <td><a href="https://github.com/TeslimAdeyanju/AI-News-Automator">View Project</a></td>
-    </tr>
-    <tr>
-      <td colspan="4"><strong>4. Machine Learning</strong></td>
-    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td><strong>ML in Financial Analysis</strong></td>
       <td>Python, Scikit-learn, XGBoost, Kubernetes</td>
@@ -250,42 +335,81 @@ pip install fda-toolkit
       <td>Profit prediction across segments, regions and categories (98.1% accuracy), deployed as a Flask API in Docker</td>
       <td><a href="https://github.com/TeslimAdeyanju/Superstore-Sales-Prediction">View Project</a></td>
     </tr>
+  </tbody>
+</table>
+</details>
+
+<details>
+<summary><strong>🤖 Large Language Models</strong> &nbsp;·&nbsp; 3 projects</summary>
+
+<table>
+  <thead>
     <tr>
-      <td colspan="4"><strong>5. MySQL</strong></td>
+      <th width="190">Project</th>
+      <th width="200">Tech Stack</th>
+      <th width="370">Impact</th>
+      <th width="140">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Financial Report Intelligence System</strong></td>
+      <td>Python, Multi-Agent AI, LLM</td>
+      <td>Multi-agent AI platform that extracts financial metrics, flags risk signals, and generates evidence-based commentary from corporate reports</td>
+      <td><a href="https://github.com/TeslimAdeyanju/Financial-Report-Intelligence-System">View Project</a></td>
     </tr>
     <tr>
-      <td><strong>Advanced SQL — Cohort Risk Segmentation</strong></td>
-      <td>MySQL, Advanced SQL, Jupyter</td>
-      <td>Enterprise-grade SQL (25+ queries, window functions, CTEs) segmenting international student risk cohorts from mental health outcome data</td>
-      <td><a href="https://github.com/TeslimAdeyanju/Advanced-SQL-Analytics-International-Cohort-Risk-Segmentation">View Project</a></td>
+      <td><strong>HMRC Tax RAG Assistant</strong></td>
+      <td>Python, RAG, LLM, SQLite</td>
+      <td>Retrieval-augmented agent answering UK tax questions grounded in HMRC internal manuals, with every answer traceable to a GOV.UK source</td>
+      <td><a href="https://github.com/TeslimAdeyanju/HMRC-Tax-RAG-Assistant">View Project</a></td>
     </tr>
     <tr>
-      <td><strong>MySQL — Fundamentals to Advanced</strong></td>
-      <td>MySQL, Python, Jupyter</td>
-      <td>Comprehensive MySQL showcase covering advanced queries, stored procedures, and Python integration for live data frames</td>
-      <td><a href="https://github.com/TeslimAdeyanju/MySQL-Fundamentals">View Project</a></td>
+      <td><strong>AI News Automator</strong></td>
+      <td>Python, Streamlit, News API</td>
+      <td>Real-time news aggregation dashboard with AI/ML topic detection, smart search, and trend analytics</td>
+      <td><a href="https://github.com/TeslimAdeyanju/AI-News-Automator">View Project</a></td>
     </tr>
+  </tbody>
+</table>
+</details>
+
+<details>
+<summary><strong>📈 Advanced Excel</strong> &nbsp;·&nbsp; coming Dec 2026</summary>
+
+<table>
+  <thead>
     <tr>
-      <td colspan="4"><strong>6. Advanced Excel</strong></td>
+      <th width="190">Project</th>
+      <th width="200">Tech Stack</th>
+      <th width="370">Impact</th>
+      <th width="140">Link</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
       <td><strong>Treasury &amp; Liquidity Model</strong></td>
       <td>Excel, Power Query, Scenario Analysis</td>
       <td>13-week cash flow forecast with working capital tracking, stress testing, and funding gap identification</td>
       <td><em>Coming soon</em></td>
     </tr>
+  </tbody>
+</table>
+</details>
+
+<details>
+<summary><strong>📐 Statistics</strong> &nbsp;·&nbsp; coming Jan 2027</summary>
+
+<table>
+  <thead>
     <tr>
-      <td colspan="4"><strong>7. Financial Management</strong></td>
+      <th width="190">Project</th>
+      <th width="200">Tech Stack</th>
+      <th width="370">Impact</th>
+      <th width="140">Link</th>
     </tr>
-    <tr>
-      <td><strong>NHS Cost of Waiting</strong></td>
-      <td>Python, SQL, Power BI, DAX</td>
-      <td>Translating NHS waiting times into a modelled welfare cost by specialty and Trust, with transparent, adjustable assumptions</td>
-      <td><em>In progress</em></td>
-    </tr>
-    <tr>
-      <td colspan="4"><strong>8. Statistics</strong></td>
-    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td><strong>NHS Waiting Times — Statistical Analysis</strong></td>
       <td>Python, SciPy, Statsmodels</td>
@@ -294,6 +418,7 @@ pip install fda-toolkit
     </tr>
   </tbody>
 </table>
+</details>
 
 More Machine Learning and LLM agent projects on my second account: [github.com/UthmanAdeyanju](https://github.com/UthmanAdeyanju)
 
