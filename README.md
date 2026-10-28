@@ -204,6 +204,30 @@ I build Power BI semantic models, star-schema data models, SQL data pipelines an
       <td><a href="https://github.com/TeslimAdeyanju/Superstore-Sales-Prediction">View Project</a></td>
     </tr>
     <tr>
+      <td><strong>Salary Prediction with SHAP</strong></td>
+      <td>Python, Neural Networks, SHAP</td>
+      <td>Deep learning salary model for 2024 ML roles, explained feature by feature with SHAP</td>
+      <td><a href="https://github.com/TeslimAdeyanju/Salary-Prediction-SHAP">View Project</a></td>
+    </tr>
+    <tr>
+      <td><strong>Lead Conversion Model</strong></td>
+      <td>Python, Scikit-learn, Marimo</td>
+      <td>Classification model that predicts which leads convert, helping marketing teams prioritise high-value prospects</td>
+      <td><a href="https://github.com/TeslimAdeyanju/Lead-Conversion-Model">View Project</a></td>
+    </tr>
+    <tr>
+      <td><strong>Retail Marketing Prediction</strong></td>
+      <td>Python, Scikit-learn, Feature Engineering</td>
+      <td>Consumer behaviour model on marketplace data with engineered features and a saved, deployable model</td>
+      <td><a href="https://github.com/TeslimAdeyanju/Retail-Marketing-Prediction">View Project</a></td>
+    </tr>
+    <tr>
+      <td><strong>UK Immigration — YouTube Sentiment</strong></td>
+      <td>Python, NLP, Airflow</td>
+      <td>Sentiment analysis of YouTube comments on UK immigration, with an Airflow pipeline for collection</td>
+      <td><a href="https://github.com/TeslimAdeyanju/UK-Immigration-YouTube-Sentiment">View Project</a></td>
+    </tr>
+    <tr>
       <td><strong>Credit Risk &amp; Loan Default Prediction</strong></td>
       <td>Python, Scikit-learn, XGBoost</td>
       <td>Logistic regression and XGBoost default model evaluated with ROC-AUC and cross-validation</td>
@@ -244,6 +268,12 @@ I build Power BI semantic models, star-schema data models, SQL data pipelines an
       <td>Real-time news aggregation dashboard with AI/ML topic detection, smart search, and trend analytics</td>
       <td><a href="https://github.com/TeslimAdeyanju/AI-News-Automator">View Project</a></td>
     </tr>
+    <tr>
+      <td><strong>Retrieval Agent System</strong></td>
+      <td>Python, RAG, Tool Calling</td>
+      <td>Retrieval agent with persistent search, tool calling, iterative retrieval and typed agent frameworks, plus evaluation and monitoring</td>
+      <td><a href="https://github.com/TeslimAdeyanju/Retrieval-Agent-System">View Project</a></td>
+    </tr>
   </tbody>
 </table>
 </details>
@@ -262,10 +292,22 @@ I build Power BI semantic models, star-schema data models, SQL data pipelines an
   </thead>
   <tbody>
     <tr>
+      <td><strong>Financial Forecasting &amp; Variance Analysis</strong></td>
+      <td>Python, Pandas, Forecasting</td>
+      <td>Revenue and expense forecasting with budget vs actual variance analysis to identify the drivers of discrepancies</td>
+      <td><a href="https://github.com/TeslimAdeyanju/Financial-Forecasting-Variance-Analysis">View Project</a></td>
+    </tr>
+    <tr>
       <td><strong>NHS Cost of Waiting</strong></td>
       <td>Python, SQL, Power BI, DAX</td>
       <td>Translating NHS waiting times into a modelled welfare cost by specialty and Trust, with transparent, adjustable assumptions</td>
       <td><em>In progress</em></td>
+    </tr>
+    <tr>
+      <td><strong>UK Mutual Fund Performance</strong></td>
+      <td>Python, Pandas</td>
+      <td>Performance and risk comparison of UK mutual funds</td>
+      <td><em>Coming soon</em></td>
     </tr>
   </tbody>
 </table>
@@ -317,7 +359,6 @@ I build Power BI semantic models, star-schema data models, SQL data pipelines an
 </table>
 </details>
 
-More Machine Learning and LLM agent projects on my second account: [github.com/UthmanAdeyanju](https://github.com/UthmanAdeyanju)
 
 ---
 
@@ -346,7 +387,7 @@ More Machine Learning and LLM agent projects on my second account: [github.com/U
     </tr>
     <tr>
       <td><strong>Budgeting, Forecasting and Variance Analysis</strong></td>
-      <td><a href="https://github.com/UthmanAdeyanju/portfolio-04-financial-forecasting-variance">Financial Forecasting &amp; Variance Analysis</a></td>
+      <td><a href="https://github.com/TeslimAdeyanju/Financial-Forecasting-Variance-Analysis">Financial Forecasting &amp; Variance Analysis</a></td>
     </tr>
     <tr>
       <td><strong>Reporting Automation and Process Optimisation</strong></td>
