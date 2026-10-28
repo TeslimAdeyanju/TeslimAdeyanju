@@ -4,19 +4,17 @@
     <img src="./assets/title-light.svg" alt="Teslim Adeyanju" width="800" />
   </picture>
   <br />
-  <em>ACA Chartered Accountant &amp; Financial Data Analyst · Power BI · SQL · Python · Databricks</em>
+  <em>Associate Chartered Accountant and Financial Data Analyst · Power BI · SQL · Python · Databricks</em>
   <br />
-  <strong>Open to Finance &amp; Data Analyst roles in the UK</strong> &nbsp;·&nbsp; Currently building: NHS Cost of Waiting
+  <strong>Open to Finance and Data Analyst roles in the UK</strong> &nbsp;·&nbsp; Currently building: NHS Cost of Waiting
 </p>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1fHPqIkPL0AxcLaYZeB4iRKCTUEeXivD8/view"><strong>View CV</strong></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/adeyanjuteslimuthman">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://github.com/TeslimAdeyanju">GitHub</a> &nbsp;·&nbsp;
   <a href="https://adeyanjuteslim.co.uk">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://pypi.org/project/fda-toolkit/">FDA Toolkit (PyPI)</a> &nbsp;·&nbsp;
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/">Microsoft PL-300</a> &nbsp;·&nbsp;
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/">Microsoft DP-900</a>
+  <a href="https://pypi.org/project/fda-toolkit/">FDA Toolkit on PyPI</a> &nbsp;·&nbsp;
+  <a href="mailto:info@adeyanjuteslim.co.uk">Email</a>
 </p>
 
 ---
@@ -307,8 +305,8 @@ More Machine Learning and LLM agent projects on my second account: [github.com/U
 
 ## Qualifications & Certifications
 
-- **Professional:** ACA Chartered Accountant (ICAN, IFAC member body, 2019)&nbsp;· MSc Finance & Investment Banking, Distinction (University of Hertfordshire, 2024)
-- **Microsoft Certified (2026):** PL-300 Power BI Data Analyst Associate&nbsp;· DP-900 Azure Data Fundamentals
+- **Professional:** Associate Chartered Accountant, ACA (Institute of Chartered Accountants of Nigeria, an IFAC member body, 2019)&nbsp;· MSc Finance & Investment Banking, Distinction (University of Hertfordshire, 2024)
+- **Microsoft Certified (2026):** [PL-300 Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/)&nbsp;· [DP-900 Azure Data Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/)
 - **Databricks Accreditations (2026):** Databricks Fundamentals&nbsp;· Generative AI Fundamentals&nbsp;· SQL Analytics&nbsp;· AI/BI for Data Analysts
 - **SQL & Machine Learning:** Associate Data Analyst in SQL (DataCamp, 2026)&nbsp;· SQL Advanced (HackerRank, 2026)&nbsp;· Machine Learning (SuperDataScience, 2024)
 
