@@ -47,7 +47,7 @@ I build Power BI semantic models, star-schema data models, SQL data pipelines an
       <br /><sub>4.4m → 7.7m waiting list, 2019–2025<br />Is it throughput, or suppressed referrals?</sub>
     </td>
     <td width="33%" valign="top" align="center">
-      <a href="https://github.com/TeslimAdeyanju/Financial-Report-Intelligence-System"><img src="https://raw.githubusercontent.com/TeslimAdeyanju/Financial-Report-Intelligence-System/main/docs/assets/workflow-pic.png" alt="Financial Report Intelligence System" height="200" /></a>
+      <a href="https://github.com/TeslimAdeyanju/Financial-Report-Intelligence-System"><img src="https://raw.githubusercontent.com/TeslimAdeyanju/Financial-Report-Intelligence-System/main/docs/assets/fris-workflow-white.svg" alt="Financial Report Intelligence System" height="200" /></a>
       <br /><strong><a href="https://github.com/TeslimAdeyanju/Financial-Report-Intelligence-System">Financial Report Intelligence System</a></strong>
       <br /><sub>Multi-agent AI on annual reports<br />Metrics, risk flags and evidence-based commentary</sub>
     </td>
@@ -313,31 +313,31 @@ More Machine Learning and LLM agent projects on my second account: [github.com/U
     <td width="50%" valign="top">
       <strong>Professional &amp; Academic</strong>
       <ul>
-        <li>ACA — Associate Chartered Accountant · ICAN · 2019</li>
-        <li>MSc Finance and Investment Banking — Distinction · University of Hertfordshire · 2024</li>
+        <li>ACA Chartered Accountant — ICAN · 2019</li>
+        <li>MSc Finance &amp; Investment Banking (Distinction) — University of Hertfordshire · 2024</li>
       </ul>
       <strong>Microsoft</strong>
       <ul>
-        <li>Power BI Data Analyst Associate (PL-300) · 2026</li>
-        <li>Azure Data Fundamentals (DP-900) · 2026</li>
+        <li>PL-300 Power BI Data Analyst Associate · 2026</li>
+        <li>DP-900 Azure Data Fundamentals · 2026</li>
       </ul>
       <strong>SQL</strong>
       <ul>
         <li>Associate Data Analyst in SQL — DataCamp · 2026</li>
-        <li><a href="https://www.hackerrank.com/certificates/8f2d203de628">SQL (Advanced) — HackerRank</a> · 2026</li>
+        <li>SQL (Advanced) — HackerRank · 2026</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <strong>Databricks</strong>
+      <strong>Databricks · 2026</strong>
       <ul>
-        <li>SQL Analytics on Databricks · 2026</li>
-        <li>AI/BI for Data Analysts · 2026</li>
-        <li>Academy Accreditation — Databricks Fundamentals · 2026</li>
-        <li>Generative AI Fundamentals · 2026</li>
+        <li>SQL Analytics on Databricks</li>
+        <li>AI/BI for Data Analysts</li>
+        <li>Databricks Fundamentals</li>
+        <li>Generative AI Fundamentals</li>
       </ul>
       <strong>Finance &amp; Data Science</strong>
       <ul>
-        <li>Management Reports 2025 Badge — Sage · 2025</li>
+        <li>Management Reports — Sage · 2025</li>
         <li>Machine Learning — SuperDataScience · 2024</li>
         <li>Reading Financial Statements — CFI · 2021</li>
       </ul>
