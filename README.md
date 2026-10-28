@@ -1,15 +1,16 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Avenir&size=42&center=true&vCenter=true&width=800&height=60&duration=1800&color=58A6FF&lines=Hi%2C+I%27m+Teslim+Adeyanju;Financial+Data+Analyst+%7C+ACA;Power+BI%2C+Finance+%26+Data+Automation" />
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Avenir&size=42&center=true&vCenter=true&width=800&height=60&duration=1800&color=0A3069&lines=Hi%2C+I%27m+Teslim+Adeyanju;Financial+Data+Analyst+%7C+ACA;Power+BI%2C+Finance+%26+Data+Automation" alt="Teslim Adeyanju — Financial Data Analyst" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/title-dark.svg" />
+    <img src="./assets/title-light.svg" alt="Teslim Adeyanju" width="800" />
   </picture>
   <br />
   <em>ACA Chartered Accountant &amp; Financial Data Analyst · Power BI · SQL · Python · Databricks</em>
   <br />
-  <strong>Open to Finance &amp; Data Analyst roles in the UK</strong> &nbsp;·&nbsp; Currently building: <a href="https://github.com/TeslimAdeyanju">NHS Cost of Waiting</a>
+  <strong>Open to Finance &amp; Data Analyst roles in the UK</strong> &nbsp;·&nbsp; Currently building: NHS Cost of Waiting
 </p>
 
 <p align="center">
+  <a href="https://adeyanjuteslim.co.uk/assets/files/Teslim_Adeyanju_Resume.pdf"><strong>Download CV</strong></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/adeyanjuteslimuthman">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://github.com/TeslimAdeyanju">GitHub</a> &nbsp;·&nbsp;
   <a href="https://adeyanjuteslim.co.uk">Portfolio</a> &nbsp;·&nbsp;
@@ -29,6 +30,49 @@ I help organisations turn complex financial data into trusted, decision-ready in
 I build Power BI semantic models, star-schema data models, SQL data pipelines and Python-enabled financial workflows. My focus is reliable, scalable and auditable reporting—helping finance teams move beyond spreadsheet-led processes towards governed self-service analytics.
 
 > 💡 **Approach:** Finance expertise first; data and automation as the enablers. Clean data, controlled processes and transparent logic make better financial decisions possible.
+
+---
+
+## Experience
+
+<table>
+  <thead>
+    <tr>
+      <th width="140">Years</th>
+      <th width="330">Role</th>
+      <th width="430">Highlights</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2025&nbsp;–&nbsp;Present</td>
+      <td><strong>Founder &amp; Independent Financial Data Analyst</strong><br /><sub>Independent practice · Hampshire, UK</sub></td>
+      <td>Built an NHS financial analytics pipeline (2.1M records, 206 Trusts); published the open-source fda-toolkit</td>
+    </tr>
+    <tr>
+      <td>2024&nbsp;–&nbsp;Present</td>
+      <td><strong>Treasurer — Financial Strategy &amp; Governance</strong><br /><sub>UK registered charity · Board level</sub></td>
+      <td>Oversees £1M+ in donor funds with a clean audit record; reserve forecasting flags funding gaps six months ahead</td>
+    </tr>
+    <tr>
+      <td>2024&nbsp;–&nbsp;2025</td>
+      <td><strong>Financial Reporting Analyst</strong><br /><sub>Remote UK engagement</sub></td>
+      <td>Forecast accuracy improved from ±10% to ±8.5% on a £2.3M budget; manual reporting requests cut 60% with self-service Power BI</td>
+    </tr>
+    <tr>
+      <td>2019&nbsp;–&nbsp;2022</td>
+      <td><strong>Financial Data Analyst</strong><br /><sub>Remote UK collaboration</sub></td>
+      <td>55+ Power BI dashboards and 80+ DAX measures; savings identified across 85 supplier contracts</td>
+    </tr>
+    <tr>
+      <td>2010&nbsp;–&nbsp;2018</td>
+      <td><strong>Financial Accountant · Financial Business Analyst</strong></td>
+      <td>Month-end close cut from 7 days to 3; 60+ board packs delivered with a clean 5-year audit record</td>
+    </tr>
+  </tbody>
+</table>
+
+<sub>Full history in my <a href="https://adeyanjuteslim.co.uk/assets/files/Teslim_Adeyanju_Resume.pdf">CV</a> and on <a href="https://www.linkedin.com/in/adeyanjuteslimuthman">LinkedIn</a>.</sub>
 
 ---
 
@@ -121,7 +165,7 @@ I build Power BI semantic models, star-schema data models, SQL data pipelines an
     <tr>
       <td><strong>Advanced SQL — Cohort Risk Segmentation</strong></td>
       <td>MySQL, Advanced SQL, Jupyter</td>
-      <td>Enterprise-grade SQL (25+ queries, window functions, CTEs) segmenting international student risk cohorts from mental health outcome data</td>
+      <td>Advanced SQL (25+ queries, window functions, CTEs) segmenting international student risk cohorts from mental health outcome data</td>
       <td><a href="https://github.com/TeslimAdeyanju/Advanced-SQL-Analytics-International-Cohort-Risk-Segmentation">View Project</a></td>
     </tr>
     <tr>
@@ -432,16 +476,16 @@ More Machine Learning and LLM agent projects on my second account: [github.com/U
 
 ## Open Source Project Lead
 
-### [FDA Toolkit](https://github.com/CoreInsightFinance/Financial-Data-Analysis-Toolkit-Workspace) — Enterprise Financial Data Toolkit
+### [FDA Toolkit](https://github.com/CoreInsightFinance/Financial-Data-Analysis-Toolkit-Workspace) — Open-Source Finance Data Toolkit
 
 [![PyPI version](https://img.shields.io/pypi/v/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
 [![Python versions](https://img.shields.io/pypi/pyversions/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
 [![License](https://img.shields.io/pypi/l/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
 [![Downloads](https://img.shields.io/pypi/dm/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
 
-I am the creator and maintainer of **FDA Toolkit**, an open source Python project I architected and developed to solve real world challenges in financial data analysis.
+I am the creator and maintainer of **FDA Toolkit**, an open-source Python package (67 functions across 8 modules) for cleaning, validating and preparing financial data.
 
-The toolkit enables financial analysts, accountants, and data professionals to produce reliable, auditable, and repeatable analytics by replacing fragile spreadsheet driven processes with structured validation, transformation, and reporting pipelines designed for production use.
+The toolkit enables financial analysts, accountants, and data professionals to produce reliable, auditable, and repeatable analytics by replacing fragile spreadsheet-driven steps with structured validation, transformation and reporting functions.
 
 **Financial analytics capabilities**
 - Clean, standardise and validate financial datasets before reporting or analysis
@@ -468,16 +512,6 @@ pip install fda-toolkit
   <img src="https://github-readme-stats.vercel.app/api?username=TeslimAdeyanju&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333&bg_color=ffffff" height="165" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeslimAdeyanju&layout=compact&hide_border=true&title_color=0A66C2&text_color=333333&bg_color=ffffff" height="165" />
-</p>
-
----
-
-## Coding Activity — WakaTime
-
-<p align="center">
-  <a href="https://wakatime.com/@TeslimAdeyanju">
-    <img src="https://wakatime.com/badge/user/2639a207-55c1-4745-8272-6be44cfb2192.svg" alt="Total time coded since start" />
-  </a>
 </p>
 
 ---
