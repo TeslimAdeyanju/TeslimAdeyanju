@@ -353,35 +353,30 @@ More Machine Learning and LLM agent projects on my second account: [github.com/U
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>Professional &amp; Academic</strong>
+      <strong>Professional Qualifications</strong>
       <ul>
-        <li>ACA Chartered Accountant — ICAN · 2019</li>
+        <li>ACA Chartered Accountant — ICAN (IFAC member body) · 2019</li>
         <li>MSc Finance &amp; Investment Banking (Distinction) — University of Hertfordshire · 2024</li>
       </ul>
-      <strong>Microsoft</strong>
+      <strong>Microsoft Certified</strong>
       <ul>
         <li>PL-300 Power BI Data Analyst Associate · 2026</li>
         <li>DP-900 Azure Data Fundamentals · 2026</li>
       </ul>
-      <strong>SQL</strong>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Databricks Accreditations · 2026</strong>
+      <ul>
+        <li>Databricks Fundamentals</li>
+        <li>Generative AI Fundamentals</li>
+        <li>SQL Analytics on Databricks</li>
+        <li>AI/BI for Data Analysts</li>
+      </ul>
+      <strong>SQL &amp; Machine Learning</strong>
       <ul>
         <li>Associate Data Analyst in SQL — DataCamp · 2026</li>
         <li>SQL (Advanced) — HackerRank · 2026</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Databricks · 2026</strong>
-      <ul>
-        <li>SQL Analytics on Databricks</li>
-        <li>AI/BI for Data Analysts</li>
-        <li>Databricks Fundamentals</li>
-        <li>Generative AI Fundamentals</li>
-      </ul>
-      <strong>Finance &amp; Data Science</strong>
-      <ul>
-        <li>Management Reports — Sage · 2025</li>
         <li>Machine Learning — SuperDataScience · 2024</li>
-        <li>Reading Financial Statements — CFI · 2021</li>
       </ul>
     </td>
   </tr>
