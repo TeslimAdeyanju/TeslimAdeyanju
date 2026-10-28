@@ -177,7 +177,7 @@ pip install fda-toolkit
 <sub>Click a module to see its projects.</sub>
 
 <details open>
-<summary><strong>📊 Power BI</strong> &nbsp;·&nbsp; 5 projects</summary>
+<summary><strong>Power BI</strong> &nbsp;·&nbsp; 5 projects</summary>
 
 <table>
   <thead>
@@ -224,30 +224,7 @@ pip install fda-toolkit
 </details>
 
 <details>
-<summary><strong>💷 Financial Management</strong> &nbsp;·&nbsp; 🔨 building now</summary>
-
-<table>
-  <thead>
-    <tr>
-      <th width="190">Project</th>
-      <th width="200">Tech Stack</th>
-      <th width="370">Impact</th>
-      <th width="140">Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>NHS Cost of Waiting</strong></td>
-      <td>Python, SQL, Power BI, DAX</td>
-      <td>Translating NHS waiting times into a modelled welfare cost by specialty and Trust, with transparent, adjustable assumptions</td>
-      <td><em>In progress</em></td>
-    </tr>
-  </tbody>
-</table>
-</details>
-
-<details>
-<summary><strong>🗄️ MySQL</strong> &nbsp;·&nbsp; 2 projects</summary>
+<summary><strong>MySQL</strong> &nbsp;·&nbsp; 2 projects</summary>
 
 <table>
   <thead>
@@ -276,7 +253,7 @@ pip install fda-toolkit
 </details>
 
 <details>
-<summary><strong>🐍 Python</strong> &nbsp;·&nbsp; 2 projects</summary>
+<summary><strong>Python</strong> &nbsp;·&nbsp; 2 projects</summary>
 
 <table>
   <thead>
@@ -305,7 +282,7 @@ pip install fda-toolkit
 </details>
 
 <details>
-<summary><strong>🧠 Machine Learning</strong> &nbsp;·&nbsp; 3 projects</summary>
+<summary><strong>Machine Learning</strong> &nbsp;·&nbsp; 3 projects</summary>
 
 <table>
   <thead>
@@ -340,7 +317,7 @@ pip install fda-toolkit
 </details>
 
 <details>
-<summary><strong>🤖 Large Language Models</strong> &nbsp;·&nbsp; 3 projects</summary>
+<summary><strong>Large Language Models</strong> &nbsp;·&nbsp; 3 projects</summary>
 
 <table>
   <thead>
@@ -375,7 +352,30 @@ pip install fda-toolkit
 </details>
 
 <details>
-<summary><strong>📈 Advanced Excel</strong> &nbsp;·&nbsp; coming Dec 2026</summary>
+<summary><strong>Financial Management</strong> &nbsp;·&nbsp; in progress</summary>
+
+<table>
+  <thead>
+    <tr>
+      <th width="190">Project</th>
+      <th width="200">Tech Stack</th>
+      <th width="370">Impact</th>
+      <th width="140">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>NHS Cost of Waiting</strong></td>
+      <td>Python, SQL, Power BI, DAX</td>
+      <td>Translating NHS waiting times into a modelled welfare cost by specialty and Trust, with transparent, adjustable assumptions</td>
+      <td><em>In progress</em></td>
+    </tr>
+  </tbody>
+</table>
+</details>
+
+<details>
+<summary><strong>Advanced Excel</strong> &nbsp;·&nbsp; coming Dec 2026</summary>
 
 <table>
   <thead>
@@ -398,7 +398,7 @@ pip install fda-toolkit
 </details>
 
 <details>
-<summary><strong>📐 Statistics</strong> &nbsp;·&nbsp; coming Jan 2027</summary>
+<summary><strong>Statistics</strong> &nbsp;·&nbsp; coming Jan 2027</summary>
 
 <table>
   <thead>
