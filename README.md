@@ -3,7 +3,11 @@
 </h1>
 
 <p align="center">
-  <em>Microsoft Certified: Power BI Data Analyst Associate (PL-300) &amp; Azure Data Fundamentals (DP-900) · ACA Chartered Accountant · Transforming finance through Power BI, SQL, Python, Microsoft Fabric and Azure data services.</em>
+  <em>ACA Chartered Accountant &amp; Financial Data Analyst · Turning finance data into trusted, decision-ready insight with Power BI, SQL, Python, Databricks and Azure.</em>
+</p>
+
+<p align="center">
+  <strong>Open to Finance &amp; Data Analyst roles in the UK</strong> &nbsp;·&nbsp; Currently building: <a href="https://github.com/TeslimAdeyanju">NHS Cost of Waiting</a>
 </p>
 
 <p align="center">
@@ -32,119 +36,17 @@
   </a>
 </p>
 
-
 ---
 
 ## About Me
 
-I am a Financial Data Analyst, ACA Chartered Accountant, and Microsoft Certified: Power BI Data Analyst Associate (PL-300) and Azure Data Fundamentals (DP-900) professional, with over a decade of experience in financial reporting, FP&amp;A and data analytics.
+I am a Financial Data Analyst and ACA Chartered Accountant with over a decade of experience in financial reporting, FP&amp;A and data analytics.
 
-I help organisations turn complex financial data into trusted, decision-ready insight. I combine finance and accounting expertise with Power BI, Microsoft Fabric, Azure data services, SQL and Python to improve reporting quality, automate repeatable processes and strengthen financial controls.
+I help organisations turn complex financial data into trusted, decision-ready insight. I combine finance and accounting expertise with Power BI, Databricks, Azure data services, SQL and Python to improve reporting quality, automate repeatable processes and strengthen financial controls.
 
 I build Power BI semantic models, star-schema data models, SQL data pipelines and Python-enabled financial workflows. My focus is reliable, scalable and auditable reporting—helping finance teams move beyond spreadsheet-led processes towards governed self-service analytics.
 
 > 💡 **Approach:** Finance expertise first; data and automation as the enablers. Clean data, controlled processes and transparent logic make better financial decisions possible.
-
----
-
-## Qualifications & Certifications
-- Microsoft Certified: Power BI Data Analyst Associate (PL-300) · 2026
-- Microsoft Certified: Azure Data Fundamentals (DP-900) · 2026
-- MSc Finance and Investment Banking (with Advanced Research) — Distinction · University of Hertfordshire, UK · 2024
-- ACA — Associate Chartered Accountant · Institute of Chartered Accountants of Nigeria · 2019
-- Databricks Accredited: Lakehouse Platform Fundamentals · 2026
-- Databricks Generative AI Fundamentals · 2026
-- Xero Certified Advisor · 2025
-- SQL (Advanced) — HackerRank · 2026
-- Python for Data Analysis — SuperDataScience · 2025
-
----
-
-## Core Expertise
-
-- Financial Planning and Analysis
-- Budgeting, Forecasting, and Variance Analysis
-- Reporting Automation and Process Optimisation
-- Data Modelling for Financial Analytics
-- Audit Ready Analytics and Control Frameworks
-- Performance Management and Decision Support
-
----
-
-## Technical Stack
-
-<h4 align="center">Languages</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/DAX-F2C811?logo=powerbi&logoColor=black" />
-</p>
-
-<h4 align="center">Data, ML & Analytics</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-189ABE?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" />
-</p>
-
-<h4 align="center">Databases</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-</p>
-
-<h4 align="center">BI & Reporting</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
-</p>
-
-<h4 align="center">Tools & Workflow</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-</p>
-
----
-
-## Open Source Project Lead
-
-### [FDA Toolkit](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace) — Enterprise Financial Data Toolkit
-
-[![PyPI version](https://img.shields.io/pypi/v/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
-[![Python versions](https://img.shields.io/pypi/pyversions/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
-[![License](https://img.shields.io/pypi/l/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
-[![Downloads](https://img.shields.io/pypi/dm/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
-
-I am the creator and maintainer of **FDA Toolkit**, an open source Python project I architected and developed to solve real world challenges in financial data analysis.
-
-The toolkit enables financial analysts, accountants, and data professionals to produce reliable, auditable, and repeatable analytics by replacing fragile spreadsheet driven processes with structured validation, transformation, and reporting pipelines designed for production use.
-
-**Financial analytics capabilities**
-- Clean, standardise and validate financial datasets before reporting or analysis
-- Support reconciliations, data-quality checks and traceable financial workflows
-- Automate repeatable finance and FP&A analysis tasks using reusable Python functions
-- Apply audit logging and consistent error handling to strengthen operational control
-- Provide one-line utility workflows, including `ftk.quick_clean_finance()`
-- Support integration with SQL, Power BI and broader financial-data pipelines
-
-**Install:**
-```bash
-pip install fda-toolkit
-```
-
-<img src="./image.png" alt="FDA Toolkit overview" width="100%" />
-
-[View on PyPI](https://pypi.org/project/fda-toolkit/) &nbsp;•&nbsp; [GitHub Repository](https://github.com/TeslimAdeyanju/Financial-Data-Analysis-Toolkit-Workspace)
 
 ---
 
@@ -424,6 +326,122 @@ More Machine Learning and LLM agent projects on my second account: [github.com/U
 
 ---
 
+## Qualifications & Certifications
+
+**Professional & Academic**
+- ACA — Associate Chartered Accountant · Institute of Chartered Accountants of Nigeria · 2019
+- MSc Finance and Investment Banking (with Advanced Research) — Distinction · University of Hertfordshire, UK · 2024
+
+**Microsoft**
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300) · 2026
+- Microsoft Certified: Azure Data Fundamentals (DP-900) · 2026
+
+**Databricks**
+- SQL Analytics on Databricks · 2026
+- AI/BI for Data Analysts · 2026
+- Academy Accreditation — Databricks Fundamentals · 2026
+- Generative AI Fundamentals · 2026
+
+**SQL**
+- Associate Data Analyst in SQL — DataCamp · 2026
+- [SQL (Advanced) — HackerRank](https://www.hackerrank.com/certificates/8f2d203de628) · 2026
+
+**Finance & Data Science**
+- Management Reports 2025 Badge — Sage · 2025
+- Machine Learning — SuperDataScience · 2024
+- Reading Financial Statements — Corporate Finance Institute (CFI) · 2021
+
+---
+
+## Core Expertise
+
+| Expertise | Where you can see it |
+| --- | --- |
+| Financial Planning and Analysis | [Financial Performance Analytics Model](https://github.com/TeslimAdeyanju/Financial-Performance-Analytics-PowerBI) |
+| Budgeting, Forecasting and Variance Analysis | [Financial Forecasting &amp; Variance Analysis](https://github.com/UthmanAdeyanju/portfolio-04-financial-forecasting-variance) |
+| Reporting Automation and Process Optimisation | [FDA Toolkit](https://github.com/CoreInsightFinance/Financial-Data-Analysis-Toolkit-Workspace) |
+| Data Modelling for Financial Analytics | [NHS Trust Financial Analytics](https://github.com/TeslimAdeyanju/NHS-Trust-Financial-Analytics) |
+| Audit-Ready Analytics and Control Frameworks | [Financial Report Intelligence System](https://github.com/TeslimAdeyanju/Financial-Report-Intelligence-System) |
+| Performance Management and Decision Support | [NHS Waiting List Analytics](https://github.com/TeslimAdeyanju/NHS-Waiting-List-Analytics) |
+
+---
+
+## Technical Stack
+
+<h4 align="center">Languages</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?logo=powerbi&logoColor=black" alt="DAX" />
+</p>
+
+<h4 align="center">Data, ML & Analytics</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-189ABE?logo=python&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" alt="Matplotlib" />
+</p>
+
+<h4 align="center">Databases & Cloud</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" alt="Azure" />
+</p>
+
+<h4 align="center">BI & Reporting</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Power%20Query-217346?logo=powerbi&logoColor=white" alt="Power Query" />
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" alt="Excel" />
+</p>
+
+<h4 align="center">Tools & Workflow</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+---
+
+## Open Source Project Lead
+
+### [FDA Toolkit](https://github.com/CoreInsightFinance/Financial-Data-Analysis-Toolkit-Workspace) — Enterprise Financial Data Toolkit
+
+[![PyPI version](https://img.shields.io/pypi/v/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
+[![Python versions](https://img.shields.io/pypi/pyversions/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
+[![License](https://img.shields.io/pypi/l/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
+[![Downloads](https://img.shields.io/pypi/dm/fda-toolkit.svg)](https://pypi.org/project/fda-toolkit/)
+
+I am the creator and maintainer of **FDA Toolkit**, an open source Python project I architected and developed to solve real world challenges in financial data analysis.
+
+The toolkit enables financial analysts, accountants, and data professionals to produce reliable, auditable, and repeatable analytics by replacing fragile spreadsheet driven processes with structured validation, transformation, and reporting pipelines designed for production use.
+
+**Financial analytics capabilities**
+- Clean, standardise and validate financial datasets before reporting or analysis
+- Support reconciliations, data-quality checks and traceable financial workflows
+- Automate repeatable finance and FP&A analysis tasks using reusable Python functions
+- Apply audit logging and consistent error handling to strengthen operational control
+- Provide one-line utility workflows, including `ftk.quick_clean_finance()`
+- Support integration with SQL, Power BI and broader financial-data pipelines
+
+**Install:**
+```bash
+pip install fda-toolkit
+```
+
+<img src="./image.png" alt="FDA Toolkit overview" width="100%" />
+
+[View on PyPI](https://pypi.org/project/fda-toolkit/) &nbsp;•&nbsp; [GitHub Repository](https://github.com/CoreInsightFinance/Financial-Data-Analysis-Toolkit-Workspace)
+
+---
+
 ## GitHub Activity
 
 <p align="center">
@@ -442,44 +460,28 @@ More Machine Learning and LLM agent projects on my second account: [github.com/U
   </a>
 </p>
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 20 October 2026 - To: 27 October 2026
-
-Total Time: 24 hrs 9 mins
-
-Other        20 hrs 44 mins        █████████████████████▒░░░   85.88 %
-Markdown     2 hrs 11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
-Org          40 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Git          16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Python       11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-```
-
-<!--END_SECTION:waka-->
-
 ---
 
 ## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adeyanjuteslimuthman">
-    <img src="https://img.shields.io/badge/linkedin-Teslim%20Adeyanju-0A66C2?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Teslim%20Adeyanju-0A66C2?logo=linkedin&logoColor=white" alt="Teslim Adeyanju on LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://github.com/TeslimAdeyanju">
-    <img src="https://img.shields.io/badge/github-TeslimAdeyanju-181717?logo=github&logoColor=white" />
+  <a href="mailto:info@adeyanjuteslim.co.uk">
+    <img src="https://img.shields.io/badge/Email-info%40adeyanjuteslim.co.uk-D14836?logo=gmail&logoColor=white" alt="Email Teslim Adeyanju" />
   </a>
   &nbsp;
   <a href="https://adeyanjuteslim.co.uk">
-    <img src="https://img.shields.io/badge/portfolio-adeyanjuteslim.co.uk-000000?logo=safari&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-adeyanjuteslim.co.uk-000000?logo=safari&logoColor=white" alt="Teslim Adeyanju portfolio" />
   </a>
   &nbsp;
-  <a href="https://wakatime.com/@TeslimAdeyanju">
-    <img src="https://img.shields.io/badge/wakatime-dashboard-1E90FF?logo=wakatime&logoColor=white" />
+  <a href="https://github.com/TeslimAdeyanju">
+    <img src="https://img.shields.io/badge/GitHub-TeslimAdeyanju-181717?logo=github&logoColor=white" alt="Teslim Adeyanju on GitHub" />
   </a>
   &nbsp;
   <a href="https://pypi.org/project/fda-toolkit/">
-    <img src="https://img.shields.io/badge/pypi-fda--toolkit-3775A9?logo=pypi&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyPI-fda--toolkit-3775A9?logo=pypi&logoColor=white" alt="FDA Toolkit on PyPI" />
   </a>
 </p>
