@@ -172,12 +172,12 @@ pip install fda-toolkit
   </tr>
 </table>
 
-### By Module
+### Projects by Skill
 
-<sub>Click a module to see its projects.</sub>
+<sub>Click a skill area to see its projects.</sub>
 
 <details open>
-<summary><strong>Power BI</strong> &nbsp;·&nbsp; 5 projects</summary>
+<summary><strong>Power BI &amp; Data Visualisation</strong> &nbsp;·&nbsp; 5 projects</summary>
 
 <table>
   <thead>
@@ -224,7 +224,7 @@ pip install fda-toolkit
 </details>
 
 <details>
-<summary><strong>MySQL</strong> &nbsp;·&nbsp; 2 projects</summary>
+<summary><strong>SQL &amp; Databases</strong> &nbsp;·&nbsp; 2 projects</summary>
 
 <table>
   <thead>
@@ -253,7 +253,7 @@ pip install fda-toolkit
 </details>
 
 <details>
-<summary><strong>Python</strong> &nbsp;·&nbsp; 2 projects</summary>
+<summary><strong>Python &amp; Automation</strong> &nbsp;·&nbsp; 2 projects</summary>
 
 <table>
   <thead>
@@ -317,7 +317,7 @@ pip install fda-toolkit
 </details>
 
 <details>
-<summary><strong>Large Language Models</strong> &nbsp;·&nbsp; 3 projects</summary>
+<summary><strong>AI &amp; LLM Applications</strong> &nbsp;·&nbsp; 3 projects</summary>
 
 <table>
   <thead>
@@ -352,7 +352,7 @@ pip install fda-toolkit
 </details>
 
 <details>
-<summary><strong>Financial Management</strong> &nbsp;·&nbsp; in progress</summary>
+<summary><strong>Financial Analysis &amp; Management</strong> &nbsp;·&nbsp; in progress</summary>
 
 <table>
   <thead>
@@ -375,7 +375,7 @@ pip install fda-toolkit
 </details>
 
 <details>
-<summary><strong>Advanced Excel</strong> &nbsp;·&nbsp; coming Dec 2026</summary>
+<summary><strong>Advanced Excel &amp; Financial Modelling</strong> &nbsp;·&nbsp; coming Dec 2026</summary>
 
 <table>
   <thead>
@@ -398,7 +398,7 @@ pip install fda-toolkit
 </details>
 
 <details>
-<summary><strong>Statistics</strong> &nbsp;·&nbsp; coming Jan 2027</summary>
+<summary><strong>Statistics &amp; Analytics</strong> &nbsp;·&nbsp; coming Jan 2027</summary>
 
 <table>
   <thead>
