@@ -161,49 +161,141 @@ pip install fda-toolkit
   </thead>
   <tbody>
     <tr>
+      <td colspan="4"><strong>1. Power BI</strong></td>
+    </tr>
+    <tr>
       <td><strong>NHS Trust Financial Analytics</strong></td>
       <td>Python, MySQL, SQL, Power BI</td>
       <td>End-to-end ETL pipeline covering 206 NHS Trusts across 3 financial years — star schema, KPI views, Power BI export</td>
-      <td><a href="https://github.com/TeslimAdeyanju/portfolio-01-nhs-trust-financial-analytics">View Project</a></td>
+      <td><a href="https://github.com/TeslimAdeyanju/NHS-Trust-Financial-Analytics">View Project</a></td>
     </tr>
     <tr>
-      <td><strong>Financial Report Intelligence System</strong></td>
-      <td>Python, Multi-Agent AI, LLM</td>
-      <td>Multi-agent AI platform that extracts financial metrics, flags risk signals, and generates evidence-based commentary from corporate reports</td>
-      <td><a href="https://github.com/TeslimAdeyanju/portfolio-26-Financial-Report-Intelligence-System">View Project</a></td>
+      <td><strong>NHS Waiting List Analytics</strong></td>
+      <td>Python, MySQL, Databricks, Power BI</td>
+      <td>RTT pipeline across all NHS England trusts (2019–2025) testing whether the 4.4m → 7.7m waiting list growth reflects throughput or suppressed referrals</td>
+      <td><a href="https://github.com/TeslimAdeyanju/NHS-Waiting-List-Analytics">View Project</a></td>
     </tr>
     <tr>
-      <td><strong>Advanced SQL — Cohort Risk Segmentation</strong></td>
-      <td>MySQL, Advanced SQL, Jupyter</td>
-      <td>Enterprise-grade SQL (25+ queries, window functions, CTEs) segmenting international student risk cohorts from mental health outcome data</td>
-      <td><a href="https://github.com/TeslimAdeyanju/portfolio-06-advanced-sql-analytics-international-cohort-risk-segmentation">View Project</a></td>
+      <td><strong>Financial Performance Analytics Model</strong></td>
+      <td>Power BI, DAX, Power Query</td>
+      <td>Star-schema model with a structured DAX measure library covering profitability, growth, efficiency, pricing, and risk</td>
+      <td><a href="https://github.com/TeslimAdeyanju/Financial-Performance-Analytics-PowerBI">View Project</a></td>
+    </tr>
+    <tr>
+      <td><strong>World University Ranking</strong></td>
+      <td>Power BI, DAX, PBIP</td>
+      <td>5-page report on QS Rankings 2025→2026 — 29 DAX measures across 592 universities in 73 countries</td>
+      <td><a href="https://github.com/TeslimAdeyanju/World-University-Ranking-PowerBI">View Project</a></td>
+    </tr>
+    <tr>
+      <td><strong>UK Immigration Impact</strong></td>
+      <td>Power BI, PBIP/TMDL, Power Query</td>
+      <td>Visa, asylum, settlement and citizenship lifecycle from Home Office 2025 data, cross-referenced with ONS economy data</td>
+      <td><a href="https://github.com/TeslimAdeyanju/UK-Immigration-Impact-PowerBI">View Project</a></td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>2. Python</strong></td>
     </tr>
     <tr>
       <td><strong>Financial Data Pipeline</strong></td>
       <td>Python, APIs, Pandas, Forecasting</td>
       <td>Full pipeline from API extraction to data cleaning, automated forecasting, trading simulation, and deployment</td>
-      <td><a href="https://github.com/TeslimAdeyanju/portfolio-02-financial-data-pipeline">View Project</a></td>
-    </tr>
-    <tr>
-      <td><strong>ML in Financial Analysis</strong></td>
-      <td>Python, Scikit-learn, XGBoost, Kubernetes</td>
-      <td>Regression for trend prediction, classification for risk assessment, ensemble models for portfolio optimisation</td>
-      <td><a href="https://github.com/TeslimAdeyanju/portfolio-07-ml-financial-analysis">View Project</a></td>
+      <td><a href="https://github.com/TeslimAdeyanju/Financial-Data-Pipeline">View Project</a></td>
     </tr>
     <tr>
       <td><strong>Stock Market Analysis — Tech Giants</strong></td>
       <td>Python, Pandas, NumPy, Monte Carlo</td>
       <td>Analysed GOOGL, AMZN, AAPL and MSFT — daily returns, Sharpe ratio, volatility, and 30-year Monte Carlo projection</td>
-      <td><a href="https://github.com/TeslimAdeyanju/portfolio-03-stock-market-analysis">View Project</a></td>
+      <td><a href="https://github.com/TeslimAdeyanju/Stock-Market-Analysis">View Project</a></td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>3. Large Language Model</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Financial Report Intelligence System</strong></td>
+      <td>Python, Multi-Agent AI, LLM</td>
+      <td>Multi-agent AI platform that extracts financial metrics, flags risk signals, and generates evidence-based commentary from corporate reports</td>
+      <td><a href="https://github.com/TeslimAdeyanju/Financial-Report-Intelligence-System">View Project</a></td>
+    </tr>
+    <tr>
+      <td><strong>HMRC Tax RAG Assistant</strong></td>
+      <td>Python, RAG, LLM, SQLite</td>
+      <td>Retrieval-augmented agent answering UK tax questions grounded in HMRC internal manuals, with every answer traceable to a GOV.UK source</td>
+      <td><a href="https://github.com/TeslimAdeyanju/HMRC-Tax-RAG-Assistant">View Project</a></td>
+    </tr>
+    <tr>
+      <td><strong>AI News Automator</strong></td>
+      <td>Python, Streamlit, News API</td>
+      <td>Real-time news aggregation dashboard with AI/ML topic detection, smart search, and trend analytics</td>
+      <td><a href="https://github.com/TeslimAdeyanju/AI-News-Automator">View Project</a></td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>4. Machine Learning</strong></td>
+    </tr>
+    <tr>
+      <td><strong>ML in Financial Analysis</strong></td>
+      <td>Python, Scikit-learn, XGBoost, Kubernetes</td>
+      <td>Regression for trend prediction, classification for risk assessment, ensemble models for portfolio optimisation</td>
+      <td><a href="https://github.com/TeslimAdeyanju/Applied-Machine-Learning-for-Financial-Analysis">View Project</a></td>
+    </tr>
+    <tr>
+      <td><strong>Diamond Price Prediction</strong></td>
+      <td>Python, XGBoost, Scikit-learn, Streamlit</td>
+      <td>End-to-end pipeline on 53,940 diamonds — XGBoost reaches R² 0.982 with an interactive Streamlit app</td>
+      <td><a href="https://github.com/TeslimAdeyanju/Diamond-Price-Prediction">View Project</a></td>
+    </tr>
+    <tr>
+      <td><strong>Superstore Sales &amp; Profit Forecasting</strong></td>
+      <td>Python, Scikit-learn, Flask, Docker</td>
+      <td>Profit prediction across segments, regions and categories (98.1% accuracy), deployed as a Flask API in Docker</td>
+      <td><a href="https://github.com/TeslimAdeyanju/Superstore-Sales-Prediction">View Project</a></td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>5. MySQL</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Advanced SQL — Cohort Risk Segmentation</strong></td>
+      <td>MySQL, Advanced SQL, Jupyter</td>
+      <td>Enterprise-grade SQL (25+ queries, window functions, CTEs) segmenting international student risk cohorts from mental health outcome data</td>
+      <td><a href="https://github.com/TeslimAdeyanju/Advanced-SQL-Analytics-International-Cohort-Risk-Segmentation">View Project</a></td>
     </tr>
     <tr>
       <td><strong>MySQL — Fundamentals to Advanced</strong></td>
       <td>MySQL, Python, Jupyter</td>
       <td>Comprehensive MySQL showcase covering advanced queries, stored procedures, and Python integration for live data frames</td>
-      <td><a href="https://github.com/TeslimAdeyanju/portfolio-21-mysql-fundamentals">View Project</a></td>
+      <td><a href="https://github.com/TeslimAdeyanju/MySQL-Fundamentals">View Project</a></td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>6. Advanced Excel</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Treasury &amp; Liquidity Model</strong></td>
+      <td>Excel, Power Query, Scenario Analysis</td>
+      <td>13-week cash flow forecast with working capital tracking, stress testing, and funding gap identification</td>
+      <td><em>Coming soon</em></td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>7. Financial Management</strong></td>
+    </tr>
+    <tr>
+      <td><strong>NHS Cost of Waiting</strong></td>
+      <td>Python, SQL, Power BI, DAX</td>
+      <td>Translating NHS waiting times into a modelled welfare cost by specialty and Trust, with transparent, adjustable assumptions</td>
+      <td><em>In progress</em></td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>8. Statistics</strong></td>
+    </tr>
+    <tr>
+      <td><strong>NHS Waiting Times — Statistical Analysis</strong></td>
+      <td>Python, SciPy, Statsmodels</td>
+      <td>Hypothesis testing, confidence intervals, and regression on NHS waiting list performance</td>
+      <td><em>Coming soon</em></td>
     </tr>
   </tbody>
 </table>
+
+More Machine Learning and LLM agent projects on my second account: [github.com/UthmanAdeyanju](https://github.com/UthmanAdeyanju)
 
 ---
 
