@@ -38,34 +38,34 @@ I build Power BI semantic models, star-schema data models, SQL data pipelines an
 <table>
   <thead>
     <tr>
-      <th width="140">Years</th>
-      <th width="330">Role</th>
-      <th width="430">Highlights</th>
+      <th width="160">Years</th>
+      <th width="320">Role</th>
+      <th width="420">Highlights</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>2025&nbsp;–&nbsp;Present</td>
+      <td>2025&nbsp;&#8288;–&#8288;&nbsp;Present</td>
       <td><strong>Founder &amp; Independent Financial Data Analyst</strong><br /><sub>Independent practice · Hampshire, UK</sub></td>
       <td>Built an NHS financial analytics pipeline (2.1M records, 206 Trusts); published the open-source fda-toolkit</td>
     </tr>
     <tr>
-      <td>2024&nbsp;–&nbsp;Present</td>
+      <td>2024&nbsp;&#8288;–&#8288;&nbsp;Present</td>
       <td><strong>Treasurer — Financial Strategy &amp; Governance</strong><br /><sub>UK registered charity · Board level</sub></td>
       <td>Oversees £1M+ in donor funds with a clean audit record; reserve forecasting flags funding gaps six months ahead</td>
     </tr>
     <tr>
-      <td>2024&nbsp;–&nbsp;2025</td>
+      <td>2024&nbsp;&#8288;–&#8288;&nbsp;2025</td>
       <td><strong>Financial Reporting Analyst</strong><br /><sub>Remote UK engagement</sub></td>
       <td>Forecast accuracy improved from ±10% to ±8.5% on a £2.3M budget; manual reporting requests cut 60% with self-service Power BI</td>
     </tr>
     <tr>
-      <td>2019&nbsp;–&nbsp;2022</td>
+      <td>2019&nbsp;&#8288;–&#8288;&nbsp;2022</td>
       <td><strong>Financial Data Analyst</strong><br /><sub>Remote UK collaboration</sub></td>
       <td>55+ Power BI dashboards and 80+ DAX measures; savings identified across 85 supplier contracts</td>
     </tr>
     <tr>
-      <td>2010&nbsp;–&nbsp;2018</td>
+      <td>2010&nbsp;&#8288;–&#8288;&nbsp;2018</td>
       <td><strong>Financial Accountant · Financial Business Analyst</strong></td>
       <td>Month-end close cut from 7 days to 3; 60+ board packs delivered with a clean 5-year audit record</td>
     </tr>
@@ -80,21 +80,19 @@ I build Power BI semantic models, star-schema data models, SQL data pipelines an
 
 <table>
   <tr>
-    <td width="33%" valign="top" align="center">
-      <a href="https://github.com/TeslimAdeyanju/NHS-Trust-Financial-Analytics"><img src="https://raw.githubusercontent.com/TeslimAdeyanju/NHS-Trust-Financial-Analytics/main/docs/images/pipeline_architecture.png" alt="NHS Trust Financial Analytics" height="200" /></a>
-      <br /><strong><a href="https://github.com/TeslimAdeyanju/NHS-Trust-Financial-Analytics">NHS Trust Financial Analytics</a></strong>
-      <br /><sub>206 NHS Trusts · 3 financial years · 2.18M rows<br />Python ETL → MySQL star schema → Power BI KPIs</sub>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <a href="https://github.com/TeslimAdeyanju/NHS-Waiting-List-Analytics"><img src="https://raw.githubusercontent.com/TeslimAdeyanju/NHS-Waiting-List-Analytics/main/assets/end-to-end-analytics-pipeline.png" alt="NHS Waiting List Analytics" height="200" /></a>
-      <br /><strong><a href="https://github.com/TeslimAdeyanju/NHS-Waiting-List-Analytics">NHS Waiting List Analytics</a></strong>
-      <br /><sub>4.4m → 7.7m waiting list, 2019–2025<br />Is it throughput, or suppressed referrals?</sub>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <a href="https://github.com/TeslimAdeyanju/Financial-Report-Intelligence-System"><img src="https://raw.githubusercontent.com/TeslimAdeyanju/Financial-Report-Intelligence-System/main/docs/assets/fris-workflow-white.svg" alt="Financial Report Intelligence System" height="200" /></a>
-      <br /><strong><a href="https://github.com/TeslimAdeyanju/Financial-Report-Intelligence-System">Financial Report Intelligence System</a></strong>
-      <br /><sub>Multi-agent AI on annual reports<br />Metrics, risk flags and evidence-based commentary</sub>
-    </td>
+    <td width="33%" align="center" valign="middle"><a href="https://github.com/TeslimAdeyanju/NHS-Trust-Financial-Analytics"><img src="https://raw.githubusercontent.com/TeslimAdeyanju/NHS-Trust-Financial-Analytics/main/docs/images/pipeline_architecture.png" alt="NHS Trust Financial Analytics" height="200" /></a></td>
+    <td width="33%" align="center" valign="middle"><a href="https://github.com/TeslimAdeyanju/NHS-Waiting-List-Analytics"><img src="https://raw.githubusercontent.com/TeslimAdeyanju/NHS-Waiting-List-Analytics/main/assets/end-to-end-analytics-pipeline.png" alt="NHS Waiting List Analytics" height="200" /></a></td>
+    <td width="33%" align="center" valign="middle"><a href="https://github.com/TeslimAdeyanju/Financial-Report-Intelligence-System"><img src="https://raw.githubusercontent.com/TeslimAdeyanju/Financial-Report-Intelligence-System/main/docs/assets/fris-workflow-white.svg" alt="Financial Report Intelligence System" height="200" /></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><strong><a href="https://github.com/TeslimAdeyanju/NHS-Trust-Financial-Analytics">NHS Trust Financial Analytics</a></strong></td>
+    <td align="center" valign="top"><strong><a href="https://github.com/TeslimAdeyanju/NHS-Waiting-List-Analytics">NHS Waiting List Analytics</a></strong></td>
+    <td align="center" valign="top"><strong><a href="https://github.com/TeslimAdeyanju/Financial-Report-Intelligence-System">Financial Report Intelligence System</a></strong></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><sub>Financial health of 206 NHS Trusts over 3 years (2.18M rows)</sub><br /><sub><strong>Python · MySQL · Power BI</strong></sub></td>
+    <td align="center" valign="top"><sub>What is driving the 4.4m → 7.7m waiting list (2019–2025)</sub><br /><sub><strong>Python · Databricks · Power BI</strong></sub></td>
+    <td align="center" valign="top"><sub>Metrics, risk flags and commentary from annual reports</sub><br /><sub><strong>Python · Multi-agent AI · LLM</strong></sub></td>
   </tr>
 </table>
 
