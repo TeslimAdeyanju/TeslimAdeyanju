@@ -350,32 +350,10 @@ More Machine Learning and LLM agent projects on my second account: [github.com/U
 
 ## Qualifications & Certifications
 
-<strong>Professional Qualifications</strong>
-<ul>
-  <li>ACA Chartered Accountant<br /><sub>ICAN · IFAC member body · 2019</sub></li>
-  <li>MSc Finance &amp; Investment Banking<br /><sub>Distinction · University of Hertfordshire · 2024</sub></li>
-</ul>
-
-<strong>Microsoft Certified · 2026</strong>
-<ul>
-  <li>PL-300 Power BI Data Analyst Associate</li>
-  <li>DP-900 Azure Data Fundamentals</li>
-</ul>
-
-<strong>Databricks Accreditations · 2026</strong>
-<ul>
-  <li>Databricks Fundamentals</li>
-  <li>Generative AI Fundamentals</li>
-  <li>SQL Analytics on Databricks</li>
-  <li>AI/BI for Data Analysts</li>
-</ul>
-
-<strong>SQL &amp; Machine Learning</strong>
-<ul>
-  <li>Associate Data Analyst in SQL<br /><sub>DataCamp · 2026</sub></li>
-  <li>SQL (Advanced)<br /><sub>HackerRank · 2026</sub></li>
-  <li>Machine Learning<br /><sub>SuperDataScience · 2024</sub></li>
-</ul>
+- **Professional:** ACA Chartered Accountant (ICAN, IFAC member body, 2019)&nbsp;· MSc Finance & Investment Banking, Distinction (University of Hertfordshire, 2024)
+- **Microsoft Certified (2026):** PL-300 Power BI Data Analyst Associate&nbsp;· DP-900 Azure Data Fundamentals
+- **Databricks Accreditations (2026):** Databricks Fundamentals&nbsp;· Generative AI Fundamentals&nbsp;· SQL Analytics&nbsp;· AI/BI for Data Analysts
+- **SQL & Machine Learning:** Associate Data Analyst in SQL (DataCamp, 2026)&nbsp;· SQL Advanced (HackerRank, 2026)&nbsp;· Machine Learning (SuperDataScience, 2024)
 
 ---
 
