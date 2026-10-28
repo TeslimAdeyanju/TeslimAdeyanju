@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://adeyanjuteslim.co.uk/assets/files/Teslim_Adeyanju_Resume.pdf"><strong>Download CV</strong></a> &nbsp;·&nbsp;
+  <a href="https://drive.google.com/file/d/1fHPqIkPL0AxcLaYZeB4iRKCTUEeXivD8/view"><strong>View CV</strong></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/adeyanjuteslimuthman">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://github.com/TeslimAdeyanju">GitHub</a> &nbsp;·&nbsp;
   <a href="https://adeyanjuteslim.co.uk">Portfolio</a> &nbsp;·&nbsp;
@@ -72,7 +72,7 @@ I build Power BI semantic models, star-schema data models, SQL data pipelines an
   </tbody>
 </table>
 
-<sub>Full history in my <a href="https://adeyanjuteslim.co.uk/assets/files/Teslim_Adeyanju_Resume.pdf">CV</a> and on <a href="https://www.linkedin.com/in/adeyanjuteslimuthman">LinkedIn</a>.</sub>
+<sub>Full history in my <a href="https://drive.google.com/file/d/1fHPqIkPL0AxcLaYZeB4iRKCTUEeXivD8/view">CV</a> and on <a href="https://www.linkedin.com/in/adeyanjuteslimuthman">LinkedIn</a>.</sub>
 
 ---
 
