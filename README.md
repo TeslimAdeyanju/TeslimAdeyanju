@@ -38,36 +38,30 @@ I build Power BI semantic models, star-schema data models, SQL data pipelines an
 <table>
   <thead>
     <tr>
-      <th width="160">Years</th>
-      <th width="320">Role</th>
-      <th width="420">Highlights</th>
+      <th width="350">Role</th>
+      <th width="550">Highlights</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>2025&nbsp;&#8288;–&#8288;&nbsp;Present</td>
-      <td><strong>Freelance Financial Data Analyst</strong><br /><sub>CoreInsight Financial Advisory Ltd · Hampshire, UK</sub></td>
-      <td>Built an NHS financial analytics pipeline (2.1M records, 206 Trusts); published the open-source fda-toolkit</td>
+      <td><strong>Freelance Financial Data Analyst</strong><br /><sub>CoreInsight Financial Advisory Ltd · 2025&nbsp;&#8288;–&#8288;&nbsp;Present</sub></td>
+      <td>NHS analytics pipeline (2.1M rows, 206 Trusts)<br />Published the open-source fda&#8209;toolkit</td>
     </tr>
     <tr>
-      <td>2024&nbsp;&#8288;–&#8288;&nbsp;Present</td>
-      <td><strong>Treasurer — Financial Strategy &amp; Governance</strong><br /><sub>UK registered charity · Board level</sub></td>
-      <td>Oversees £1M+ in donor funds with a clean audit record; reserve forecasting flags funding gaps six months ahead</td>
+      <td><strong>Treasurer, UK Charity</strong><br /><sub>Financial strategy &amp; governance · 2024&nbsp;&#8288;–&#8288;&nbsp;Present</sub></td>
+      <td>Oversees £1M+ in donor funds with a clean audit<br />Funding gaps flagged six months ahead</td>
     </tr>
     <tr>
-      <td>2024&nbsp;&#8288;–&#8288;&nbsp;2025</td>
-      <td><strong>Financial Reporting Analyst</strong><br /><sub>Remote UK engagement</sub></td>
-      <td>Forecast accuracy improved from ±10% to ±8.5% on a £2.3M budget; manual reporting requests cut 60% with self-service Power BI</td>
+      <td><strong>Financial Reporting Analyst</strong><br /><sub>Remote, UK · 2024&nbsp;&#8288;–&#8288;&nbsp;2025</sub></td>
+      <td>Forecast accuracy improved from ±10% to ±8.5%<br />60% fewer manual report requests via Power BI</td>
     </tr>
     <tr>
-      <td>2019&nbsp;&#8288;–&#8288;&nbsp;2022</td>
-      <td><strong>Financial Data Analyst</strong><br /><sub>Remote UK collaboration</sub></td>
-      <td>55+ Power BI dashboards and 80+ DAX measures; savings identified across 85 supplier contracts</td>
+      <td><strong>Financial Data Analyst</strong><br /><sub>Remote, UK · 2019&nbsp;&#8288;–&#8288;&nbsp;2022</sub></td>
+      <td>55+ Power BI dashboards and 80+ DAX measures<br />Savings found across 85 supplier contracts</td>
     </tr>
     <tr>
-      <td>2010&nbsp;&#8288;–&#8288;&nbsp;2018</td>
-      <td><strong>Financial Accountant · Financial Business Analyst</strong></td>
-      <td>Month-end close cut from 7 days to 3; 60+ board packs delivered with a clean 5-year audit record</td>
+      <td><strong>Financial Accountant &amp; Analyst</strong><br /><sub>2010&nbsp;&#8288;–&#8288;&nbsp;2018</sub></td>
+      <td>Month-end close cut from 7 days to 3<br />60+ board packs with a clean 5-year audit</td>
     </tr>
   </tbody>
 </table>
