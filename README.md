@@ -34,8 +34,6 @@ I build Power BI semantic models, star-schema data models, SQL data pipelines an
 
 ## Selected Portfolio Work
 
-## Flagship Projects
-
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
