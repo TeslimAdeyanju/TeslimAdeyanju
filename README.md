@@ -21,7 +21,7 @@
 
 ## About Me
 
-I am a Financial Data Analyst and ACA Chartered Accountant with over a decade of experience in financial reporting, FP&amp;A and data analytics.
+I am a Financial Data Analyst and Associate Chartered Accountant (ACA) with over a decade of experience in financial reporting, FP&amp;A and data analytics.
 
 I help organisations turn complex financial data into trusted, decision-ready insight. I combine finance and accounting expertise with Power BI, Databricks, Azure data services, SQL and Python to improve reporting quality, automate repeatable processes and strengthen financial controls.
 
