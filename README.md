@@ -38,41 +38,51 @@ I build Power BI semantic models, star-schema data models, SQL data pipelines an
 <table>
   <thead>
     <tr>
-      <th width="160">Years</th>
-      <th width="320">Role</th>
-      <th width="420">Highlights</th>
+      <th width="140">Years</th>
+      <th width="300">Role</th>
+      <th width="460">Highlights</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>2025&nbsp;&#8288;–&#8288;&nbsp;Present</td>
-      <td><strong>Freelance Financial Data Analyst</strong><br /><sub>CoreInsight Financial Advisory Ltd · Hampshire, UK</sub></td>
-      <td>Built an NHS financial analytics pipeline (2.1M records, 206 Trusts); published the open-source fda-toolkit</td>
+      <td>May 2025 to Present</td>
+      <td><strong>Financial Data Analyst</strong><br /><sub>CoreInsight Financial Advisory Ltd, Hampshire, UK</sub></td>
+      <td>Built an NHS financial analytics pipeline covering 206 Trusts and 2.18M records, and published the open source fda-toolkit. Cut reporting and reconciliation preparation from hours to minutes with reusable validation processes and audit trails.</td>
     </tr>
     <tr>
-      <td>2024&nbsp;&#8288;–&#8288;&nbsp;Present</td>
-      <td><strong>Treasurer — Financial Strategy &amp; Governance</strong><br /><sub>UK registered charity · Board level</sub></td>
-      <td>Oversees £1M+ in donor funds with a clean audit record; reserve forecasting flags funding gaps six months ahead</td>
+      <td>May 2025 to Present</td>
+      <td><strong>Strategic Finance and Governance Lead</strong><br /><sub>Asylos, UK registered charity, alongside the freelance work</sub></td>
+      <td>Led the annual budget so the Board approved it 60 days earlier, allocating £120,000 across eight projects. Reserve forecasting flags funding gaps up to six months ahead. Zero material audit findings across two consecutive audit cycles.</td>
     </tr>
     <tr>
-      <td>2024&nbsp;&#8288;–&#8288;&nbsp;2025</td>
-      <td><strong>Financial Reporting Analyst</strong><br /><sub>Remote UK engagement</sub></td>
-      <td>Forecast accuracy improved from ±10% to ±8.5% on a £2.3M budget; manual reporting requests cut 60% with self-service Power BI</td>
+      <td>Oct 2024 to Apr 2025</td>
+      <td><strong>Financial Reporting Analyst</strong><br /><sub>QS Dimensions, UK quantity surveying and property services business</sub></td>
+      <td>Led planning and analysis for a £2.3M business, improving forecast accuracy from ±10% to ±8.5%. Cut manual reporting by 60% with Power BI and identified about £50,000 in annual savings. Improved collections by 29%, reducing overdue balances by roughly £25,000.</td>
     </tr>
     <tr>
-      <td>2019&nbsp;&#8288;–&#8288;&nbsp;2022</td>
-      <td><strong>Financial Data Analyst</strong><br /><sub>Remote UK collaboration</sub></td>
-      <td>55+ Power BI dashboards and 80+ DAX measures; savings identified across 85 supplier contracts</td>
+      <td>Oct 2022 to Sep 2024</td>
+      <td><strong>Master of Science, Finance and Investment Banking</strong><br /><sub>University of Hertfordshire</sub></td>
+      <td>Distinction, top 5% of cohort, Hertfordshire Business School Excellence Award 2024.</td>
     </tr>
     <tr>
-      <td>2010&nbsp;&#8288;–&#8288;&nbsp;2018</td>
-      <td><strong>Financial Accountant · Financial Business Analyst</strong></td>
-      <td>Month-end close cut from 7 days to 3; 60+ board packs delivered with a clean 5-year audit record</td>
+      <td>Jan 2019 to Sep 2022</td>
+      <td><strong>Financial Data Analyst</strong><br /><sub>Misadel Ltd, Nigeria, multi location sales and distribution business</sub></td>
+      <td>Built 55+ Power BI dashboards and 80+ measures across eight business functions. Cut reporting turnaround by 40% and removed 10+ hours of weekly manual consolidation across four source systems. Reviewed 85 supplier contracts and 1,200+ stock keeping units.</td>
+    </tr>
+    <tr>
+      <td>Apr 2013 to Dec 2018</td>
+      <td><strong>Financial Analysis, Reporting and Business Intelligence</strong><br /><sub>CleanAce Solution Ltd, Nigeria</sub></td>
+      <td>Delivered 60+ Board packs in five years and about £125,000 in annual savings (8.3%) across 12 business units. Zero material audit findings across five consecutive audits.</td>
+    </tr>
+    <tr>
+      <td>Jan 2007 to Mar 2013</td>
+      <td><strong>Financial Business Analyst</strong><br /><sub>MTN Business Partner Ltd, Nigeria</sub></td>
+      <td>Cut month end close from seven days to three across 35 branches. Reduced critical reconciliation exceptions from about 12 a month to zero.</td>
     </tr>
   </tbody>
 </table>
 
-<sub>Full history in my <a href="https://drive.google.com/file/d/1fHPqIkPL0AxcLaYZeB4iRKCTUEeXivD8/view">CV</a> and on <a href="https://www.linkedin.com/in/adeyanjuteslimuthman">LinkedIn</a>.</sub>
+Full history in my [resume](https://drive.google.com/file/d/1fHPqIkPL0AxcLaYZeB4iRKCTUEeXivD8/view) and on [LinkedIn](https://www.linkedin.com/in/adeyanjuteslimuthman).
 
 ---
 
