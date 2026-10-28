@@ -352,19 +352,19 @@ More Machine Learning and LLM agent projects on my second account: [github.com/U
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="450" valign="top">
       <strong>Professional Qualifications</strong>
       <ul>
-        <li>ACA Chartered Accountant — ICAN (IFAC member body) · 2019</li>
-        <li>MSc Finance &amp; Investment Banking (Distinction) — University of Hertfordshire · 2024</li>
+        <li>ACA Chartered Accountant<br /><sub>ICAN · IFAC member body · 2019</sub></li>
+        <li>MSc Finance &amp; Investment Banking<br /><sub>Distinction · University of Hertfordshire · 2024</sub></li>
       </ul>
-      <strong>Microsoft Certified</strong>
+      <strong>Microsoft Certified · 2026</strong>
       <ul>
-        <li>PL-300 Power BI Data Analyst Associate · 2026</li>
-        <li>DP-900 Azure Data Fundamentals · 2026</li>
+        <li>PL-300 Power BI Data Analyst Associate</li>
+        <li>DP-900 Azure Data Fundamentals</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="450" valign="top">
       <strong>Databricks Accreditations · 2026</strong>
       <ul>
         <li>Databricks Fundamentals</li>
@@ -374,9 +374,9 @@ More Machine Learning and LLM agent projects on my second account: [github.com/U
       </ul>
       <strong>SQL &amp; Machine Learning</strong>
       <ul>
-        <li>Associate Data Analyst in SQL — DataCamp · 2026</li>
-        <li>SQL (Advanced) — HackerRank · 2026</li>
-        <li>Machine Learning — SuperDataScience · 2024</li>
+        <li>Associate Data Analyst in SQL<br /><sub>DataCamp · 2026</sub></li>
+        <li>SQL (Advanced)<br /><sub>HackerRank · 2026</sub></li>
+        <li>Machine Learning<br /><sub>SuperDataScience · 2024</sub></li>
       </ul>
     </td>
   </tr>
