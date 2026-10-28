@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>ACA Chartered Accountant &amp; Financial Data Analyst · Turning finance data into trusted, decision-ready insight with Power BI, SQL, Python, Databricks and Azure.</em>
+  <em>ACA Chartered Accountant &amp; Financial Data Analyst · Power BI · SQL · Python · Databricks</em>
 </p>
 
 <p align="center">
@@ -328,41 +328,81 @@ More Machine Learning and LLM agent projects on my second account: [github.com/U
 
 ## Qualifications & Certifications
 
-**Professional & Academic**
-- ACA — Associate Chartered Accountant · Institute of Chartered Accountants of Nigeria · 2019
-- MSc Finance and Investment Banking (with Advanced Research) — Distinction · University of Hertfordshire, UK · 2024
-
-**Microsoft**
-- Microsoft Certified: Power BI Data Analyst Associate (PL-300) · 2026
-- Microsoft Certified: Azure Data Fundamentals (DP-900) · 2026
-
-**Databricks**
-- SQL Analytics on Databricks · 2026
-- AI/BI for Data Analysts · 2026
-- Academy Accreditation — Databricks Fundamentals · 2026
-- Generative AI Fundamentals · 2026
-
-**SQL**
-- Associate Data Analyst in SQL — DataCamp · 2026
-- [SQL (Advanced) — HackerRank](https://www.hackerrank.com/certificates/8f2d203de628) · 2026
-
-**Finance & Data Science**
-- Management Reports 2025 Badge — Sage · 2025
-- Machine Learning — SuperDataScience · 2024
-- Reading Financial Statements — Corporate Finance Institute (CFI) · 2021
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Professional &amp; Academic</strong>
+      <ul>
+        <li>ACA — Associate Chartered Accountant · ICAN · 2019</li>
+        <li>MSc Finance and Investment Banking — Distinction · University of Hertfordshire · 2024</li>
+      </ul>
+      <strong>Microsoft</strong>
+      <ul>
+        <li>Power BI Data Analyst Associate (PL-300) · 2026</li>
+        <li>Azure Data Fundamentals (DP-900) · 2026</li>
+      </ul>
+      <strong>SQL</strong>
+      <ul>
+        <li>Associate Data Analyst in SQL — DataCamp · 2026</li>
+        <li><a href="https://www.hackerrank.com/certificates/8f2d203de628">SQL (Advanced) — HackerRank</a> · 2026</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Databricks</strong>
+      <ul>
+        <li>SQL Analytics on Databricks · 2026</li>
+        <li>AI/BI for Data Analysts · 2026</li>
+        <li>Academy Accreditation — Databricks Fundamentals · 2026</li>
+        <li>Generative AI Fundamentals · 2026</li>
+      </ul>
+      <strong>Finance &amp; Data Science</strong>
+      <ul>
+        <li>Management Reports 2025 Badge — Sage · 2025</li>
+        <li>Machine Learning — SuperDataScience · 2024</li>
+        <li>Reading Financial Statements — CFI · 2021</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Core Expertise
 
-| Expertise | Where you can see it |
-| --- | --- |
-| Financial Planning and Analysis | [Financial Performance Analytics Model](https://github.com/TeslimAdeyanju/Financial-Performance-Analytics-PowerBI) |
-| Budgeting, Forecasting and Variance Analysis | [Financial Forecasting &amp; Variance Analysis](https://github.com/UthmanAdeyanju/portfolio-04-financial-forecasting-variance) |
-| Reporting Automation and Process Optimisation | [FDA Toolkit](https://github.com/CoreInsightFinance/Financial-Data-Analysis-Toolkit-Workspace) |
-| Data Modelling for Financial Analytics | [NHS Trust Financial Analytics](https://github.com/TeslimAdeyanju/NHS-Trust-Financial-Analytics) |
-| Audit-Ready Analytics and Control Frameworks | [Financial Report Intelligence System](https://github.com/TeslimAdeyanju/Financial-Report-Intelligence-System) |
-| Performance Management and Decision Support | [NHS Waiting List Analytics](https://github.com/TeslimAdeyanju/NHS-Waiting-List-Analytics) |
+<table>
+  <thead>
+    <tr>
+      <th width="450">Expertise</th>
+      <th width="450">Where you can see it</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Financial Planning and Analysis</strong></td>
+      <td><a href="https://github.com/TeslimAdeyanju/Financial-Performance-Analytics-PowerBI">Financial Performance Analytics Model</a></td>
+    </tr>
+    <tr>
+      <td><strong>Budgeting, Forecasting and Variance Analysis</strong></td>
+      <td><a href="https://github.com/UthmanAdeyanju/portfolio-04-financial-forecasting-variance">Financial Forecasting &amp; Variance Analysis</a></td>
+    </tr>
+    <tr>
+      <td><strong>Reporting Automation and Process Optimisation</strong></td>
+      <td><a href="https://github.com/CoreInsightFinance/Financial-Data-Analysis-Toolkit-Workspace">FDA Toolkit</a></td>
+    </tr>
+    <tr>
+      <td><strong>Data Modelling for Financial Analytics</strong></td>
+      <td><a href="https://github.com/TeslimAdeyanju/NHS-Trust-Financial-Analytics">NHS Trust Financial Analytics</a></td>
+    </tr>
+    <tr>
+      <td><strong>Audit-Ready Analytics and Control Frameworks</strong></td>
+      <td><a href="https://github.com/TeslimAdeyanju/Financial-Report-Intelligence-System">Financial Report Intelligence System</a></td>
+    </tr>
+    <tr>
+      <td><strong>Performance Management and Decision Support</strong></td>
+      <td><a href="https://github.com/TeslimAdeyanju/NHS-Waiting-List-Analytics">NHS Waiting List Analytics</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
