@@ -177,7 +177,7 @@ pip install fda-toolkit
 <sub>Click a skill area to see its projects.</sub>
 
 <details open>
-<summary><strong>Power BI &amp; Data Visualisation</strong> &nbsp;·&nbsp; 5 projects</summary>
+<summary><strong>Power BI &amp; Data Visualisation</strong></summary>
 
 <table>
   <thead>
@@ -224,7 +224,7 @@ pip install fda-toolkit
 </details>
 
 <details>
-<summary><strong>SQL &amp; Databases</strong> &nbsp;·&nbsp; 2 projects</summary>
+<summary><strong>SQL &amp; Databases</strong></summary>
 
 <table>
   <thead>
@@ -253,7 +253,7 @@ pip install fda-toolkit
 </details>
 
 <details>
-<summary><strong>Python &amp; Automation</strong> &nbsp;·&nbsp; 2 projects</summary>
+<summary><strong>Python &amp; Automation</strong></summary>
 
 <table>
   <thead>
@@ -282,7 +282,7 @@ pip install fda-toolkit
 </details>
 
 <details>
-<summary><strong>Machine Learning</strong> &nbsp;·&nbsp; 3 projects</summary>
+<summary><strong>Machine Learning</strong></summary>
 
 <table>
   <thead>
@@ -317,7 +317,7 @@ pip install fda-toolkit
 </details>
 
 <details>
-<summary><strong>AI &amp; LLM Applications</strong> &nbsp;·&nbsp; 3 projects</summary>
+<summary><strong>AI &amp; LLM Applications</strong></summary>
 
 <table>
   <thead>
