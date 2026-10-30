@@ -35,7 +35,7 @@ I build Power BI semantic models, star-schema data models, SQL data pipelines an
 
 <table>
   <tr>
-    <td width="33%" align="center" valign="middle"><a href="https://github.com/TeslimAdeyanju/NHS-Trust-Financial-Analytics"><img src="https://raw.githubusercontent.com/TeslimAdeyanju/NHS-Trust-Financial-Analytics/main/docs/images/pipeline_architecture.png" alt="NHS Trust Financial Analytics" height="200" /></a></td>
+    <td width="33%" align="center" valign="middle"><a href="https://github.com/TeslimAdeyanju/NHS-Trust-Financial-Analytics"><img src="https://raw.githubusercontent.com/TeslimAdeyanju/NHS-Trust-Financial-Analytics/main/docs/images/nhs_trust_financial_analytics_lifecycle.png" alt="NHS Trust Financial Analytics" height="200" /></a></td>
     <td width="33%" align="center" valign="middle"><a href="https://github.com/TeslimAdeyanju/NHS-Waiting-List-Analytics"><img src="https://raw.githubusercontent.com/TeslimAdeyanju/NHS-Waiting-List-Analytics/main/assets/end-to-end-analytics-pipeline.png" alt="NHS Waiting List Analytics" height="200" /></a></td>
     <td width="33%" align="center" valign="middle"><a href="https://github.com/TeslimAdeyanju/Financial-Report-Intelligence-System"><img src="https://raw.githubusercontent.com/TeslimAdeyanju/Financial-Report-Intelligence-System/main/docs/assets/fris-workflow-white.svg" alt="Financial Report Intelligence System" height="200" /></a></td>
   </tr>
