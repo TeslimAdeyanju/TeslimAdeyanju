@@ -495,7 +495,7 @@ pip install fda-toolkit
 </p>
 
 <p align="center">
-  <img src="https://wakatime.com/share/@TeslimAdeyanju/fc9442ad-c46f-430f-81a8-6c82bd2ced35.svg" alt="WakaTime coding activity" width="600" />
+  <img src="https://wakatime.com/share/@TeslimAdeyanju/fa4046c1-62ec-4d28-be4d-0e4ed612d875.svg" alt="WakaTime coding activity" width="600" />
 </p>
 
 ---
