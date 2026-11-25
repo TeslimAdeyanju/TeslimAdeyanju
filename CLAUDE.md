@@ -18,8 +18,9 @@ The GitHub profile README for `TeslimAdeyanju` (the repo name matches the userna
 
 ## Automation
 
-- `.github/workflows/waka-readme.yml` runs `athul/waka-readme` daily and on manual dispatch, using the `WAKATIME_API_KEY` secret. That action only writes between `<!--START_SECTION:waka-->` / `<!--END_SECTION:waka-->` markers, and `README.md` has none, so right now the workflow doesn't change anything.
-- The GitHub Activity section uses `github-readme-stats.vercel.app` images, which render live and don't need a workflow.
+- There are no workflows. The GitHub Activity section is made only of live images: `github-readme-stats.vercel.app` cards and a public WakaTime share chart (`wakatime.com/share/@TeslimAdeyanju/<id>.svg`).
+- Don't reintroduce `athul/waka-readme` or any other workflow that calls the WakaTime API with an API key. WakaTime now refuses API keys outside editor plugins (403: "API Keys are only for plugins"), so those workflows fail.
+- GitHub doesn't render `<embed>`. Use `<img>` for SVG charts.
 
 ## Commits
 

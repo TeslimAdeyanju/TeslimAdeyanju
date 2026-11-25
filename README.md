@@ -494,8 +494,9 @@ pip install fda-toolkit
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeslimAdeyanju&layout=compact&hide_border=true&title_color=0A66C2&text_color=333333&bg_color=ffffff" height="165" />
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<p align="center">
+  <img src="https://wakatime.com/share/@TeslimAdeyanju/fc9442ad-c46f-430f-81a8-6c82bd2ced35.svg" alt="WakaTime coding activity" width="600" />
+</p>
 
 ---
 
