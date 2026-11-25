@@ -18,7 +18,7 @@ The GitHub profile README for `TeslimAdeyanju` (the repo name matches the userna
 
 ## Automation
 
-- `.github/workflows/waka-readme.yml` and `.github/workflows/aka-readme.yml` are identical. Both run `athul/waka-readme` daily and on manual dispatch, using the `WAKATIME_API_KEY` secret. That action only writes between `<!--START_SECTION:waka-->` / `<!--END_SECTION:waka-->` markers, and `README.md` has none, so right now the workflows don't change anything. The root `waka-readme.yml` is a third copy outside `.github/workflows/` and never runs.
+- `.github/workflows/waka-readme.yml` runs `athul/waka-readme` daily and on manual dispatch, using the `WAKATIME_API_KEY` secret. That action only writes between `<!--START_SECTION:waka-->` / `<!--END_SECTION:waka-->` markers, and `README.md` has none, so right now the workflow doesn't change anything.
 - The GitHub Activity section uses `github-readme-stats.vercel.app` images, which render live and don't need a workflow.
 
 ## Commits
