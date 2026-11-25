@@ -494,6 +494,9 @@ pip install fda-toolkit
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeslimAdeyanju&layout=compact&hide_border=true&title_color=0A66C2&text_color=333333&bg_color=ffffff" height="165" />
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
 ## Connect
